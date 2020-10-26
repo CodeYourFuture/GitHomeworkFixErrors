@@ -93,3 +93,21 @@ A place for us to store and share our code.
 What does it mean to "Commit your changes"?
 
 Send you code to Github
+
+## Question 16
+
+What program do we use to write code at CodeYourFuture?
+
+Microsoft Word
+
+## Question 17
+
+What do you use "Commit Messages" for?
+
+To record what changes you made to the code
+
+## Question 18
+
+Where can I look to find help with Git?
+
+The Git Cheatsheet!
