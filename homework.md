@@ -44,7 +44,7 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 What is JavaScript?
 
-A type of coffee
+A programming language used on the internet
 
 ## Question 8
 
@@ -87,3 +87,9 @@ You send the changes of your local repository to Github
 What is Github?
 
 A place for us to store and share our code.
+
+## Question 15
+
+What does it mean to "Commit your changes"?
+
+Send you code to Github
