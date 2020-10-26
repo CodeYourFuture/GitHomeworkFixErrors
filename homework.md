@@ -75,3 +75,15 @@ When you send a file over the internet
 What is the Git History log?
 
 It lets you see into the future
+
+## Question 13
+
+What does it meant to "push" changes to Github?
+
+You send the changes of your local repository to Github
+
+## Question 14
+
+What is Github?
+
+A place for us to store and share our code.
