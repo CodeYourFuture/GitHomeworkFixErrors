@@ -50,9 +50,9 @@ A scripting language used to create dynamic, interactive web pages
 
 What three problems does Git & Github solve?
 
-It makes file sharing easy
-Tracking changes made to a file is simple
-It facilitates collaboration and team work
+1. It makes file sharing easy
+2. Tracking changes made to a file is simple
+3. It facilitates collaboration and team work
 
 ## Question 9
 
