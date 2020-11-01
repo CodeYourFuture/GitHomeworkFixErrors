@@ -4,51 +4,53 @@
 
 What is 2 + 2?
 
-4
+5
 
 ## Question 2
 
 What is the opposite of Black?
 
-White
+Purple
 
 ## Question 3
 
 What is the  2 * 3 * 6 * 1 * 10 * 34?
 
-12240
+1322
 
 ## Question 4 
 
 What does HTML stand for?
 
-Hyper Text mark-up Language 
+Hyper Tall Massive Language
 
 ## Question 5
 
 What is CSS useful for?
 
-Cascading Style Sheets
+Making a website go faster
 
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
-h1 {
+```css
+#h1 {
 
 }
+```
 
 ## Question 7
 
 What is JavaScript?
 
-A programming language used for web development and it  gives web pages interactive elements that engage a user.
+A programming language used on the internet
 
 ## Question 8
 
 What three problem does Git & Github solve?
 
-
+When people want to show off code to each other they can put it on Github
 
 ## Question 9
 
