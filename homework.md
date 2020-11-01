@@ -47,21 +47,21 @@ A programming language used for web development and it  gives web pages interact
 ## Question 8
 
 What three problem does Git & Github solve?
-1 vesion control 
-2 Sharing and collabrating 
+1 version control 
+2 Sharing and collaborating 
 3 Control over Repositories or files 
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-It creates a copy of the oridignal repository on Github account 
+It creates a copy of the original repository on Github account 
 
 ## Question 10 
 
-What happens when you clone a repostory?
+What happens when you clone a repository?
 
-It creates a copy of the orodginal repository on a local machine(computer)
+It creates a copy of the ordinal repository on a local machine(computer)
 
 ## Question 11
 
@@ -84,7 +84,7 @@ pushing local commits(changes) to gthub remote
 
 What is Github?
 
-A place for version control and collabration. It lets us work together on a project from anywhere 
+A place for version control and collaboration. It lets us work together on a project from anywhere 
 
 ## Question 15
 
@@ -108,4 +108,4 @@ To record changes and why a change was made
 
 Where can I look to find help with Git?
 
-The Git Cheatsheet!
+The Git Cheat sheet!
