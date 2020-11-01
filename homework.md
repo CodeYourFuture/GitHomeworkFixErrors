@@ -16,7 +16,7 @@ White
 
 What is  2 * 3 * 6 * 1 * 10 * 34?
 
-1224
+12240
 
 ## Question 4 
 
