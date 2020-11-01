@@ -47,62 +47,62 @@ A programming language used for web development and it  gives web pages interact
 ## Question 8
 
 What three problem does Git & Github solve?
-
-
+1 vesion control 
+2 Sharing and collabrating 
+3 Control over Repositories or files 
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You delete it
+It creates a copy of the oridignal repository on Github account 
 
 ## Question 10 
 
 What happens when you clone a repostory?
 
-It send it to a friend
+It creates a copy of the orodginal repository on a local machine(computer)
 
 ## Question 11
 
 What is a Pull Request?
-
-When you send a file over the internet
+is a request made to  propose, discuss, and iterate on changes before you merge the changes into the project.
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+It is a list of commits made to the repository 
 
 ## Question 13
 
 What does it meant to "push" changes to Github?
 
-You send the changes of your local repository to Github
+pushing local commits(changes) to gthub remote 
 
 ## Question 14
 
 What is Github?
 
-A place for us to store and share our code.
+A place for version control and collabration. It lets us work together on a project from anywhere 
 
 ## Question 15
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+To save whatever changes you made to a repository(file) 
 
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+Visual Studio Code 
 
 ## Question 17
 
 What do you use "Commit Messages" for?
 
-To record what changes you made to the code
+To record changes and why a change was made 
 
 ## Question 18
 
