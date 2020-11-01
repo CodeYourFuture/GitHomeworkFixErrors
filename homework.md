@@ -43,7 +43,7 @@ h1 {
 
 What is JavaScript?
 
-A programming language used on the internet. It is the only language that browsers will read.
+A programming language used on the internet. It is the only language natively interpreted by most browsers.
 
 ## Question 8
 
