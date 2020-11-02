@@ -55,7 +55,7 @@ What three problem does Git & Github solve?
 
 What happens when you `fork` a repository?
 
-You delete it
+Fork a repository is having a copy of a file ready for changes
 
 ## Question 10
 
