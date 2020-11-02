@@ -58,7 +58,7 @@ What three problems does Git & Github solve?
 
 What happens when you `fork` a repository?
 
-You copy it
+You make a copy the repository and store it in your GitHub account, linking the two repositories in the process
 
 ## Question 10 
 
