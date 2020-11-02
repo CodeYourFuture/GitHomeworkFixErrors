@@ -26,7 +26,7 @@ What is the sum 2 * 3 * 6 * 1 * 10 * 34?
 What does HTML stand for?
 
 Hyper Tall Massive Language
-Hyper Text Markup Language
+Hypertext Markup Language
 
 ## Question 5
 
@@ -65,7 +65,7 @@ What three problems does Git & Github solve?
 What happens when you `fork` a repository?
 
 You delete it
-Fork is another term for 'copy'.
+Fork is another term for 'copy' and it allows changes to be made with out the original work being affected.
 
 ## Question 10 
 
@@ -81,7 +81,7 @@ Clone is another term for 'paste'.
 What is a Pull Request?
 
 When you send a file over the internet
-Pull request is another term for asking others for feedback.
+A pull request is another way of informing others about changes that have been pushed from GitHub Desktop. Once a pull request is opened, discussions can be had and there is an opportunity of reviewing potential changes before your changes are merged into the base branch.
 
 ## Question 12
 
