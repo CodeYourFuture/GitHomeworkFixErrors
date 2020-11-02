@@ -4,13 +4,13 @@
 
 What is 2 + 2?
 
-answer is 5
+answer is 4
 
 ## Question 2
 
 What is the opposite of Black?
 
-answer is Purple
+answer is white
 
 ## Question 3
 
