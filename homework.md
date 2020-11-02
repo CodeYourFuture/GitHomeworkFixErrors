@@ -92,7 +92,7 @@ is a code hosting platform for version control and collaboration
 
 What does it mean to "Commit your changes"?
 
-Save your repo to Github
+it means to save ypu repo
 
 ## Question 16
 
