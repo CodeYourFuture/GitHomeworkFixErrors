@@ -12,11 +12,11 @@ London Class 7 - Chris Owen - HTMl/CSS - Week 1
 
 # Your Details
 
-- Your Name:
-- Your City:
-- Your Slack Name:
+- Your Name:Harpal Bahia
+- Your City: Wolverhampton City
+- Your Slack Name: Harpal Bahia
 
 # Homework Details
 
-- Module:
-- Week:
+- Module: Fix Homework
+- Week:2
