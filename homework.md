@@ -50,7 +50,7 @@ A programming language for the website
 
 What three problem does Git & Github solve?
 
-When people want to share code to each other they can put it on Github,collaboration and 
+When people want to share code to each other they can put it on Github ,for collaboration and version control
 
 ## Question 9
 
@@ -68,13 +68,13 @@ It downloads a repository to your local computer from Github.
 
 What is a Pull Request?
 
-When you submit your code
+When you submit your code to show the changes you have made to a code.
 
 ## Question 12
 
-What is the Git History log?
+What is the Git History log
 
-It lets you see into the future
+its the record of the amount of commits made
 
 ## Question 13
 
@@ -86,13 +86,13 @@ You send the changes of your local repository to Github
 
 What is Github?
 
-A place for us to store and share our code.
+is a code hosting platform for version control and collaboration
 
 ## Question 15
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+Save your repo to Github
 
 ## Question 16
 
