@@ -12,11 +12,11 @@ London Class 7 - Chris Owen - HTMl/CSS - Week 1
 
 # Your Details
 
-- Your Name:
-- Your City:
-- Your Slack Name:
+- Your Name: Michael Biruk
+- Your City: Gateshead
+- Your Slack Name: Michael
 
 # Homework Details
 
-- Module:
-- Week:
+- Module: Git and GitHub
+- Week: 1
