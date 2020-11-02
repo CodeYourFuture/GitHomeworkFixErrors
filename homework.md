@@ -28,7 +28,7 @@ Hyper Text mark-up Language
 
 What is CSS useful for?
 
-Cascading Style Sheets
+Cascading Style Sheets(CSS) is used to style web Pages including colors,design, layout, and fonts.
 
 ## Question 6
 
@@ -61,7 +61,7 @@ It creates a copy of the original repository on Github account
 
 What happens when you clone a repository?
 
-It creates a copy of the ordinal repository on a local machine(computer)
+It creates a copy of the orginal repository on a local machine(computer)
 
 ## Question 11
 
