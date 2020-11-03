@@ -34,7 +34,9 @@ Making a website look stylish
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
-h1{}
+h1 {
+color: #ffff;
+}
 
 ## Question 7
 
