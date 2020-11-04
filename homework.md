@@ -28,17 +28,18 @@ Hyper Language, 2 correct    hypertext markup language
 
 What is CSS useful for?
 
-Making a website go faster
+The  look and style, size on screen  of a website. (the pretty bit)
 
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
-```css
-#h1 {
-
+css
+h1 {
+          font-family: Arial;
+               text-indent: 20px;
 }
-```
+
 
 ## Question 7
 
