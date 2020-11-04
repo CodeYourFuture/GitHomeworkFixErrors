@@ -92,13 +92,13 @@ A place for us to store, work on and share our code.
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+Send code to Github
 
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+VS Studio
 
 ## Question 17
 
