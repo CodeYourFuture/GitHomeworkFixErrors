@@ -35,7 +35,7 @@ CSS is used to give different style to a webpage.  It is used to define styles f
 Using CSS, how would I select every `<h1>` tag on the page?
 
 h1 {
-
+  
 }
 
 
