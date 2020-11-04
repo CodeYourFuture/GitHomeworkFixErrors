@@ -44,21 +44,21 @@ h1 {
 
 What is JavaScript?
 
-A programming language used to make web pages interactive.
+A programming language used to make web pages interactive
 
 ## Question 8
 
 What three problem does Git & Github solve?
 
 Collaborate from anywhere
-It keeps a history of all the changes made to a file.
+It keeps a history of all the changes made to a file
 Share code with other people
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You create a copy of that repository into your own account on Github.
+You create a copy of that repository into your own account on Github
 
 ## Question 10 
 
@@ -70,13 +70,13 @@ It has downloaded into your local machine
 
 What is a Pull Request?
 
-When you send a commit to main repository you are requesting a pull.
+When you send a commit to main repository you are requesting a pull
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the history of changes made to a file.
+It lets you see into the history of changes made to a file
 
 ## Question 13
 
