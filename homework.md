@@ -45,13 +45,20 @@ h1 {
 
 What is JavaScript?
 
-A programming language used on the internet
+A programming language used on the internet (add more detail)
+
+Object-oriented language
+
+working with html and css, helps to make your webpage more interactive, animated graphics, mouse and keyboard commands.
+
+https://www.bing.com/images/search?view=detailV2&ccid=rxlGWigC&id=2C1EDCD9327E9705C541D964106A36600056785F&thid=OIP.rxlGWigCFjSPxjYcHFxqeAHaFP&mediaurl=https%3a%2f%2fimage.slidesharecdn.com%2fhtmlcss-161121095145%2f95%2fhtml-and-css-crash-course-2-638.jpg%3fcb%3d1479721969&exph=452&expw=638&q=image+the+html+css+javascript&simid=608015903188780551&ck=E4B321E4F0DBB616F5340D9E2D0AB758&selectedIndex=30&FORM=IRPRST&ajaxhist=0
 
 ## Question 8
 
 What three problem does Git & Github solve?
 
-When people want to show off code to each other they can put it on Github
+When people want to show off code to each other they can put it on 
+Github
 
 ## Question 9
 
