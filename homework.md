@@ -64,7 +64,7 @@ You create a copy of that repository into your own account on Github.
 
 What happens when you clone a repository?
 
-It has downloaded into your local machine.
+It has downloaded into your local machine
 
 ## Question 11
 
