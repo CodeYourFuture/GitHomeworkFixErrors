@@ -4,77 +4,77 @@
 
 What is 2 + 2?
 
-5
+4
 
 ## Question 2
 
 What is the opposite of Black?
 
-Purple
+White
 
 ## Question 3
 
 What is the  2 * 3 * 6 * 1 * 10 * 34?
 
-1322
+12,240
 
 ## Question 4 
 
 What does HTML stand for?
 
-Hyper Tall Massive Language
+Hyper Text Markup Language 
 
 ## Question 5
 
 What is CSS useful for?
 
-Making a website go faster
+It is the styling of the website i.e. the colours, the fonts etc. 
 
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
-```css
-#h1 {
-
+h1 {
+    whatever command you would like. 
 }
-```
 
 ## Question 7
 
 What is JavaScript?
 
-A programming language used on the internet
+It is a text-based programming language. 
 
 ## Question 8
 
 What three problem does Git & Github solve?
 
-When people want to show off code to each other they can put it on Github
+1. It allows for easier contributions and to manage multiple edits simultaneously.
+2. It allows contributors to make changes or work on their own forked repositories. 
+3. It enables each user to have control whilst working colaboratively. 
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You delete it
+When you copy the original repo. 
 
 ## Question 10 
 
 What happens when you clone a repostory?
 
-It send it to a friend
+Is where you copy the repo to your local machine. 
 
 ## Question 11
 
 What is a Pull Request?
 
-When you send a file over the internet
+A pull request gets changes from github and merges them into your repo on your local machine. 
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+It lets you see all the committed changes made to the repo. 
 
 ## Question 13
 
@@ -86,7 +86,7 @@ You send the changes of your local repository to Github
 
 What is Github?
 
-A place for us to store and share our code.
+A place for us to store, work on and share our code.
 
 ## Question 15
 
@@ -104,10 +104,10 @@ Microsoft Word
 
 What do you use "Commit Messages" for?
 
-To record what changes you made to the code
+It saves your changes to the local repository. 
 
 ## Question 18
 
 Where can I look to find help with Git?
 
-The Git Cheatsheet!
+The Git Cheatsheet! Or the CYF slack channel :)
