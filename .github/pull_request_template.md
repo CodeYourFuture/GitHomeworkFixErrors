@@ -12,11 +12,11 @@ London Class 7 - Chris Owen - HTMl/CSS - Week 1
 
 # Your Details
 
-- Your Name:
-- Your City:
-- Your Slack Name:
+- Your Name: Jasvir Kaur
+- Your City: West Midlands
+- Your Slack Name: Jasvir Kaur
 
 # Homework Details
 
-- Module:
-- Week:
+- Module: Git and Github
+- Week: 2
