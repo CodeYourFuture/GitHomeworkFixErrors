@@ -97,19 +97,21 @@ moving the project to a remote or global location.
 
 What is Github?
 
-A place for us to store and share our code.
+A place for us to store and share our code. (not a bad answer)
+
+Github is a version control system (vcs)
 
 ## Question 15
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+comment work like a save command, with a summary and description.
 
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+Visual Studio or VS for short is what we have been told to use. but there are other text editor available. 
 
 ## Question 17
 
