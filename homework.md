@@ -57,26 +57,29 @@ https://www.bing.com/images/search?view=detailV2&ccid=rxlGWigC&id=2C1EDCD9327E97
 
 What three problem does Git & Github solve?
 
-When people want to show off code to each other they can put it on 
-Github
+Github is a version
+
+You can log changes to a document, many people can work on same document with out lots of versions or confusion. 
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You delete it
+making a copy of the original project that can then be reintroduced to the main project later.
+
+copy to my own space then back to the main project.
 
 ## Question 10 
 
 What happens when you clone a repostory?
 
-It send it to a friend
+you get a copy of the source you clone.
 
 ## Question 11
 
 What is a Pull Request?
 
-When you send a file over the internet
+
 
 ## Question 12
 
