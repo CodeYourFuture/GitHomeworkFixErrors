@@ -57,7 +57,7 @@ https://www.bing.com/images/search?view=detailV2&ccid=rxlGWigC&id=2C1EDCD9327E97
 
 What three problem does Git & Github solve?
 
-Github is a version
+Github is a version control system (vcs)
 
 You can log changes to a document, many people can work on same document with out lots of versions or confusion. 
 
@@ -79,19 +79,19 @@ you get a copy of the source you clone.
 
 What is a Pull Request?
 
-
+a request for the owner of the main respiratory, to pull the new change you have make back in to main respiratory.
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+The history give you a list of changes made when and by who.
 
 ## Question 13
 
 What does it meant to "push" changes to Github?
 
-You send the changes of your local repository to Github
+moving the project to a remote or global location.
 
 ## Question 14
 
