@@ -10,7 +10,7 @@ should be equal 4
 
 What is the opposite of Black?
 
-white
+white (purple old answer)
 
 ## Question 3
 
@@ -57,7 +57,7 @@ https://www.bing.com/images/search?view=detailV2&ccid=rxlGWigC&id=2C1EDCD9327E97
 
 What three problem does Git & Github solve?
 
-Github is a version control system (vcs)
+Github is a  web-based Git interface    git is version control system (vcs)
 
 You can log changes to a document, many people can work on same document with out lots of versions or confusion. 
 
@@ -117,10 +117,13 @@ Visual Studio or VS for short is what we have been told to use. but there are ot
 
 What do you use "Commit Messages" for?
 
-To record what changes you made to the code
+the information you attach to each change made. summary description.
 
 ## Question 18
 
 Where can I look to find help with Git?
 
-The Git Cheatsheet!
+There is a github cheat sheet,  but git is different???  two separate things.
+
+git needs a git is version control system (vcs)  but needs a  web-based Git interface  to use git ie github or maybe Visual Studio too.
+
