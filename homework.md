@@ -50,9 +50,9 @@ JavaScript is a text-based programming language used both on the client-side and
 
 What three problem does Git & Github solve?
 
-1:Makes it easy for you to keep track of collaborative and personal projects
-2:All files necessary for certain analyses can be held together and people can add in their code, graphs, etc. as the projects develop.
-3:Making it easy to explore the changes that occurred to it at different time points.
+1:keep track of collaborative and personal projects.
+2:Virsion Control
+3:Back up of data
 ## Question 9
 
 What happens when you `fork` a repository?
