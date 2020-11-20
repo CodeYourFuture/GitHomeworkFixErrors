@@ -75,32 +75,28 @@ When you send a file over the internet/ github web control version
 ## Question 12
 
 What is the Git History log?
-
 It allow you to see the project history
 
 ## Question 13
 
 What does it meant to "push" changes to Github?
-
 You send the changes of your local repository to Github
 
 ## Question 14
 
 What is Github?
-
 A place for us to store and share our code.
 
 ## Question 15
 
 What does it mean to "Commit your changes"?
-
 save your changings to the local repository
 
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
 
-CSS, HTML & javascript 
+visual studio code
 
 ## Question 17
 
