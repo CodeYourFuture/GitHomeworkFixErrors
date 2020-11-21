@@ -43,7 +43,7 @@ h1 {
 
 What is JavaScript?
 
-JavaScript is an interpreted programming language
+- JavaScript is an interpreted programming language
 
 ## Question 8
 
