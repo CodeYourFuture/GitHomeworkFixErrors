@@ -96,7 +96,7 @@ A place for us to store and share our code.
 
 What does it mean to "Commit your changes"?
 
-Send you're code to Github
+Sending you're changes to your code to your local repository before pushing it to Github
 
 ## Question 16
 
