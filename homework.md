@@ -60,7 +60,7 @@ You're able to view your older versions of your code without having to create di
 
 What happens when you `fork` a repository?
 
-You're copying a project from someone else, without affecting their original work 
+You're copying a repository from someone, to your repository lists in Github
 
 ## Question 10 
 
@@ -72,7 +72,7 @@ It downloads an entire repository to your local computer
 
 What is a Pull Request?
 
-When you tell the original creator or group that you made changes to their project, and it allows them to give a review or feedback on your changes
+When you tell the original creator or group that you made changes to their repository
 
 ## Question 12
 
