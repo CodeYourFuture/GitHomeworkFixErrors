@@ -4,25 +4,25 @@
 
 What is 2 + 2?
 
-5
+4
 
 ## Question 2
 
 What is the opposite of Black?
 
-Purple
+Light
 
 ## Question 3
 
 What is the  2 * 3 * 6 * 1 * 10 * 34?
 
-1322
+Don't have a calculator
 
 ## Question 4 
 
 What does HTML stand for?
 
-Hyper Tall Massive Language
+(Too tired to complete this)
 
 ## Question 5
 
