@@ -35,7 +35,7 @@ CSS stands for Cascading Style Sheets. It is the coding language that gives a we
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-#h1 {
+h1 {
 
 }
 ```
