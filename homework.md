@@ -35,9 +35,8 @@ Describes the presentation of a webpage or document.
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-<h1> {
-
-}</h1>
+h1 {
+}
 ```
 
 ## Question 7
@@ -58,7 +57,7 @@ What three problem does Git & Github solve?
 
 What happens when you `fork` a repository?
 
-You create a copy of the repository for yourself and make changes to it without affecting the original work
+You create a copy of the repository for yourself on your profile and make changes to it without affecting the original work
 
 ## Question 10 
 
@@ -70,7 +69,7 @@ When you clone a repository you are essentially creating a copy of it to your PC
 
 What is a Pull Request?
 
-A Pull Request will let you tell others about changes you've pushed to a branch in a repository.
+A Pull Request will let you tell others about changes you would like to push to a branch in a repository.
 
 ## Question 12
 
@@ -106,7 +105,7 @@ Visual Studio Code
 
 What do you use "Commit Messages" for?
 
-It is a mini discription of what you have changed in the document.
+It is a mini discription of what you have changed in the code.
 
 ## Question 18
 
