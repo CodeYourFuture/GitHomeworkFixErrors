@@ -62,7 +62,7 @@ It is a copy of the repository where you are allowed to make changes
 
 ## Question 10 
 
-What happens when you clone a repostory?
+What happens when you clone a repository?
 
 You make a copy of it and save it on your local computer
 
