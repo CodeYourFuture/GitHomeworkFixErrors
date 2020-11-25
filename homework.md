@@ -4,77 +4,77 @@
 
 What is 2 + 2?
 
-5
+4
 
 ## Question 2
 
 What is the opposite of Black?
 
-Purple
+white
 
 ## Question 3
 
 What is the  2 * 3 * 6 * 1 * 10 * 34?
 
-1322
+12240
 
 ## Question 4 
 
 What does HTML stand for?
 
-Hyper Tall Massive Language
+Hyper Text Markup Language
 
 ## Question 5
 
 What is CSS useful for?
 
-Making a website go faster
+Making a website look beautiful
 
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
-```css
-#h1 {
+h1{
 
 }
-```
 
 ## Question 7
 
 What is JavaScript?
 
-A programming language used on the internet
+A programming language used for making web pages interactive
 
 ## Question 8
 
 What three problem does Git & Github solve?
 
-When people want to show off code to each other they can put it on Github
+1. Allows for collaboration among teams 
+2. Helpes in tracking changes in code or a program
+3. Used for hosting code and programs
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You delete it
+You can make a copy of the repository you have forked to your own profile
 
 ## Question 10 
 
 What happens when you clone a repostory?
 
-It send it to a friend
+You make copy of the repository to your local storage on your computer
 
 ## Question 11
 
 What is a Pull Request?
 
-When you send a file over the internet
+Asking the own of a repository to approve changes you have made to the repository
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+A track record of all changes that have been made to a code file or program
 
 ## Question 13
 
@@ -86,19 +86,19 @@ You send the changes of your local repository to Github
 
 What is Github?
 
-A place for us to store and share our code.
+A place for us to store and share our code and programs.
 
 ## Question 15
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+Save changes to your local repository
 
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+Visual Studio Code
 
 ## Question 17
 
@@ -110,4 +110,4 @@ To record what changes you made to the code
 
 Where can I look to find help with Git?
 
-The Git Cheatsheet!
+The Git Cheatsheet, googling, and asking on the slack group among others.
