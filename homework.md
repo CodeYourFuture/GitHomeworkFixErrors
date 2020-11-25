@@ -14,15 +14,15 @@ white
 
 ## Question 3
 
-What is the  2 * 3 * 6 * 1 * 10 * 34?
+What is the 2 _ 3 _ 6 _ 1 _ 10 \* 34?
 
 12240
 
-## Question 4 
+## Question 4
 
 What does HTML stand for?
 
-Hyper text markup  Language
+Hyper text markup Language
 
 ## Question 5
 
@@ -36,7 +36,6 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
 h1 {
-
 }
 ```
 
@@ -44,33 +43,34 @@ h1 {
 
 What is JavaScript?
 
-A programming language used use for the web. 
+JavaScript is a programming language used primarily by Web browsers to create a dynamic and interactive experience for the user.
 
 ## Question 8
 
 What three problem does Git & Github solve?
 
 When people want to show off code to each other they can put it on Github
-collabrate / work together on same file 
-Track changes in your code across versions
+collaborate / work together on same file
+Track changes in your code across versions with Gits Version Control
+GitHub is a cloud-based hosting service that lets you manage Git repositories. If you have open-source projects that use Git, then GitHub is designed to help you better manage them
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You copy it
+You create a personal copy of someones elses project
 
-## Question 10 
+## Question 10
 
 What happens when you clone a repostory?
 
-you download it
+you download it the repository to your local computer
 
 ## Question 11
 
 What is a Pull Request?
 
-When you send a file over the internet/ github web control version
+A pull request is the request sent to the originator of the work/code to let them know that you proposing changes to their work. They can either accept it or decline it.
 
 ## Question 12
 
@@ -85,12 +85,12 @@ You send the changes of your local repository to Github
 ## Question 14
 
 What is Github?
-A place for us to store and share our code.
+A place for us to store and share our code/ GitHub is a code hosting platform for version control and collaboration
 
 ## Question 15
 
 What does it mean to "Commit your changes"?
-save your changings to the local repository
+Save your changes to the local repository
 
 ## Question 16
 
