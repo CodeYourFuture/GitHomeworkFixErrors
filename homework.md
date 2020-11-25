@@ -27,8 +27,8 @@ Hyper text markup Language
 ## Question 5
 
 What is CSS useful for?
-
 CSS stands for Cascading Style Sheets. It is the coding language that gives a website its look and layout
+It is the language for describing the presentation of Web pages, including colors, layout, and fonts
 
 ## Question 6
 
@@ -58,34 +58,41 @@ GitHub is a cloud-based hosting service that lets you manage Git repositories. I
 
 What happens when you `fork` a repository?
 
-You create a personal copy of someones elses project
+You create a personal copy of someones elses project. Create a replica of it so that you can make changes to it without affecting the original code
 
 ## Question 10
 
 What happens when you clone a repostory?
 
-you download it the repository to your local computer
+You download the repository to your local computer/ You copy or clone it to your local PC so you can make changes to it
 
 ## Question 11
 
 What is a Pull Request?
 
-A pull request is the request sent to the originator of the work/code to let them know that you proposing changes to their work. They can either accept it or decline it.
+A pull request is when you propose changes to someone elses code/work, you sending them a equest to review the changes you proposing, if they agree with it they can merge it into their code/work
 
 ## Question 12
 
 What is the Git History log?
-It allow you to see the project history
+
+It is the history of all changes, modification done/project history
 
 ## Question 13
 
 What does it meant to "push" changes to Github?
+
 You send the changes of your local repository to Github
+
+You send the changes/commit history from your local repository to Github
 
 ## Question 14
 
 What is Github?
+
 A place for us to store and share our code/ GitHub is a code hosting platform for version control and collaboration
+
+GitHub is a code hosting platform for version control and collaboration
 
 ## Question 15
 
@@ -96,7 +103,7 @@ Save your changes to the local repository
 
 What program do we use to write code at CodeYourFuture?
 
-visual studio code
+visual studio code-HTML
 
 ## Question 17
 
@@ -108,4 +115,4 @@ To record what changes you made to the code
 
 Where can I look to find help with Git?
 
-The Git Cheatsheet!
+The Git Cheat-sheet! Ask fellow learners, ask on slack, check on internet/Youtube
