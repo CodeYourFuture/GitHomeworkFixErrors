@@ -50,14 +50,18 @@ A programming language used on the internet, more specifically used in web brows
 
 What three problems does Git & Github solve?
 
-When people want to share code to each other they can put it on Github
+It allows people share code with each other
+
+It allows you to work on the same file at the same time - colloborate
+
+It keeps track of every version saved and gives you access to a full history of changes, allowing you to go back to any version of the file at any time.
 
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You delete it
+You create a copy of 
 
 ## Question 10 
 
