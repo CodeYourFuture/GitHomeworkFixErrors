@@ -156,4 +156,4 @@ What do you use "Commit Messages" for?
 
 Where can I look to find help with Git?
 
-The Git Cheatsheets and the amazing people on Slack.
+The Git Cheatsheets and the amazing people to assit you on Slack.
