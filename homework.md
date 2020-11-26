@@ -4,41 +4,41 @@
 
 What is 2 + 2?
 
-5
+4
 
 ## Question 2
 
 What is the opposite of Black?
 
-Purple
+White
 
 ## Question 3
 
 What is the  2 * 3 * 6 * 1 * 10 * 34?
 
-1322
+12240
 
 ## Question 4 
 
 What does HTML stand for?
 
-Hyper Tall Massive Language
+Hypertext Markup Language
 
 ## Question 5
 
 What is CSS useful for?
 
-Making a website go faster
+Styling and describing a website using colours etc
 
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
-```css
-#h1 {
+
+h1 {
 
 }
-```
+
 
 ## Question 7
 
@@ -50,37 +50,38 @@ A programming language used on the internet
 
 What three problem does Git & Github solve?
 
-When people want to show off code to each other they can put it on Github
-
+1. Helps us to share information/code
+2. Allows others to contribute to the same projecct and propose changes
+3. Enables us to save our work with checkpoints so we can go back
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You delete it
+You 'host' a copy of that repository as your own so you can make changes to it.
 
 ## Question 10 
 
 What happens when you clone a repostory?
 
-It send it to a friend
+You copy/download the repository from Github onto your computer
 
 ## Question 11
 
 What is a Pull Request?
 
-When you send a file over the internet
+A proposal of your changes/work and a request for someone to review/merge that work
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+It lets you see and track all the changes made in a repository
 
 ## Question 13
 
 What does it meant to "push" changes to Github?
 
-You send the changes of your local repository to Github
+You send the changes of your repository from your local computer to Github
 
 ## Question 14
 
@@ -92,22 +93,22 @@ A place for us to store and share our code.
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+Save your code onto a repository on Git
 
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+Visual Studio Code
 
 ## Question 17
 
 What do you use "Commit Messages" for?
 
-To record what changes you made to the code
+We use this when saving changes made on a local repository 
 
 ## Question 18
 
 Where can I look to find help with Git?
 
-The Git Cheatsheet!
+You can find help on the Git Cheatsheet, Google, Youtube or the Git documentation
