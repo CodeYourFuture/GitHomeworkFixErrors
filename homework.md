@@ -16,19 +16,19 @@ White
 
 What is the  2 * 3 * 6 * 1 * 10 * 34?
 
-1322
+12240
 
 ## Question 4 
 
 What does HTML stand for?
 
-Hyper Tall Massive Language
+Hypertext Markup Language
 
 ## Question 5
 
 What is CSS useful for?
 
-Making a website go faster
+Making a website more colourful/Styling a website
 
 ## Question 6
 
@@ -44,13 +44,14 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 What is JavaScript?
 
-A programming language used on the internet
+A programming language used on the internet, more specifically used in web browsers to allow interactive content.
 
 ## Question 8
 
-What three problem does Git & Github solve?
+What three problems does Git & Github solve?
 
-When people want to show off code to each other they can put it on Github
+When people want to share code to each other they can put it on Github
+
 
 ## Question 9
 
