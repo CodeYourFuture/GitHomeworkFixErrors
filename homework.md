@@ -4,38 +4,38 @@
 
 What is 2 + 2?
 
-5
+4
 
 ## Question 2
 
 What is the opposite of Black?
 
-Purple
+White
 
 ## Question 3
 
 What is the  2 * 3 * 6 * 1 * 10 * 34?
 
-1322
+12240
 
 ## Question 4 
 
 What does HTML stand for?
 
-Hyper Tall Massive Language
+Hypertext Markup Language
 
 ## Question 5
 
 What is CSS useful for?
 
-Making a website go faster
+Styling HTML
 
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-#h1 {
+h1 {
 
 }
 ```
@@ -44,37 +44,39 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 What is JavaScript?
 
-A programming language used on the internet
+JavaScript is a scripting or programming language that allows you to implement complex features on web pages
 
 ## Question 8
 
 What three problem does Git & Github solve?
 
-When people want to show off code to each other they can put it on Github
+Helps us to share information.
+Enables people to make their own changes to that information, and share it back.
+Allows us to make checkpoints so that we can save our work as we go along.
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You delete it
+You produce a personal copy of someone else's project.
 
 ## Question 10 
 
 What happens when you clone a repostory?
 
-It send it to a friend
+You copy the repository from GitHub to your local machine.
 
 ## Question 11
 
 What is a Pull Request?
 
-When you send a file over the internet
+It is proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch.
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+Information about previous commits that have occurred in a project.
 
 ## Question 13
 
@@ -92,13 +94,13 @@ A place for us to store and share our code.
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+Save your changes
 
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+Visual Studio
 
 ## Question 17
 
