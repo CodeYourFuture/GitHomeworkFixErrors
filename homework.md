@@ -61,25 +61,25 @@ It keeps track of every version saved and gives you access to a full history of 
 
 What happens when you `fork` a repository?
 
-You create a copy of 
+You create a copy of the repo in the cloud
 
 ## Question 10 
 
 What happens when you clone a repostory?
 
-It send it to a friend
+You create a copy onto your local device
 
 ## Question 11
 
 What is a Pull Request?
 
-When you send a file over the internet
+When you make changes to a repo that you do not own, you can request that the owner look at those changes and then merge them into the original file/repo
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+It is a comprehensive log of the changes you have made to the repo/file since creating it.
 
 ## Question 13
 
@@ -91,28 +91,28 @@ You send the changes of your local repository to Github
 
 What is Github?
 
-A place for us to store and share our code.
+A place for us to store and share our code as it is cloud based.
 
 ## Question 15
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+To save the changes you have made to the file or repo.
 
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+Visual Studio Code - VSC
 
 ## Question 17
 
 What do you use "Commit Messages" for?
 
-To record what changes you made to the code
+To record what changes you made and give clear description of what you have done/changed.
 
 ## Question 18
 
 Where can I look to find help with Git?
 
-The Git Cheatsheet!
+The Git Cheatsheet or the site support or desktop app support or by asking in Slack.
