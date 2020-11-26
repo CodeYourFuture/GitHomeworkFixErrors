@@ -118,4 +118,4 @@ To record what changes you made to the code
 
 Where can I look to find help with Git?
 
-The Github Desktop Cheatsheet!
+The Github Desktop Cheatsheet!.
