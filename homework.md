@@ -72,7 +72,7 @@ It's when you are downloading an entire repo to your local machine.
 
 What is a Pull Request?
 
-You are telling the owner of the repo that you made some changes to thier repo.
+You are telling the owner of the repo that you made some changes to their repo.
 
 ## Question 12
 
