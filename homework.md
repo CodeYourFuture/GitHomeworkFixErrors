@@ -22,13 +22,13 @@ What is the  2 * 3 * 6 * 1 * 10 * 34?
 
 What does HTML stand for?
 
-Hyper Text Markup Language
+Hypertext Markup Language
 
 ## Question 5
 
 What is CSS useful for?
 
-Styling and describing a website
+Styling and describing a website using colours etc
 
 ## Question 6
 
@@ -81,7 +81,7 @@ It lets you see and track all the changes made in a repository
 
 What does it meant to "push" changes to Github?
 
-You send the changes of your local repository to Github
+You send the changes of your repository from your local computer to Github
 
 ## Question 14
 
@@ -93,7 +93,7 @@ A place for us to store and share our code.
 
 What does it mean to "Commit your changes"?
 
-Save your code onto a repository
+Save your code onto a repository on Git
 
 ## Question 16
 
