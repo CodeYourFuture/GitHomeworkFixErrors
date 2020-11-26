@@ -11,6 +11,7 @@ What is 2 + 2?
 What is the opposite of Black?
 
 Red
+White
 
 ## Question 3
 
@@ -56,25 +57,30 @@ Allow us to make checkpoints so that we can save our work as we go along
 
 What happens when you `fork` a repository?
 
-You copy it
+You copy
+you creat a copy of it to your Github profile
 
 ## Question 10 
 
 What happens when you clone a repostory?
 
 You download it to your computer
+You creat a copy of it to your local computer
 
 ## Question 11
 
 What is a Pull Request?
 
-Pull request means submitting one's work so that someone can look into it and make possible changes
+
+When you want to suggest a change to a repository you open a pull request
 
 ## Question 12
 
 What is the Git History log?
 
 It is a History tab on GitHub Desktop whereas when you click you can see list of all commits thats been made in the repository
+
+It lets you see all of the changes that have happened in a repository
 
 ## Question 13
 
@@ -94,6 +100,7 @@ What does it mean to "Commit your changes"?
 
 It means to save your changes
 
+Save a change that you have made to your local repository using git
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
@@ -105,6 +112,7 @@ Visual Studio Code
 What do you use "Commit Messages" for?
 
 To save massages
+To record what changes you made to the code
 
 ## Question 18
 
