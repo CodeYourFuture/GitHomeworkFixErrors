@@ -22,7 +22,7 @@ What is the 2 _ 3 _ 6 _ 1 _ 10 \* 34?
 
 What does HTML stand for?
 
-Hyper Text Mark-up Language
+Hypertext Mark-up Language
 
 ## Question 5
 
@@ -43,7 +43,7 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 What is JavaScript?
 
-A web programming language that can calculate and validate data
+A dynamic weakly typed programming language that performs both backend andd frontend tasks for web, mobile and desktop applications. 
 
 ## Question 8
 
@@ -92,8 +92,7 @@ A website where you can access Git services.
 
 What does it mean to "Commit your changes"?
 
-Send your code to Github
-
+To save the changes you have done on the repository on Git.
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
