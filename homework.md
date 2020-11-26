@@ -28,7 +28,7 @@ Hyper Text Markup Language
 
 What is CSS useful for?
 
-STyling and describing a website
+Styling and describing a website
 
 ## Question 6
 
