@@ -4,38 +4,38 @@
 
 What is 2 + 2?
 
-5
+4
 
 ## Question 2
 
 What is the opposite of Black?
 
-Purple
+White
 
 ## Question 3
 
 What is the  2 * 3 * 6 * 1 * 10 * 34?
 
-1322
+12 240
 
 ## Question 4 
 
 What does HTML stand for?
 
-Hyper Tall Massive Language
+Hypertext Markup Language
 
 ## Question 5
 
 What is CSS useful for?
 
-Making a website go faster
+It gives the style to your webpage using colors, layout and fonts.
 
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-#h1 {
+h1 {
 
 }
 ```
@@ -44,67 +44,71 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 What is JavaScript?
 
-A programming language used on the internet
+JavaScript is a Scripting language that was initially created to make your webpages alive.
 
 ## Question 8
 
 What three problem does Git & Github solve?
 
-When people want to show off code to each other they can put it on Github
+It helps us to share information.
+
+It allows people to make thier own changes to other peoples repo, and share it back with them.
+
+It allows you to keep track with every change you made using checkpoints to your repo and if any mistake was done, you will know where you went wrong by checking your checkpoints.
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You delete it
+You are copying the owners repo to your repo list in your Github profile.
 
 ## Question 10 
 
 What happens when you clone a repostory?
 
-It send it to a friend
+It's when you are downloading an entire repo to your local machine.
 
 ## Question 11
 
 What is a Pull Request?
 
-When you send a file over the internet
+You are telling the owner of the repo that you made some changes to thier repo.
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+It allows you to see the history log of every commit that you made within your repo.
 
 ## Question 13
 
 What does it meant to "push" changes to Github?
 
-You send the changes of your local repository to Github
+You uploading your repo from your local machine to your Github profile.
 
 ## Question 14
 
 What is Github?
 
-A place for us to store and share our code.
+Its a repo hosting service site that allows you to share and store our code.
 
 ## Question 15
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+It's like saving your changes you made to your repo on your local machine.
 
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+Visual Studio Code
 
 ## Question 17
 
 What do you use "Commit Messages" for?
 
-To record what changes you made to the code
+To record what changes you made to the code.
 
 ## Question 18
 
