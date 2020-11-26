@@ -37,7 +37,7 @@ What does HTML stand for?
 <<<<<<< Updated upstream
 Hyper Text Markup Language
 =======
-Hyper Text Markup Language.
+HyperText Markup Language.
 >>>>>>> Stashed changes
 
 ## Question 5
@@ -55,7 +55,7 @@ CSS is used to define styles for your web pages.
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-*h1 {
+h1 {
 
 }
 ```
