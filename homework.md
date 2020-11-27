@@ -35,7 +35,7 @@ Styling a web page
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-.h1 {
+h1 {
 }
 ```
 
