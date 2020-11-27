@@ -36,7 +36,7 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
 
-#h1 {
+h1 {
 
 }
 ```
@@ -65,19 +65,19 @@ You copy the work and are given a link that allows you to work on the project wi
 
 What happens when you clone a repostory?
 
-You are copying the repository so you can change it without touching the original
+You are copying the repository so you can change it without touching the original, cloning is specific to copying on your local device
 
 ## Question 11
 
 What is a Pull Request?
 
-Pull requests let you tell others about changes you've pushed to a branch in a repository
+Pull requests let you tell others about changes you've pushed to a branch in a repository specifically becuase the Repo belongs to them
 
 ## Question 12
 
 What is the Git History log?
 
-It allows you to see all the changes made on Git
+It allows you to see all the changes made on Git towards a specific file(s)
 
 ## Question 13
 
