@@ -22,7 +22,7 @@ What is the  2 * 3 * 6 * 1 * 10 * 34?
 
 What does HTML stand for?
 
-Hyper Text Markup Language
+HyperText Markup Language
 
 ## Question 5
 
@@ -81,7 +81,7 @@ Git log lists the commits made in that repository in reverse chronological order
 
 What does it meant to "push" changes to Github?
 
-Pushing to GitHub means uploading to a GitHub repository.
+Pushing to GitHub means uploading changes after you haved committed it to a GitHub repository.
 
 ## Question 14
 
@@ -93,8 +93,7 @@ GitHub Inc. is a subsidiary of Microsoft which provides hosting for software dev
 
 What does it mean to "Commit your changes"?
 
-If you have made changes to the same file in both your local copy(on your harddrive) of a Git repository and a remote repository, you'll encounter the “commit your changes or stash them before you can merge.
-
+When you commit you are saving the changes you have made.
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
@@ -105,7 +104,7 @@ Visual Studio Code Editor.
 
 What do you use "Commit Messages" for?
 
- The commit command is used to save changes to a local repository after staging in Git.
+ Before you commit you have  have to tell Git which changes you want to save as you might have made tons of edits
 
 ## Question 18
 
