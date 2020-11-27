@@ -40,7 +40,7 @@ h1 {
 }
 ```
 
-## Question 7
+## Question 7  
 
 What is JavaScript?
 
