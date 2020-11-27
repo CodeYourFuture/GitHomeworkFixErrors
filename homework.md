@@ -50,7 +50,9 @@ A programming language used on the internet
 
 What three problem does Git & Github solve?
 
-When people want to show off code to each other they can put it on Github
+When people want to show off code to each other they can put it on Github.
+when people want to work collabpratively with others.
+Allows people to share their code.
 
 ## Question 9
 
@@ -92,7 +94,7 @@ A place for us to store and share our code.
 
 What does it mean to "Commit your changes"?
 
-Send your code to Github
+Save changes that you have made to your local repository.
 
 ## Question 16
 
