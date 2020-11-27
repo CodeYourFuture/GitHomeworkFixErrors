@@ -2,7 +2,7 @@
 
 My child - Linus - came home today from school with his homework but he got SOME of the questions wrong!
 
-Can you help him to fix or improve the answers to his homework?
+Can you help him fix or improve the answers to his homework?
 
 1. You should `fork` this repository
 2. Clone the repository to your computer
