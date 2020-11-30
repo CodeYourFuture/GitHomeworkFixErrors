@@ -14,7 +14,7 @@ White
 
 ## Question 3
 
-What is the 2 _ 3 _ 6 _ 1 _ 10 \* 34?
+What is the 2 * 3 * 6 * 1 * 10 * 34?
 
 12240
 
@@ -49,37 +49,39 @@ A programming language to make webpages interactive.
 
 What three problem does Git & Github solve?
 
-1.
+1. keep track of the history of the changes. it is simply used for version control.
+2. allow multiple people do their own changes and merge them into one source.
+3. allow you revert to specific versions should you need to.
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You delete it
+You copy the project and make changes without affecting the original project.
 
 ## Question 10
 
 What happens when you clone a repository?
 
-It send it to a friend
+You copy an existing repository to your local computer.
 
 ## Question 11
 
 What is a Pull Request?
 
-When you send a file over the internet
+it notifies the author of the repository that you have completed some tasks.
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+let you see the previous versions and changes.
 
 ## Question 13
 
 What does it meant to "push" changes to Github?
 
-You send the changes of your local repository to Github
+You send the changes of your local repository to Github.
 
 ## Question 14
 
@@ -103,7 +105,7 @@ Visual Studio Code
 
 What do you use "Commit Messages" for?
 
-To record clear and helpful messages adding what changed and why.
+To make clear and helpful messages adding what changed and why.
 
 ## Question 18
 
