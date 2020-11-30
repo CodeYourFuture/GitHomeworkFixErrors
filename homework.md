@@ -1,5 +1,13 @@
 # Linus's Homework
 
+ Name:Ali Nosratipour
+ City: London
+ Slack Name:london-class7
+
+Homework Details
+Module:Git/Github
+Week: 2
+
 ## Question 1
 
 What is 2 + 2?
