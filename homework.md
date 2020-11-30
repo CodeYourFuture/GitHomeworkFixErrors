@@ -59,7 +59,7 @@ You make your own copy of someone elses repository
 
 ## Question 10 
 
-What happens when you clone a repostory?
+What happens when you clone a repository?
 
 You copy/receive the repository to your local machine.
 
@@ -85,7 +85,7 @@ You send the changes of your local repository to Github
 
 What is Github?
 
-A place for us to store and share our code.
+A place for us to store, share and collaborate on code. People also use it for poems,book etc.
 
 ## Question 15
 
