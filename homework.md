@@ -34,8 +34,9 @@ Css is the language for describing the presentation of Web pages, including colo
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
-#h1 
-
+h1 {
+       
+}
 ## Question 7
 
 What is JavaScript?
