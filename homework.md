@@ -28,7 +28,7 @@ Hypertext Markup Language
 
 What is CSS useful for?
 
-Cascading Style Sheets
+To stylise a web page
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
