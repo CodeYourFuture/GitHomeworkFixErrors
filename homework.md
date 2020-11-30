@@ -98,7 +98,7 @@ It is like taking a snapshot of your repo. It saves our repo but everytime it gi
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Visual Studio codde
+Microsoft Visual Studio Code
 
 ## Question 17
 
@@ -110,4 +110,4 @@ To record what changes you made to the code
 
 Where can I look to find help with Git?
 
-The Git Cheatsheet!
+The Git Cheatsheet! Google
