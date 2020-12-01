@@ -33,11 +33,11 @@ Adding style to the website(make it pretty)
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
-
+```css
 h1 {
 
 }
-
+```
 ## Question 7
 
 What is JavaScript?
