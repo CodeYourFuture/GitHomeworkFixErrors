@@ -75,7 +75,7 @@ You are requesting that someone reviews and approves your changes to the project
 
 What is the Git History log?
 
-History of commits made in a repository
+History of changes made in a repository
 
 ## Question 13
 
@@ -87,7 +87,7 @@ You send the changes of your local repository to Github
 
 What is Github?
 
-A place for us to store and share our code.
+A place for us to store and share our code with others
 
 ## Question 15
 
@@ -105,10 +105,10 @@ Visual Studio Code
 
 What do you use "Commit Messages" for?
 
-To record what changes you made to the code
+To describe changes you made to the code
 
 ## Question 18
 
 Where can I look to find help with Git?
 
-The Git Cheatsheet!
+The Git Cheatsheet, Google
