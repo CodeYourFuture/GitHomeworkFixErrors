@@ -103,10 +103,10 @@ Visual Studio
 
 What do you use "Commit Messages" for?
 
-To record what changes you made to the code
+To record what and why changes were made to your code
 
 ## Question 18
 
 Where can I look to find help with Git?
 
-The Git Cheatsheet!
+The GitHub documentation that can be accessed on : https://docs.github.com/en
