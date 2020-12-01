@@ -35,7 +35,7 @@ Defining the styles for a website (e.g. design and layout)
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-#h1 {h1
+h1 {
 }
 ```
 
@@ -85,13 +85,13 @@ You send the changes of your local repository to Github
 
 What is Github?
 
-A place for us to store and share our code.
+It is a code hosting platform for version control and collaboration.
 
 ## Question 15
 
 What does it mean to "Commit your changes"?
 
-To save changes to the local machine.
+To save changes locally (i.e. GitHub desktop).
 
 ## Question 16
 
