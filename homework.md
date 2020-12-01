@@ -4,39 +4,38 @@
 
 What is 2 + 2?
 
-5
+4
 
 ## Question 2
 
 What is the opposite of Black?
 
-Purple
+White
 
 ## Question 3
 
-What is the  2 * 3 * 6 * 1 * 10 * 34?
+What is the 2 \* 3 \* 6 \* 1 \* 10 \* 34?
 
-1322
+12240
 
-## Question 4 
+## Question 4
 
 What does HTML stand for?
 
-Hyper Tall Massive Language
+Hyper Text Markup Language
 
 ## Question 5
 
 What is CSS useful for?
 
-Making a website go faster
+Making a website prettier
 
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-#h1 {
-
+h1 {
 }
 ```
 
@@ -44,37 +43,39 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 What is JavaScript?
 
-A programming language used on the internet
+A programming language widely used in web development
 
 ## Question 8
 
 What three problem does Git & Github solve?
 
-When people want to show off code to each other they can put it on Github
+It allows to keep track of changes you make to the project
+And go back to any previous version when needed
+Allows to easily share changes with colleagues and get their feedback
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You delete it
+You make a copy of someone else's repository to your GitHub
 
-## Question 10 
+## Question 10
 
-What happens when you clone a repostory?
+What happens when you clone a repository?
 
-It send it to a friend
+You make a copy of that repository to your computer
 
 ## Question 11
 
 What is a Pull Request?
 
-When you send a file over the internet
+You are requesting that someone reviews and approves your changes to the project
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+History of commits made in a repository
 
 ## Question 13
 
@@ -92,13 +93,13 @@ A place for us to store and share our code.
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+To save changes to your Git history
 
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+Visual Studio Code
 
 ## Question 17
 
