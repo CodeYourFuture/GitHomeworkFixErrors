@@ -44,7 +44,7 @@ h1 {
 
 What is JavaScript?
 
-A programming language used on the web
+JavaScript is a programming language used primarily by Web browsers to create a dynamic and interactive experience for the user.
 
 ## Question 8
 
@@ -62,7 +62,7 @@ You create a copy of the repository on your GitHub account
 
 ## Question 10 
 
-What happens when you clone a repostory?
+What happens when you clone a repository?
 
 You make a copy of the repository on your local computer
 
