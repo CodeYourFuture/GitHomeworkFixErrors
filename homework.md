@@ -28,7 +28,7 @@ Hypertext Markup Language
 
 What is CSS useful for?
 
-Making a website look nicer
+Making a website look more presentable by adding colours, layout and fonts.
 
 ## Question 6
 
