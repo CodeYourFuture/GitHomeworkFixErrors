@@ -34,7 +34,8 @@ CSS is the language for describing the presentation of Web pages, including colo
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
-h1.intro
+h1 {
+}
 
 ## Question 7
 
@@ -94,7 +95,7 @@ The "commit" command is used to save your changes to the local repository.
 
 What program do we use to write code at CodeYourFuture?
 
-Visual Studio
+Visual Studio Code
 
 ## Question 17
 
@@ -103,3 +104,7 @@ What do you use "Commit Messages" for?
 A commit message is attached to the change — not the code itself. When you write a commit message you are writing it as if it's about to be applied, rather than about what you just did.
 
 ## Question 18
+
+Where can I look to find help with Git?
+
+The Git Cheatsheet, GitHub docs, and Slack.
