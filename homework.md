@@ -4,39 +4,38 @@
 
 What is 2 + 2?
 
-5
+4
 
 ## Question 2
 
 What is the opposite of Black?
 
-Purple
+White
 
 ## Question 3
 
-What is the  2 * 3 * 6 * 1 * 10 * 34?
+What is the 2 _ 3 _ 6 _ 1 _ 10 \* 34?
 
-1322
+12240
 
-## Question 4 
+## Question 4
 
 What does HTML stand for?
 
-Hyper Tall Massive Language
+Hypertext Markup Language
 
 ## Question 5
 
 What is CSS useful for?
 
-Making a website go faster
+Cascading Style Sheets (CSS) is used to define styles for your web pages, including the design, layout and variations in display for different devices and screen sizes
 
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-#h1 {
-
+.h1 {
 }
 ```
 
@@ -44,37 +43,39 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 What is JavaScript?
 
-A programming language used on the internet
+An object-oriented computer programming language commonly used to create interactive effects within web browsers
 
 ## Question 8
 
 What three problem does Git & Github solve?
 
-When people want to show off code to each other they can put it on Github
+- Collaboration
+- Checkpoints
+- Tracking
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You delete it
+You copy it
 
-## Question 10 
+## Question 10
 
 What happens when you clone a repostory?
 
-It send it to a friend
+You download an existing repository hosted on a remote server to your own computer
 
 ## Question 11
 
 What is a Pull Request?
 
-When you send a file over the internet
+When you make the repository owner aware of changes made
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+It lets you see the history of commits that the repository has gone through
 
 ## Question 13
 
@@ -86,19 +87,19 @@ You send the changes of your local repository to Github
 
 What is Github?
 
-A place for us to store and share our code.
+GitHub is one website where you can use Git.
 
 ## Question 15
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+Save your changes to the local version of the repository
 
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+Visual Studio
 
 ## Question 17
 
@@ -110,4 +111,4 @@ To record what changes you made to the code
 
 Where can I look to find help with Git?
 
-The Git Cheatsheet!
+The Git Cheatsheet or Slack!
