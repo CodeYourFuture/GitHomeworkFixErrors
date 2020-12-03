@@ -58,7 +58,7 @@ You copy it in yor Github account
 
 ## Question 10
 
-What happens when you clone a repostory?
+What happens when you clone a repository?
 
 You copy it in your computer
 
