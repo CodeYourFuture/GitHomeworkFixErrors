@@ -61,7 +61,7 @@ When you fork a repository, you make a copy of it on your github profile.
 
 ## Question 10
 
-What happens when you clone a repostory?
+What happens when you clone a repository?
 
 When you clone a repository, it is copied to your local computer.
 
