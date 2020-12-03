@@ -14,9 +14,9 @@ White
 
 ## Question 3
 
-What is the 2 _ 3 _ 6 _ 1 _ 10 \* 34?
+What is the 2 * 3 * 6 * 1 * 10 * 34?
 
-12240
+1322
 
 ## Question 4
 
