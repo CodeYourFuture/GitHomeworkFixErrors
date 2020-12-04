@@ -108,4 +108,4 @@ To record what changes you made to the code
 
 Where can I look to find help with Git?
 
-Slack chanels!
+The Git Cheatsheet and Slack chanels!
