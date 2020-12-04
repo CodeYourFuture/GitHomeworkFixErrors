@@ -28,7 +28,7 @@ Hyper Text Markup Language
 
 What is CSS useful for?
 
-Changing the appearance and layout of website, making it responsive
+Making a website prettier
 
 ## Question 6
 
