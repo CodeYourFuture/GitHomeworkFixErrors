@@ -44,7 +44,7 @@ h1 {
 
 What is JavaScript?
 
-A programming language 
+JavaScript is a programming language commonly used in web development. It was originally developed by Netscape as a means to add dynamic and interactive elements to websites. ... Like server-side scripting languages, such as PHP and ASP, JavaScript code can be inserted anywhere within the HTML of a webpage.
 
 ## Question 8
 
@@ -62,7 +62,7 @@ You copy it to your github repo.
 
 What happens when you clone a repostory?
 
-You copy it to your computer.
+Clone a repo is "copying an existing Git repository from the web(github web page) and then bring it to your local computer to alter or correct the file on your computer"
 
 ## Question 11
 
