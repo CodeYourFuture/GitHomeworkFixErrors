@@ -58,13 +58,13 @@ Issue management
 
 What happens when you `fork` a repository?
 
-You deviate from the original
+You make a copy of the changes from the original repository  
 
 ## Question 10 
 
 What happens when you clone a repostory?
 
-It duplicates it
+you duplicate the repository to a target repository
 
 ## Question 11
 
