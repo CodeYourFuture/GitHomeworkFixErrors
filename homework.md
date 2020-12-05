@@ -44,7 +44,7 @@ h1 {
 
 What is JavaScript?
 
-A programming language used on the internet
+It is a programming language that conforms to the ECMAScript specification
 
 ## Question 8
 
@@ -68,13 +68,13 @@ Copying a repo to your local file/device
 
 What is a Pull Request?
 
-When you send a file over the internet
+A pull request is a method of submitting contributions to an open development project
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+It lists the commits made in that repository
 
 ## Question 13
 
