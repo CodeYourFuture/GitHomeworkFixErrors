@@ -100,7 +100,7 @@ Save your changes in Github
 
 What program do we use to write code at CodeYourFuture?
 
-Visual Code Source
+Visual Studio Code
 
 ## Question 17
 
