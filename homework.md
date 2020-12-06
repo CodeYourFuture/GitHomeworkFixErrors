@@ -56,7 +56,7 @@ Git is a version control software and architecture which is easier, faster and g
 
 What happens when you `fork` a repository?
 
-You have a different copy of the repo and make changes over the copy.
+Creates a copy of repo to my Github Account.
 
 ## Question 10 
 
