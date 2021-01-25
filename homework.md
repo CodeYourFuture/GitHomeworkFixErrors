@@ -72,7 +72,7 @@ When you clone a repository, you copy the repository from GitHub to your local m
 
 What is a Pull Request?
 
-When you send a file over the internet
+They provide a simple, web-based way to submit your work (often called “patches”) to a project. It's called a pull request because you're asking the project to pull changes from your fork.
 
 ## Question 12
 
