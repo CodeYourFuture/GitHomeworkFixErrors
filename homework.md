@@ -78,7 +78,7 @@ They provide a simple, web-based way to submit your work (often called “patche
 
 What is the Git History log?
 
-It lets you see into the future
+It groups each commit by author and displays the first line of each commit message. This is an easy way to see who's been working on what. 
 
 ## Question 13
 
