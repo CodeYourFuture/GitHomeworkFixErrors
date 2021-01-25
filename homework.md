@@ -108,7 +108,7 @@ VSC probably.
 
 What do you use "Commit Messages" for?
 
-To record what changes you made to the code
+The commit command is used to save changes to a local repository after staging in Git. 
 
 ## Question 18
 
