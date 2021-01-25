@@ -102,7 +102,7 @@ If you have made changes to the same file in both your local copy of a Git repos
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+VSC probably.
 
 ## Question 17
 
