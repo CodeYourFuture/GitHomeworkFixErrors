@@ -96,7 +96,7 @@ GitHub is a code hosting platform for version control and collaboration. It lets
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+If you have made changes to the same file in both your local copy of a Git repository and a remote repository, you'll encounter the “commit your changes or stash them before you can merge” Git error.
 
 ## Question 16
 
