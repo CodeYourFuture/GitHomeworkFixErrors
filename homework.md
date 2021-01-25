@@ -60,7 +60,7 @@ Version control and the benefits of each one
 
 What happens when you `fork` a repository?
 
-You delete it
+A fork is a copy of a repository that allows you to freely experiment with changes without affecting the original project.
 
 ## Question 10 
 
