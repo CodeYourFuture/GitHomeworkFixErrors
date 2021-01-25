@@ -90,7 +90,7 @@ When you push changes, you send the committed changes in your local repository t
 
 What is Github?
 
-A place for us to store and share our code.
+GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Question 15
 
