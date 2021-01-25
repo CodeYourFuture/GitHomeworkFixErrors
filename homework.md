@@ -66,7 +66,7 @@ A fork is a copy of a repository that allows you to freely experiment with chang
 
 What happens when you clone a repostory?
 
-It send it to a friend
+When you clone a repository, you copy the repository from GitHub to your local machine.
 
 ## Question 11
 
