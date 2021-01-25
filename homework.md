@@ -44,7 +44,11 @@ h1 {
 
 What is JavaScript?
 
-A programming language used on the internet
+JavaScript is the Programming Language for the Web.
+
+JavaScript can update and change both HTML and CSS.
+
+JavaScript can calculate, manipulate and validate data.
 
 ## Question 8
 
