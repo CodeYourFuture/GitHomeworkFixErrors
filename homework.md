@@ -54,7 +54,7 @@ JavaScript can calculate, manipulate and validate data.
 
 What three problem does Git & Github solve?
 
-When people want to show off code to each other they can put it on Github
+Version control and the benefits of each one
 
 ## Question 9
 
