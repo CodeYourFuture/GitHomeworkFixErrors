@@ -114,4 +114,4 @@ The commit command is used to save changes to a local repository after staging i
 
 Where can I look to find help with Git?
 
-The Git Cheatsheet!
+The Git Help!
