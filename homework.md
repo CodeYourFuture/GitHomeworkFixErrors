@@ -84,7 +84,7 @@ It groups each commit by author and displays the first line of each commit messa
 
 What does it meant to "push" changes to Github?
 
-You send the changes of your local repository to Github
+When you push changes, you send the committed changes in your local repository to the remote repository on GitHub.
 
 ## Question 14
 
