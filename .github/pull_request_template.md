@@ -12,11 +12,11 @@ London Class 7 - Chris Owen - HTMl/CSS - Week 1
 
 # Your Details
 
-- Your Name:
-- Your City:
-- Your Slack Name:
+- Your Name: Fode moussa Camara
+- Your City: Barcelona
+- Your Slack Name: Fode Moussa
 
 # Homework Details
 
-- Module:
-- Week:
+- Module: class-jan2021-2-es
+- Week: 2 week

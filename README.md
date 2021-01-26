@@ -1,6 +1,8 @@
 # Git Homework - Fix Errors
 
 My child - Linus - came home today from school with his homework but he got SOME of the questions wrong!
+## Merci beaucoup
+soy Musa
 
 Can you help him to fix or improve the answers to his homework?
 
