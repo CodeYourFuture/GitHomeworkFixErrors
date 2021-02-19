@@ -14,11 +14,11 @@ white
 
 ## Question 3
 
-What is the  2 * 3 * 6 * 1 * 10 * 34?
+What is the 2 _ 3 _ 6 _ 1 _ 10 \* 34?
 
 12240
 
-## Question 4 
+## Question 4
 
 What does HTML stand for?
 
@@ -36,7 +36,6 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
 #h1 {
-
 }
 ```
 
@@ -44,14 +43,14 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 What is JavaScript?
 
-A scripting or programming language that allows you to implement complex features on web pages 
+A scripting or programming language that allows you to implement complex features on web pages
 
 ## Question 8
 
 What three problem does Git & Github solve?
 
-1.Git is a version control system that lets you manage and keep track of your source code history. 
-2.GitHub is a cloud-based hosting service that lets you manage Git repositories. 
+1.Git is a version control system that lets you manage and keep track of your source code history.
+2.GitHub is a cloud-based hosting service that lets you manage Git repositories.
 3.If you have open-source projects that use Git, then GitHub is designed to help you better manage them.
 
 ## Question 9
@@ -60,9 +59,9 @@ What happens when you `fork` a repository?
 
 You create a personal copy of someone else's project, this allows you to later submit your contribution before affecting changes to the original project.
 
-## Question 10 
+## Question 10
 
-What happens when you clone a repostory?
+What happens when you clone a repository?
 
 it is copied onto your local computer
 
@@ -76,7 +75,7 @@ When you open a pull request, you're proposing your changes and requesting that 
 
 What is the Git History log?
 
-It's a chronological list of commits made in that repositry
+It's a chronological list of commits made in that repository
 
 ## Question 13
 
@@ -94,7 +93,7 @@ A collaborative place for us to store and share our code.
 
 What does it mean to "Commit your changes"?
 
-Save your changes in Github
+log your changes in Github
 
 ## Question 16
 
@@ -106,7 +105,7 @@ Visual Studio Code
 
 What do you use "Commit Messages" for?
 
-To record what changes you made to the code
+To log with Git the changes you made to the code
 
 ## Question 18
 
