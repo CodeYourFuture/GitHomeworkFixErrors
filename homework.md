@@ -4,38 +4,38 @@
 
 What is 2 + 2?
 
-5
+4
 
 ## Question 2
 
 What is the opposite of Black?
 
-Purple
+White
 
 ## Question 3
 
 What is the  2 * 3 * 6 * 1 * 10 * 34?
 
-1322
+12240
 
 ## Question 4 
 
 What does HTML stand for?
 
-Hyper Tall Massive Language
+HyperText Markup Language
 
 ## Question 5
 
 What is CSS useful for?
 
-Making a website go faster
+Providing easy control over layout and presentation of website pages by separating content from design.
 
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-#h1 {
+h1 {
 
 }
 ```
@@ -44,37 +44,39 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 What is JavaScript?
 
-A programming language used on the internet
+A programming language that allows you to implement complex features on web pages.
 
 ## Question 8
 
 What three problem does Git & Github solve?
 
-When people want to show off code to each other they can put it on Github
+1. Helps us to share information when people want to show off code to each other
+2. Allows us to track how information has changed between ea ch point in time
+3. Goes back to older versions of our work if we make a mistake
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You delete it
+You copy to your repositories
 
 ## Question 10 
 
 What happens when you clone a repostory?
 
-It send it to a friend
+You take the repository to your computer and you can make changes on it remotely.
 
 ## Question 11
 
 What is a Pull Request?
 
-When you send a file over the internet
+When you want send the repository which you made changes on it, you can make a pull request that allows main contributor to see your new repository and you can apply changes to the main repository
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+It lets you see into previous versions in chronological order
 
 ## Question 13
 
@@ -98,7 +100,7 @@ Send you code to Github
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+GitHub and VS code
 
 ## Question 17
 
