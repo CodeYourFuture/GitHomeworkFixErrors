@@ -62,7 +62,7 @@ You copy to your repositories
 
 ## Question 10 
 
-What happens when you clone a repostory?
+What happens when you clone a repository?
 
 You take the repository to your computer and you can make changes on it remotely.
 
