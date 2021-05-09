@@ -12,11 +12,11 @@ London Class 7 - Chris Owen - HTMl/CSS - Week 1
 
 # Your Details
 
-- Your Name: Morteza Khojasteh
-- Your City: Manchester
-- Your Slack Name: Morteza Khojasteh
+- Your Name: 
+- Your City:
+- Your Slack Name:
 
 # Homework Details
 
-- Module: GitHub
-- Week: 1
+- Module:
+- Week:

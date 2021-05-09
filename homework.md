@@ -50,7 +50,9 @@ JavaScript is a text-based programming language used both on the client-side and
 
 What three problem does Git & Github solve?
 
-Version control allows you to keep track of your work and helps you to easily explore the changes you have made, be it data, coding scripts, notes, etc.
+1. Version control
+2. Backup of work
+3. Collaboration
 
 ## Question 9
 
