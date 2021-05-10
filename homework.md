@@ -50,8 +50,8 @@ A programming language used to make a website interactive
 
 What three problem does Git & Github solve?
 
-1) When people want to show off code to each other they can put it on Github <br>
-2) It helps to make collabration easy with others <br>
+1) When people want to show off code to each other they can put it on Github
+2) It helps to make collabration easy with others
 3) Tracks the changes you've made
 
 ## Question 9
