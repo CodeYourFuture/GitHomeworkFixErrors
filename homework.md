@@ -57,13 +57,13 @@ What three problem does Git & Github solve?
 
 What happens when you `fork` a repository?
 
-You create a copy of another persons repository from that point in history.
+You create a copy of another persons repository from that point in history to your Github Profile
 
 ## Question 10
 
 What happens when you clone a repository?
 
-You copy an exact replica of all of the code on the master branch.
+You copy an exact replica of all of the code on the master branch on your local computer.
 
 ## Question 11
 
