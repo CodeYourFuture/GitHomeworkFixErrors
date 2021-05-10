@@ -4,38 +4,38 @@
 
 What is 2 + 2?
 
-5
+4
 
 ## Question 2
 
 What is the opposite of Black?
 
-Purple
+White
 
 ## Question 3
 
 What is the  2 * 3 * 6 * 1 * 10 * 34?
 
-1322
+12240
 
 ## Question 4 
 
 What does HTML stand for?
 
-Hyper Tall Massive Language
+Hypertext Markup Language
 
 ## Question 5
 
 What is CSS useful for?
 
-Making a website go faster
+CSS allows the separation of presentation from structure.
 
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-#h1 {
+h1 {
 
 }
 ```
@@ -44,70 +44,73 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 What is JavaScript?
 
-A programming language used on the internet
+An object-oriented scripting language commonly used to create interactive effects within web browsers.
 
 ## Question 8
 
 What three problem does Git & Github solve?
 
-When people want to show off code to each other they can put it on Github
+GitHub is a website for developers and programmers to collaboratively work on code.
+
+The primary benefit of GitHub is its version control system, which allows for seamless collaboration without compromising the integrity of the original project. 
+
+It's a great place to host your portfolio whilst demonstrating the ability to use and understand it. 
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You delete it
+You make a copy of it, so you can freely experiment with changes without affecting the original project.
 
 ## Question 10 
 
-What happens when you clone a repostory?
+What happens when you clone a repository?
 
-It send it to a friend
+You download a copy of the remote repo to your local machine allowing you to work on the files locally rather than directly with the source files of the origin repo. 
 
 ## Question 11
 
 What is a Pull Request?
 
-When you send a file over the internet
+Pull requests tell others about changes you've pushed to a branch in a repo. It notifies colleagues that you have work to be discussed and reviewed. 
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+It lists all the commits made in a repo in reverse chronological order. Listing changes, additions/deletions etc. .
 
 ## Question 13
 
 What does it meant to "push" changes to Github?
 
-You send the changes of your local repository to Github
+Updates the remote branch with local commits.
 
 ## Question 14
 
 What is Github?
 
-A place for us to store and share our code.
+A version control system. It manages the evolution of a set of files (repository) in a highly structured, reversed chronological way. 
 
 ## Question 15
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+Create a "snapshot" of your files at a given time. In essence a "save" point. 
 
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
-
+Visual Studio Code
 ## Question 17
 
 What do you use "Commit Messages" for?
 
-To record what changes you made to the code
+Provide a succinct description of what the commit does. To make it easier for other devs to locate your issue and collaborate on your code. 
 
 ## Question 18
 
 Where can I look to find help with Git?
 
-The Git Cheatsheet!
+The Git Cheatsheet! But more helpfully Google, the devs guidebook!
