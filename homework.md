@@ -60,7 +60,7 @@ It's a great place to host your portfolio whilst demonstrating the ability to us
 
 What happens when you `fork` a repository?
 
-You make a copy of it, so you can freely experiment with changes without affecting the original project.
+You make a copy of it on your own remote repo branch, so you can freely experiment with changes without affecting the original project.
 
 ## Question 10 
 
