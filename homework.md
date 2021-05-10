@@ -24,7 +24,7 @@ Answer 4: Hyper Text Markup Language
 ## Question 5
 
 What is CSS useful for?
-Answer 5: Cascading Style Sheet
+Answer 5: It make easier to separate the style from the structure, and you can work on its own.
 
 
 ## Question 6
