@@ -86,7 +86,7 @@ The "clone" command downloads an existing Git repository to your local computer.
 What is a Pull Request?
 
 When you send a file over the internet
-Pull request let uou tell others about changes you have pushed to a branch in a repository on github.
+Pull request let you tell others about changes you have pushed to a branch in a repository on github.
 
 ## Question 12
 
