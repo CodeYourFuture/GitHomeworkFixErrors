@@ -50,7 +50,9 @@ A programming language used to make websites dynamic. It is responsible for the 
 
 What three problem does Git & Github solve?
 
-It helps you keep track of all the changes you make to a document.
+1. Losing track of changes made to a repository.
+2. Limitations that hinder mass collaboration.
+3. Limitations that hinder learning from peers.
 
 ## Question 9
 
