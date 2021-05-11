@@ -44,7 +44,7 @@ h1 {
 
 What is JavaScript?
 
-An object-oriented scripting language commonly used to create interactive effects within web browsers.
+Javascript is a scripting language that enables you to create dynamically updating content, control multimedia, animate images. It's a dynamic programming language that's used for web development, in web applications, for game development, and lots more.
 
 ## Question 8
 
