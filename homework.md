@@ -65,9 +65,7 @@ You copy the file and download it
 
 ## Question 11
 
-What is a Pull Request?
-
-After you've pushed the forked repo back to github, then a pull request allows us to link the file back to the original repo.
+After you've pushed the forked repo back to your github, a pull request allows us to notify the people in charge of the original repo that you have made changes to it
 
 ## Question 12
 
