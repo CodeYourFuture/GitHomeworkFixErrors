@@ -12,11 +12,11 @@ London Class 7 - Chris Owen - HTMl/CSS - Week 1
 
 # Your Details
 
-- Your Name:
-- Your City:
-- Your Slack Name:
+- Your Name: Seyed Sharifi
+- Your City: Manchester
+- Your Slack Name: @seyedsharifi
 
 # Homework Details
 
-- Module:
-- Week:
+- Module: GitHub
+- Week: 1
