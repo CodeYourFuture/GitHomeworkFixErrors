@@ -4,39 +4,38 @@
 
 What is 2 + 2?
 
-5
+4
 
 ## Question 2
 
 What is the opposite of Black?
 
-Purple
+White
 
 ## Question 3
 
-What is the  2 * 3 * 6 * 1 * 10 * 34?
+What is the 2 _ 3 _ 6 _ 1 _ 10 \* 34?
 
-1322
+12,240
 
-## Question 4 
+## Question 4
 
 What does HTML stand for?
 
-Hyper Tall Massive Language
+HyperText Markup Language
 
 ## Question 5
 
 What is CSS useful for?
 
-Making a website go faster
+CSS is used to stylise a website's layout by adding effects and design features integrated through CSS. It works in conjunction with HTML. First HTML lays the layout of the page and CSS adds style to that layout.
 
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-#h1 {
-
+h1 {
 }
 ```
 
@@ -44,70 +43,70 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 What is JavaScript?
 
-A programming language used on the internet
+JavaScript is a programming language used to develop complex webpages. It helps transforming static webpages into dynamic and responsive ones. JavaScript is based on ECMAScript 6.
 
 ## Question 8
 
 What three problem does Git & Github solve?
 
-When people want to show off code to each other they can put it on Github
+Git and GitHub allows version control for our projects. For instance, we can keep track of all our changes to our work. Secondly, it helps creating online repositories for our projects and keep them saved remotely. Finally, it also allows us to work as team, collaborate on projects and contribute simultaneously.
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You delete it
+Forking allows us to get a remote copy of the original repository on our GitHub, which we can modify without affecting the original repository.
 
-## Question 10 
+## Question 10
 
-What happens when you clone a repostory?
+What happens when you clone a repository?
 
-It send it to a friend
+Cloning a repository allows us to get a copy of the original repository on our local computer.
 
 ## Question 11
 
 What is a Pull Request?
 
-When you send a file over the internet
+This is the concept of version control. Once we have pushed our changes to the forked repository, we then send a pull request so that repository administrators can approve the changes and merge them onto the original repository.
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+Git history log allows us to see all the changes we have committed to the repository in a reverse chronological order (latest to oldest). It will highlight all changes individually that we have made in each branch.
 
 ## Question 13
 
-What does it meant to "push" changes to Github?
+What does it mean to "push" changes to Github?
 
-You send the changes of your local repository to Github
+Pushing changes happens when we commit changes on our local computer and push them to our remote repository on Github.
 
 ## Question 14
 
 What is Github?
 
-A place for us to store and share our code.
+GitHub is a web-based platform that enables version control and worldwide collaborative work for our projects.
 
 ## Question 15
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+"Commit your changes" means that we have to commit the changes on our local computers, which we can later push onto our remote repository on GitHub.
 
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+We use Visual Studio Code.
 
 ## Question 17
 
 What do you use "Commit Messages" for?
 
-To record what changes you made to the code
+"Commit messages" should be as precise as possible so we can keep track of what exact changes we made while each individual commit.
 
 ## Question 18
 
 Where can I look to find help with Git?
 
-The Git Cheatsheet!
+We can use The Git Cheatsheet, we can search on Google or even watch YouTube tutorials to find help with Git.
