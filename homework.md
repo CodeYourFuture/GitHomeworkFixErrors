@@ -47,7 +47,7 @@ h1 {
 
 What is JavaScript?
 
-A programming language used on the Web
+An interpreted programming language that runs in a browser and is used to enhance the function of websites.
 
 
 ## Question 8
@@ -98,7 +98,7 @@ You send all local changes (commits) to a remote branch.
 
 What is Github?
 
-A website for us to store and share our code.
+A website for us to store and share our code to enable collaboration.
 
 
 ## Question 15
@@ -119,7 +119,7 @@ Visual Studio Code ( VSCode )
 
 What do you use "Commit Messages" for?
 
-To record what changes you made to the code and why
+To record what changes you made to the code and more importantly why.
 
 
 ## Question 18
