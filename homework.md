@@ -54,9 +54,9 @@ A programming language used on the Web
 
 What three problem does Git & Github solve?
 
-Allows people to work collaboratively and share back the changes they have made.
-Allows people to make checkpoints so that their work can be saved along the way.
-Allows people to track changes made and roll back to an earlier code version if required.
+* Allows people to work collaboratively and share back the changes they have made.
+* Allows people to make checkpoints so that their work can be saved along the way.
+* Allows people to track changes made and roll back to an earlier code version if required.
 
 
 ## Question 9
