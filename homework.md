@@ -11,7 +11,7 @@ What is 2 + 2?
 
 What is the opposite of Black?
 
-Black
+White
 
 
 ## Question 3
