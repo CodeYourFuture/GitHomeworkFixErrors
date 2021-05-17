@@ -68,7 +68,7 @@ You add it to your Github Desktop
 
 What is a Pull Request?
 
-When you send a file over the internet
+When you send a request to the owner of the repo and you want that owner apply your changes to the repository.
 
 ## Question 12
 
