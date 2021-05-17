@@ -94,7 +94,7 @@ It lets you view all commits made to a repository in reverse chronological order
 
 What does it meant to "push" changes to Github?
 
-You send all local changes (commits) to a remote branch.
+You send all local changes (commits) to Github.
 
 
 ## Question 14
