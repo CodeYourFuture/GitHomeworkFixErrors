@@ -129,7 +129,7 @@ To record what changes you made to the code and more importantly why.
 
 Where can I look to find help with Git?
 
-[The Git CheatSheet](https://syllabus.codeyourfuture.io/git/desktop/cheatsheet)
+[The Git CheatSheet](https://syllabus.codeyourfuture.io/git/desktop/cheatsheet) </br>
 [Git](https://git-scm.com/)
 
 Additionally you can use the ```git --help``` command in the bash terminal for more information.
