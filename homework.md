@@ -39,9 +39,12 @@ Making a website look pretty by defining style, layout and variations in display
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
+```css
+
 h1 {
 }
 
+```
 
 ## Question 7
 
@@ -63,7 +66,7 @@ What three problem does Git & Github solve?
 
 What happens when you `fork` a repository?
 
-You take a snapshot of the repository and save it under your own github account as a 'fork' of the original repository.
+You take a snapshot of the repository and save it under your own github account as a `fork` of the original repository.
 
 
 ## Question 10
@@ -98,14 +101,14 @@ You send all local changes (commits) to a remote branch.
 
 What is Github?
 
-A website for us to store and share our code to enable collaboration.
+A website for us to store and share our code enabling collaboration between people.
 
 
 ## Question 15
 
 What does it mean to "Commit your changes"?
 
-Commit saves all staged changes made in a repository along with a descriptive message for the commit, saving it as a local "commit".
+Commit saves all staged changes made locally in a repository normally along with a descriptive message prior to pushing the changes to the remote repository.
 
 
 ## Question 16
