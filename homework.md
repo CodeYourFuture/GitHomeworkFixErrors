@@ -50,7 +50,7 @@ h1 {
 
 What is JavaScript?
 
-An interpreted programming language that runs in a browser and is used to enhance the function of websites.
+A high-level (interpreted) programming language that runs in a browser and is used to dynamically enhance the function of websites.
 
 
 ## Question 8
@@ -73,14 +73,14 @@ You take a snapshot of the repository and save it under your own github account 
 
 What happens when you clone a repository?
 
-When you clone a repository you make a local copy of files stored remotely on your computer.
+When you clone a repository you make a local copy of files stored remotely (GitHub) on your computer.
 
 
 ## Question 11
 
 What is a Pull Request?
 
-A pull request is when you suggest that changes you have made on your forked repository should be merged into the original repository.
+A pull request is when you suggest on GitHub that changes you have made on your forked repository should be merged into the original repository.
 
 
 ## Question 12
@@ -94,14 +94,14 @@ It lets you view all commits made to a repository in reverse chronological order
 
 What does it meant to "push" changes to Github?
 
-You send all local changes (commits) to Github.
+You send all local changes (commits) to Github where the remote files are stored.
 
 
 ## Question 14
 
 What is Github?
 
-A website for us to store and share our code enabling collaboration between people.
+A website hosting service for us to store and share our code which enables remote collaboration between people.
 
 
 ## Question 15
@@ -130,3 +130,6 @@ To record what changes you made to the code and more importantly why.
 Where can I look to find help with Git?
 
 [The Git CheatSheet](https://syllabus.codeyourfuture.io/git/desktop/cheatsheet)
+[Git](https://git-scm.com/)
+
+Additionally you can use the ```git --help``` command in the bash terminal for more information.
