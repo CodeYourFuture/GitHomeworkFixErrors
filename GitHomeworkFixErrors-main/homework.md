@@ -92,7 +92,7 @@ A place for us to store and share our code.
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+The "commit" command is used to save your changes to the local repository.
 
 ## Question 16
 
