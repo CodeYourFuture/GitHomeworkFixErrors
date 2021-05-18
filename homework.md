@@ -94,7 +94,7 @@ GitHub is a code hosting platform for version control and collaboration.
 
 What does it mean to "Commit your changes"?
 
-Commiting means to save your changes to github
+Commiting means to save your changes to local repo
 
 ## Question 16
 
