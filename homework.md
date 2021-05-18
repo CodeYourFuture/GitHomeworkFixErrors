@@ -91,7 +91,7 @@ A place for us to store and share our code.
 
 What does it mean to "Commit your changes"?
 
-Send you code changes to your copy on your local repository to your git repository
+It saves any changes to your local repository.
 
 ## Question 16
 
@@ -109,4 +109,5 @@ To record what changes you made to the code
 
 Where can I look to find help with Git?
 
-The Git Cheatsheet!
+The Git Cheatsheet! The help command in terminal can also be of assistance.
+
