@@ -12,11 +12,11 @@ London Class 7 - Chris Owen - HTMl/CSS - Week 1
 
 # Your Details
 
-- Your Name:
-- Your City:
-- Your Slack Name:
+- Your Name: Fareedh Yawe
+- Your City: Glasgow
+- Your Slack Name: Fareedh
 
 # Homework Details
 
-- Module:
-- Week:
+- Module: Git/github
+- Week: 2
