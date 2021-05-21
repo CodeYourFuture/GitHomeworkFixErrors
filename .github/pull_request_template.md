@@ -12,11 +12,11 @@ London Class 7 - Chris Owen - HTMl/CSS - Week 1
 
 # Your Details
 
-- Your Name:
-- Your City:
-- Your Slack Name:
+- Your Name: Grant Frater   
+- Your City: Glasgow
+- Your Slack Name: Grant Frater
 
 # Homework Details
 
-- Module:
-- Week:
+- Module: Git
+- Week: Week 1
