@@ -35,7 +35,7 @@ Making a website look better
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-#h1 {
+h1 {
 }
 ```
 
@@ -74,7 +74,7 @@ When you ask for an upload of your forked repository to the main repository
 
 What is the Git History log?
 
-It lets you see the changes that hazve gone into the version control
+It lets you see the changes that have gone into the version control
 
 ## Question 13
 
@@ -98,7 +98,7 @@ commit changes to the local repository before it cant be pushed
 
 What program do we use to write code at CodeYourFuture?
 
-HTML, CSS &JSs
+HTML, CSS, JS & VS Code
 
 ## Question 17
 
