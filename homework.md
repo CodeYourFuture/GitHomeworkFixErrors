@@ -49,9 +49,9 @@ is a scripting language that  enables you to create dynamically up dating conten
 ## Question 8
 
 What three problem does Git & Github solve?
-it lets people share their code with other 
-it lets people work collaboratively  with others 
-it lets people see their history work
+.it lets people share their code with other 
+.it lets people work collaboratively  with others 
+.it lets people see their history work
 
 When people want to show off code to each other they can put it on Github
 
