@@ -28,14 +28,14 @@ Hypertext mark up Language
 
 What is CSS useful for?
 
-language for describing the presentation 
+language for describing the presentation e.g changing colors 
 
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-#h1 {
+h1 {
 
 }
 ```
@@ -44,11 +44,14 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 What is JavaScript?
 
-is a scripting language that in enables you to create dynamically up dating content 
+is a scripting language that  enables you to create dynamically up dating content 
 
 ## Question 8
 
 What three problem does Git & Github solve?
+it lets people share their code with other 
+it lets people work collaboratively  with others 
+it lets people see their history work
 
 When people want to show off code to each other they can put it on Github
 
@@ -62,7 +65,7 @@ its a copy of respiratory which allows you to change without effecting the origi
 
 What happens when you clone a repostory?
 
-it copies an existing git respiratory
+it copies an existing git respiratory in your local computer 
 
 ## Question 11
 
@@ -92,13 +95,12 @@ is a code hosting platform for version control and collaboration
 
 What does it mean to "Commit your changes"?
 
-creat a commit 
+save a change you have made in your respiratory
 
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
-
-HTML AND CSS
+vs code 
 
 ## Question 17
 
