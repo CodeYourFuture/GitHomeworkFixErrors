@@ -110,6 +110,5 @@ To record what changes you made to the code
 
 ## Question 18
 
-Where can I look to find help with Git?
-
-slack!
+Where can I look to find help with Git
+the git cheatsheet 
