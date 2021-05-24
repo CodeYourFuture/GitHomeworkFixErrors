@@ -4,12 +4,12 @@
 
 What is 2 + 2?
 
-4
+4.
 
 ## Question 2
 
 What is the opposite of Black?
-white
+white.
 
 ## Question 3
 
