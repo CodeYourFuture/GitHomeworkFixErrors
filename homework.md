@@ -34,11 +34,7 @@ For controlling how the page looks
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
-```css
-#h1 {
-
-}
-```
+'h1 { }' 
 
 ## Question 7
 
