@@ -85,7 +85,8 @@ Uploading the changes or modifications made to a local repository to the remote 
 
 What is Github?
 
-A distributed version control system for developers
+Git is a distributed version control system for developers whereas Github is a software development internet hosting provider for Git.
+
 
 ## Question 15
 
