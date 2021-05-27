@@ -59,7 +59,7 @@ What three problem does Git & Github solve?
 
 What happens when you `fork` a repository?
 
-You copy it
+It makes a copy of repository on Github.
 
 ## Question 10 
 
@@ -115,3 +115,5 @@ To record what changes our commit makes to the behavior of the code
 Where can I look to find help with Git?
 
 The Git Cheat sheet!
+Github support community
+Bitbucket
