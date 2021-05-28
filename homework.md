@@ -28,14 +28,14 @@ Hypertext Markup Language
 
 What is CSS useful for?
 
-Making a website looks better
+Making a website more responsive
 
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-.h1 {
+h1 {
 
 }
 ```
@@ -62,19 +62,19 @@ You own it
 
 What happens when you clone a repostory?
 
-It send it to your desktop version
+It send a copy of, to your local computer
 
 ## Question 11
 
 What is a Pull Request?
 
-When you send a file to web version
+Ask others to review your codes
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the past
+It lets you see any changes in the past
 
 ## Question 13
 
@@ -110,4 +110,4 @@ To record what changes you made to the code
 
 Where can I look to find help with Git?
 
-The Git Help Guides!
+The Git Cheatsheet!
