@@ -28,7 +28,7 @@ Hypertext Markup Language
 
 What is CSS useful for?
 
-Describing the presentation of web page.
+CSS is typically used for styling HTML documents.
 
 ## Question 6
 
@@ -44,7 +44,7 @@ h1 {
 
 What is JavaScript?
 
-A programming language used for the websites
+It is a programming language used  in both client-side and server-side web development.
 
 ## Question 8
 
@@ -68,13 +68,13 @@ It is created a branch of the repository specific for you
 
 What is a Pull Request?
 
-When you request the responsible of main repository to pull a changed file over the internet
+When you pull a request the responsible of main repository to informe people what changes you'd like to merge in a branch. 
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see every changes you have made 
+It lets you see every changes you have made and shows all the history on the active branch.
 
 ## Question 13
 
@@ -92,7 +92,13 @@ A place for us to store and share our code.
 
 What does it mean to "Commit your changes"?
 
-Send you code to Git
+Git records the state of the repository at that point in time as a 'git records the state of the repository at that point in time as a 'commit'. This is then a moment in time you can build from or revert to (or push to GitHub).
+
+
+'. This is then a moment in time you can build from or revert to (or push to GitHub).
+
+
+
 
 ## Question 16
 
@@ -110,4 +116,4 @@ To save what changes you made to the code
 
 Where can I look to find help with Git?
 
-The Git Cheatsheet!
+The Git Cheatsheet, StackOverflow and Google.
