@@ -12,11 +12,11 @@ London Class 7 - Chris Owen - HTMl/CSS - Week 1
 
 # Your Details
 
-- Your Name:
-- Your City:
-- Your Slack Name:
+- Your Name: Maria Chira
+- Your City: West Midlands 
+- Your Slack Name: Maria Georgiana Chira
 
 # Homework Details
 
-- Module:
-- Week:
+- Module: Git and Github
+- Week: 1
