@@ -50,7 +50,9 @@ A programming language used in web development for making website interactive.
 
 What three problem does Git & Github solve?
 
-Version control of file; sharing your work with your team; 
+1. Version control of a file: avoid creating multiple copies of file.
+2. Collaborate with team in real time: avoid delay in collaboration.
+3. Its a freeware: avoid cost issue
 
 ## Question 9
 
