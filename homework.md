@@ -60,54 +60,54 @@ You delete it
 
 ## Question 10 
 
-What happens when you clone a repostory?
+What happens when you clone a repository?
 
-It send it to a friend
+You create a copy of the repository onto your own local system.
 
 ## Question 11
 
 What is a Pull Request?
 
-When you send a file over the internet
+When you send send a request to the original owner of a repository to look over the changes you made to the repository.
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+It lists the commits made in the repository in reverse chronological order.
 
 ## Question 13
 
 What does it meant to "push" changes to Github?
 
-You send the changes of your local repository to Github
+You send the changes of your local repository to the remote Github so that other people can see what you've changed.
 
 ## Question 14
 
 What is Github?
 
-A place for us to store and share our code.
+Its a website for Git documents, it's also a storage place and it provides an environment where you can interact with people and collaborate.
 
 ## Question 15
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+Saving your changes in the local repository.
 
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+Visual Studio Code.
 
 ## Question 17
 
 What do you use "Commit Messages" for?
 
-To record what changes you made to the code
+To give a detailed description of what you have done in the commit.
 
 ## Question 18
 
 Where can I look to find help with Git?
 
-The Git Cheatsheet!
+The Git Cheatsheet! Refer to the Git documentation, typing the git help command in gitbash, Searching you Git issue in a search engine, searching or asking a question on stackoverflow.
