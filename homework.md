@@ -93,7 +93,7 @@ A place for us to store and share our code.
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github.
+Save the changes you made.
 
 ## Question 16
 
