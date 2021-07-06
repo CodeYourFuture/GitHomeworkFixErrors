@@ -75,7 +75,7 @@ You ask the owner of repository to pull in changes you have made.
 
 What is the Git History log?
 
-It marks and shows what changes, when and by whom were made.
+It marks and shows what changes, when and by whom were made (versions). It helps to revert back any versions/features with ease.
 
 ## Question 13
 
@@ -93,7 +93,7 @@ Github is repository hosting service, where we can use Git version control and c
 
 What does it mean to "Commit your changes"?
 
-Commit basically means "save"
+Commit basically means "save". Also it means that you are creating a historical version of the file you are working on in case you wanted to revert back any changes safely, without losing any data
 
 ## Question 16
 
