@@ -53,6 +53,7 @@ What three problem does Git & Github solve?
 Collaboration efficiency
 Speed of deployment
 Organizing work and distributing it effectively
+Version Control
 
 ## Question 9
 
