@@ -4,31 +4,31 @@
 
 What is 2 + 2?
 
-5
+4
 
 ## Question 2
 
 What is the opposite of Black?
 
-Purple
+white
 
 ## Question 3
 
 What is the  2 * 3 * 6 * 1 * 10 * 34?
 
-1322
+12,240
 
 ## Question 4 
 
 What does HTML stand for?
 
-Hyper Tall Massive Language
+ the set of markup symbols or codes inserted into a file intended for display on the Internet
 
 ## Question 5
 
 What is CSS useful for?
 
-Making a website go faster
+the language for describing the presentation of Web pages, including colors, layout, and fontsthe language for describing the presentation of Web pages, including colors, layout, and fonts
 
 ## Question 6
 
@@ -56,13 +56,13 @@ When people want to show off code to each other they can put it on Github
 
 What happens when you `fork` a repository?
 
-You delete it
+You copy it
 
 ## Question 10 
 
-What happens when you clone a repostory?
+what happens when you 'clone' a repository ?
 
-It send it to a friend
+It duplicate and download everything in the repository
 
 ## Question 11
 
@@ -98,7 +98,7 @@ Send you code to Github
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+visual studio code
 
 ## Question 17
 
