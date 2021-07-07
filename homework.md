@@ -27,7 +27,8 @@ Hyper Text Markup Language
 
 What is CSS useful for?
 
-Cascading Style Sheets
+Cascading Style Sheets. CSS is style sheet language used to describe the 
+presenatation of an HTML document. It can control the layout of multiple web pages all at once.
 
 ## Question 6
 
@@ -88,13 +89,13 @@ To Push means to update or publish the remote branch with local commit.
 
 What is Github?
 
-GitHub is a Git the repository hosting service and provide the web-base graphical interface, access control and several collaboratiion features.
+GitHub is a Git the repository hosting service and provide the web-base graphical interface, access control and several collaboration features.
 
 ## Question 15
 
 What does it mean to "Commit your changes"?
 
-To save
+To save your repository at a specific time. Thus it is best practice to commit often.
 
 ## Question 16
 
