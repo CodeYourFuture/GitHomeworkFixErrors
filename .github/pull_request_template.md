@@ -2,7 +2,7 @@
 
 The title for your pull request should be made in this format
 
-CITY CLASS_NO - FIRST_NAME LAST_NAME - MODULE - WEEK_NO
+WEST MIDLANDS CLASS 3 - GEORGINA ASHUN  - GIT/GITHUB - WEEK 1
 
 For example,
 
@@ -12,11 +12,11 @@ London Class 7 - Chris Owen - HTMl/CSS - Week 1
 
 # Your Details
 
-- Your Name:
-- Your City:
-- Your Slack Name:
+- Your Name: Georgina Ashun
+- Your City: Telford
+- Your Slack Name: Georgina Ashun
 
 # Homework Details
 
-- Module:
-- Week:
+- Module: Git/Github
+- Week: Week 1
