@@ -16,7 +16,7 @@ white
 
 What is the  2 * 3 * 6 * 1 * 10 * 34?
 
-12,240
+12240
 
 ## Question 4 
 
@@ -44,13 +44,13 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 What is JavaScript?
 
-A programming language used on the internet
+JavaScript is the Programming Language for the Web. JavaScript can update and change both HTML and CSS
 
 ## Question 8
 
 What three problem does Git & Github solve?
 
-When people want to show off code to each other they can put it on Github
+saving files on the cloud, working on a group , receiving feedback and reviews
 
 ## Question 9
 
@@ -68,13 +68,13 @@ It duplicate and download everything in the repository
 
 What is a Pull Request?
 
-When you send a file over the internet
+When you get the last update on a branch 
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+It lets you see into the past changes on a file 
 
 ## Question 13
 
@@ -92,7 +92,7 @@ A place for us to store and share our code.
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+used to save your changes to the local repository
 
 ## Question 16
 
