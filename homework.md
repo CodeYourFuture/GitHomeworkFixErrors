@@ -35,7 +35,7 @@ To put style into the visual part of a page/website
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-#h1 {
+h1 {
 
 }
 ```
@@ -58,7 +58,7 @@ Creates a social network platform for easy sharing of projects
 
 What happens when you `fork` a repository?
 
-You make a copy of it.
+You make a copy of it without changing the original.
 
 ## Question 10 
 
