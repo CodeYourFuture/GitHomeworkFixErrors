@@ -49,7 +49,7 @@ A programming language for the web
 
 What three problem does Git & Github solve?
 
-Git is a version control . It keeps track of projects , and allows many collaborors to work on a project at the same time . 
+Git is a version control . It keeps track of projects , and allows many collaborators to work on a project at the same time . 
 Github is an online platform to store projects . It's an online backup of projects.
 
 ## Question 9
