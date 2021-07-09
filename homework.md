@@ -77,7 +77,7 @@ Pull requests let you tell others about changes you've pushed to a branch in a r
 
 What is the Git History log?
 
-It lets you see what you have changed.
+It lets you see what you have changed and look back to see what has happened. .
 
 ## Question 13
 
