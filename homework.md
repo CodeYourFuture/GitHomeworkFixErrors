@@ -28,7 +28,7 @@ HyperText Markup Language
 
 What is CSS useful for?
 
-CSS is useful for adding style to and changing the look of html elements.
+CSS is useful for adding style to and changing the look of HTML elements.
 
 ## Question 6
 
@@ -63,7 +63,7 @@ You make an duplicate for yourself on github.
 
 What happens when you clone a repository?
 
-You save it to your own workspace/desktop for it to worked on.
+You save it to your own workspace/desktop for it to be worked on.
 
 ## Question 11
 
@@ -105,7 +105,7 @@ VSCode
 
 What do you use "Commit Messages" for?
 
-To record what changes you made to the code
+To record the changes you made to the code.
 
 ## Question 18
 
