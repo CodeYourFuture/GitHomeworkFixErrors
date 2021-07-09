@@ -29,7 +29,7 @@ Hyper Tall Massive Language
 
 What is CSS useful for?
 
-Cascading Style Sheets
+CSS is the language for describing the presentation of Web pages, including colors, layout, and fonts.
 
 ## Question 6
 
