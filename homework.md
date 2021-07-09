@@ -100,7 +100,7 @@ The commit command is used to save your changes to the local repository.
 
 What program do we use to write code at CodeYourFuture?
 
-HTML, CSS, JavaScript.
+VS Code.
 
 ## Question 17
 
