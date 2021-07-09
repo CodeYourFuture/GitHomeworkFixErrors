@@ -14,7 +14,7 @@ White
 
 ## Question 3
 
-What is the 2 * 3 * 6 * 1 * 10 * 34?
+What is the 2 _ 3 _ 6 _ 1 _ 10 \* 34?
 
 12,240
 
@@ -57,13 +57,13 @@ What three problem does Git & Github solve?
 
 What happens when you `fork` a repository?
 
-You make an exact copy for yourself.
+You make an duplicate for yourself on github.
 
 ## Question 10
 
 What happens when you clone a repository?
 
-You it to your own workspace/desktop for it to worked on.
+You save it to your own workspace/desktop for it to worked on.
 
 ## Question 11
 
