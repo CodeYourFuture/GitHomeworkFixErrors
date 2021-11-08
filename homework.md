@@ -94,11 +94,11 @@ What program do we use to write code at CodeYourFuture?
 • JavaScript
 • Structured Query Language (SQL) a programming language used to communicate with relational databases
 
-Other software used at CYF are as follows:
-*~~HTML~~ - is not a programming language._
-*~~React.js~~ – is not a programming language, it is a libarary, used for building user interfaces specifically for single-page applications._
-*~~Node.js~~ – is not a programming languageit is a libarary, use JavaScript to build web applications._
-*~~MongoDB~~ – is not a programming language, it is a database programmme._
+Other software used at CYF are as follows:__
+*~~HTML~~ - is not a programming language.__
+*~~React.js~~ – is not a programming language, it is a libarary, used for building user interfaces specifically for single-page applications.__
+*~~Node.js~~ – is not a programming languageit is a libarary, use JavaScript to build web applications.__<br>
+*~~MongoDB~~ – is not a programming language, it is a database programmme.__ <br>
 
 ## Question 17
 
