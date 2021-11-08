@@ -14,7 +14,7 @@ White
 
 ## Question 3
 
-What is the 2 _ 3 _ 6 _ 1 _ 10 \* 34?
+What is the 2 * 3 * 6 * 1  * 10 * 34?
 
 12,240.00
 
@@ -34,8 +34,8 @@ CSS is used for styling; including colours, layout, and fonts, and animating web
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
-        # h1 {
-        }
+    # h1 {
+    }
    
 ## Question 7
 
