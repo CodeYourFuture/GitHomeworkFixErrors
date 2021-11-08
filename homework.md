@@ -34,7 +34,7 @@ CSS is used for styling; including colours, layout, and fonts, and animating web
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
-    # h1 {
+    h1 {
     }
    
 ## Question 7
