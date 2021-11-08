@@ -34,18 +34,13 @@ Cascading Style Sheet
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
-```css
-#h1 {
-
-}
-```
-no only the ones the the id h1
+no only the ones that have an #id h1
 
 ## Question 7
 
 What is JavaScript?
 
-A programming language used on the internet
+A programming language used make websites interactive
 
 ## Question 8
 
@@ -56,19 +51,17 @@ When people want to colllaborate on a project at the same time they can put it o
 ## Question 9
 
 What happens when you `fork` a repository?
+A copy of the repository
 
-You copy code
 ## Question 10 
 
 What happens when you clone a repostory?
-
-It copies to your local computer
+It copies the repository(project) to your local computer
 
 ## Question 11
 
 What is a Pull Request?
-
-When you send a file over the internet
+A Pull requests lets you tell others about changes you've pushed to the repository
 
 ## Question 12
 
@@ -104,7 +97,7 @@ We use Visual Studio code to write code and Javascript as our language. We also 
 
 What do you use "Commit Messages" for?
 
-To record what changes you made to the code and to let others know what was changed and when.
+To record the changes made to the code and to let others know what was changed and when.
 
 ## Question 18
 
