@@ -12,11 +12,11 @@ London Class 7 - Chris Owen - HTMl/CSS - Week 1
 
 # Your Details
 
-- Your Name:
-- Your City:
-- Your Slack Name:
+- Your Name: Mohammad Alamin
+- Your City: London
+- Your Slack Name: Mohammad Alamin - trainee
 
 # Homework Details
 
-- Module:
-- Week:
+- Module: Software developer (London class 8)
+- Week: 1
