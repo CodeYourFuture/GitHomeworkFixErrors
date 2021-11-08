@@ -33,8 +33,8 @@ CSS is used for styling; including colours, layout, and fonts, and animating web
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
-#h1 {
-}
+    # h1 {
+    }
 
 ## Question 7
 
@@ -94,9 +94,9 @@ What program do we use to write code at CodeYourFuture?
 • JavaScript
 • Structured Query Language (SQL) a programming language used to communicate with relational databases
 
-Other software used at CYF are as follows:__
-*~~HTML~~ - is not a programming language.__
-*~~React.js~~ – is not a programming language, it is a libarary, used for building user interfaces specifically for single-page applications.__
+Other software used at CYF are as follows:__ <br>
+*~~HTML~~ - is not a programming language.__ <br>
+*~~React.js~~ – is not a programming language, it is a libarary, used for building user interfaces specifically for single-page applications.__ <br>
 *~~Node.js~~ – is not a programming languageit is a libarary, use JavaScript to build web applications.__<br>
 *~~MongoDB~~ – is not a programming language, it is a database programmme.__ <br>
 
