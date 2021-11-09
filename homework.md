@@ -97,7 +97,7 @@ It is when you save changes to your local repository.
 
 What program do we use to write code at CodeYourFuture?
 
-Microsof VS Code
+Microsoft VS Code
 
 ## Question 17
 
