@@ -4,38 +4,39 @@
 
 What is 2 + 2?
 
-5
+4
 
 ## Question 2
 
 What is the opposite of Black?
 
-Purple
+White
 
 ## Question 3
 
 What is the  2 * 3 * 6 * 1 * 10 * 34?
 
-1322
+12240
 
 ## Question 4 
 
 What does HTML stand for?
 
-Hyper Tall Massive Language
+HyperText Markup Language
 
 ## Question 5
 
 What is CSS useful for?
 
-Making a website go faster
+It is useful for creating the style and look of a website.
 
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
-```css
-#h1 {
+```CSS
+...
+h1 {
 
 }
 ```
@@ -44,70 +45,77 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 What is JavaScript?
 
-A programming language used on the internet
+A programming and scripting language used to make webpages interactive.
 
 ## Question 8
 
-What three problem does Git & Github solve?
+What three problems does Git & Github solve?
 
-When people want to show off code to each other they can put it on Github
+1) Allows one to share their work with others; having such work stored in a central structure called a repository.
+2) Enables people to make their own changes to that work, and share it back; thereby assisting collaboration.
+3) Allows one to keep track of all the changes made. One can even go back to older versions of their work to see what was tried before, or to undo changes.
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You delete it
+You basically create a 'copy' of the source/main repository; so that you can work on it and edit it without affecting the original repository.
 
 ## Question 10 
 
-What happens when you clone a repostory?
-
-It send it to a friend
+What happens when you clone a repository?
+Cloning a repository pulls down a full copy of all the repository data that GitHub.com has at that point in time, including all versions of every file and folder for the project. 
+SOURCE: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository 
 
 ## Question 11
 
 What is a Pull Request?
 
-When you send a file over the internet
+It is a request to add changes to the owner's repository. That is, you have made changes to the original work and would like to submit and 'merge' the said changes onto the original main repository. So you make a request to the owner of your intent and await to see if the owner will approve of your changes. So you want the owner to "pull the changes" into their repository.
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+It lets you see all the changes ever made to the repository in chronological order. The oldest at the bottom and the newest at the top. You can always see an old version of a file by looking in this History log, and if you want to get it back, you can just copy and paste it from the history view into your editor.
 
 ## Question 13
 
-What does it meant to "push" changes to Github?
+What does it mean to "push" changes to Github?
 
-You send the changes of your local repository to Github
+To push means to send your committed changes which you own locally, to a remote repository on GitHub.com, so that others may access them.
 
 ## Question 14
 
 What is Github?
-
-A place for us to store and share our code.
+GitHub is a website and cloud-based service that helps developers store and manage their code, as well as track and control changes to their code.
+SOURCE: https://kinsta.com/knowledgebase/what-is-github/ 
 
 ## Question 15
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+It means to save your changes to the local repository. Each time one does so, 'Git' creates a unique ID that allows one to keep record of what changes were made when and by who.
 
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+Visual Studio Code
 
 ## Question 17
 
 What do you use "Commit Messages" for?
 
-To record what changes you made to the code
+To inform the owner (as well as others) what changes one has made to the code. It consists of a subject line in order to add a brief description; followed by "the Commit Body" where one can explain in more detail the changes that have been made.
 
-## Question 18
+## Question 18 
 
 Where can I look to find help with Git?
 
 The Git Cheatsheet!
+https://syllabus.codeyourfuture.io/git/desktop/cheatsheet 
+
+And officially from Github.com :-
+https://docs.github.com/en
+https://github.com/git-guides/ 
