@@ -33,11 +33,7 @@ It is used to add style to a web page making it look unique, attractive and resp
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
-
-```css
-#h1 {
-}
-```
+By giving all the <h1> on this page a class(.) or id(#) element and use the correct selector when styling it in CSS
 
 ## Question 7
 
@@ -59,7 +55,7 @@ It helps people work efficiently so two people can even work on different parts 
 
 What happens when you `fork` a repository?
 
-You clone it
+You make a copy of the original repository
 
 ## Question 10
 
@@ -89,7 +85,7 @@ You send the committed changes in your local repository to the remote repository
 
 What is Github?
 
-A place for us to store and share our code
+GitHub is a website and cloud-based service that helps developers store and manage their code, as well as track and control changes to their code
 
 ## Question 15
 
@@ -107,10 +103,10 @@ Visual Studio Code
 
 What do you use "Commit Messages" for?
 
-To record what changes you made to the code
+To record what changes you made to the code, so others can see it and know what you did
 
 ## Question 18
 
 Where can I look to find help with Git?
 
-The Git Cheat sheet!
+The Git Cheat Sheet!
