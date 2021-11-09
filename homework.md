@@ -91,10 +91,11 @@ A commit is similar to saving a file that's been edited, a commit records change
 
 ## Question 16
 
-What program do we use to write code at CodeYourFuture?
+What programme do we use to write code at CodeYourFuture?
 
-• Visual Studio Code as code editor 
-or programmes we use are;
+• Visual Studio Code is a recommeded code editor 
+
+and programmes we use are;
 • JavaScript
 • Structured Query Language (SQL) a programming language used to communicate with relational databases
 ...the questions is unclear
