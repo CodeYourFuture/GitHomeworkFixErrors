@@ -99,7 +99,7 @@ To save your changes.
 
 What program do we use to write code at CodeYourFuture?
 
-We use JavaScript to write our code at CYF.
+We use VS Code to write our code at CYF.
 
 ## Question 17
 
