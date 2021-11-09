@@ -111,4 +111,4 @@ To record what changes you made to the code, so others can see it and know what 
 
 Where can I look to find help with Git?
 
-The Git Cheat Sheet!
+The Git Cheat Sheet and Github documentation. 
