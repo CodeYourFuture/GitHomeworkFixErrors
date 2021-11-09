@@ -33,7 +33,9 @@ It is used to add style to a web page making it look unique, attractive and resp
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
-By giving all the <h1> on this page a class(.) or id(#) element and use the correct selector when styling it in CSS
+h1 {
+
+}
 
 ## Question 7
 
