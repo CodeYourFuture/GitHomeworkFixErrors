@@ -99,7 +99,7 @@ It is used to record the changes in the repository.
 
 What program do we use to write code at CodeYourFuture?
 
-VS Code
+Visual Studio Code
 
 ## Question 17
 
