@@ -95,10 +95,10 @@ What programme do we use to write code at CodeYourFuture?
 
 • Visual Studio Code is a recommeded code editor 
 
-and programmes we use are;
-• JavaScript
-• Structured Query Language (SQL) a programming language used to communicate with relational databases
-...the questions is unclear
+and programmes we use are;<br>
+• JavaScript <br>
+• Structured Query Language (SQL) a programming language used to communicate with relational databases<br>
+...the questions is unclear<br><br>
 
 Other software used at CYF are as follows:<br>
 *~~HTML~~ - is not a programming language.<br>
