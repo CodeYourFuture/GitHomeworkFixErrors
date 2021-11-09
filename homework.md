@@ -35,7 +35,7 @@ Making a website look better (style, size, position, color and so on)
 Using CSS, how would I select every `<h1>` tag on the page?
 
 '''css
-#h1 {}
+h1 {}
 ```
 
 ## Question 7
@@ -48,7 +48,7 @@ A programming language used to create and control dynamic website content.
 
 What three problem does Git & Github solve?
 
-It's a virsion control system, it lets you manage and keep track of your source code history. 
+It's a version control system, it lets you manage and keep track of your source code history. 
 
 ## Question 9
 
