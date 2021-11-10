@@ -98,7 +98,7 @@ The "commit" command is used to save your changes to the local(personal computer
 
 What program do we use to write code at CodeYourFuture?
 
-Visual Code Studio
+Visual Studio Code
 
 ## Question 17
 
