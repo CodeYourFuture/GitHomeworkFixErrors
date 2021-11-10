@@ -28,17 +28,15 @@ HyperText Markup Language
 
 What is CSS useful for?
 
-Making a website's layout adaptable to different types of devices
+Setting the style of the websites and making them adaptable to different types of devices
 
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
-```css
 h1 {
 
 }
-```
 
 ## Question 7
 
@@ -52,7 +50,7 @@ What three problem does Git & Github solve?
 
 Showcase your work
 Contribute to open source projects
-Collaboration
+Track changes in the code
 
 ## Question 9
 
@@ -77,7 +75,7 @@ When you submit your contribution to a repository to be reviewed & merged
 
 What is the Git History log?
 
-Shows the history of a repository with the lost of all the commits made
+Shows the history of a repository with the log of all the commits made
 
 ## Question 13
 
@@ -113,4 +111,4 @@ To identify all the changes made in the documentation
 
 Where can I look to find help with Git?
 
-Git help can be accessed by typing the command git help
+Git cheat sheet
