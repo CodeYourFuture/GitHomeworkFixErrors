@@ -22,7 +22,7 @@ What is the  2 * 3 * 6 * 1 * 10 * 34?
 
 What does HTML stand for?
 
-Hyper Text Markup Language
+HyperText Markup Language
 
 ## Question 5
 
