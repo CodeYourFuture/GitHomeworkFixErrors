@@ -28,13 +28,13 @@ Hyper Text Markup Language
 
 What is CSS useful for?
 
-Cascading Style Sheet
+CSS is used to style websites. 
 
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
-no only the ones that have an #id h1
+n#id h1
 
 ## Question 7
 
@@ -85,7 +85,7 @@ A place for us to store and share our code.
 
 What does it mean to "Commit your changes"?
 
-Send your code to Github
+Save code to Github
 
 ## Question 16
 
