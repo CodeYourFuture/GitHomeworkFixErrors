@@ -116,4 +116,4 @@ What do you use "Commit Messages" for?
 
 Where can I look to find help with Git?
 
-same old google)
+git cheatSheets
