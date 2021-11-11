@@ -4,107 +4,105 @@
 
 What is 2 + 2?
 
-5
+4
 
 ## Question 2
 
 What is the opposite of Black?
 
-Purple
+White
 
 ## Question 3
 
-What is the  2 * 3 * 6 * 1 * 10 * 34?
+What is the 2 _ 3 _ 6 _ 1 _ 10 \* 34?
 
-1322
+12240
 
-## Question 4 
+## Question 4
 
 What does HTML stand for?
 
-Hyper Tall Massive Language
+Hyper Text MarkUp Language
 
 ## Question 5
 
 What is CSS useful for?
 
-Making a website go faster
+To style a website when we make it!
 
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-#h1 {
-
+h1 {
 }
 ```
 
 ## Question 7
 
 What is JavaScript?
-
-A programming language used on the internet
+A scripting programming language which makes awebsite interactive
 
 ## Question 8
 
 What three problem does Git & Github solve?
 
-When people want to show off code to each other they can put it on Github
+Git is a free and open distributed version control system, a tool to manage your source code history. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. In short, Git is the tool, and GitHub is the service for projects that use Git.
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You delete it
+A fork is a copy of a repository that you manage. Forks let you make changes to a project without affecting the original repository
 
-## Question 10 
+## Question 10
 
-What happens when you clone a repostory?
+What happens when you clone a repository?
 
-It send it to a friend
+Cloning a GitHub repository creates a local copy of the remote repo. This allows you to make all of your edits locally rather than directly in the source files of the origin repo
 
 ## Question 11
 
 What is a Pull Request?
 
-When you send a file over the internet
+Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub.
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+Git stores history as a graph of snapshots of the entire repository. These snapshots, called commits in Git, can have multiple parents, creating a history that looks like a graph instead of a straight line
 
 ## Question 13
 
 What does it meant to "push" changes to Github?
 
-You send the changes of your local repository to Github
+The git push command is used to upload local repository content to a remote repository. Pushing is how you transfer commits from your local repository to a remote repo
 
 ## Question 14
 
 What is Github?
 
-A place for us to store and share our code.
+Github simplifies the process of working with other people and makes it easy to collaborate on projects, it is a cloud-based hosting service that lets you manage Git repositories.
 
 ## Question 15
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+As you commit changes to your project locally, you can push those changes to GitHub so that others may access them from the remote repository.
 
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+Visual Studio Code
 
 ## Question 17
 
 What do you use "Commit Messages" for?
 
-To record what changes you made to the code
+Give comment when we send code or make any updates on our code to Github, it helps to you toremember what you do, and helps people which you work them to make clear your work, and other people to help to undrstand that changes you do on your code.
 
 ## Question 18
 
