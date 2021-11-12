@@ -22,7 +22,7 @@ What is the 2 _ 3 _ 6 _ 1 _ 10 \* 34?
 
 What does HTML stand for?
 
-Hyper Text Markup Language
+HyperText Markup Language
 
 ## Question 5
 
