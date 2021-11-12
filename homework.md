@@ -10,7 +10,7 @@ What is 2 + 2?
 
 What is the opposite of Black?
 
-Black
+White
 
 ## Question 3
 
@@ -111,3 +111,5 @@ To record what changes you made to the code and give a brief explantion of what 
 Where can I look to find help with Git?
 
 The Git Cheatsheet and your class mates via slack.
+
+https://docs.github.com/en
