@@ -14,11 +14,11 @@ LONDON_8-RAHWA_GHEBREMICHAEL-GIT-WEEK_1
 
 # Your Details
 
-- Your Name: Rahwa Ghebremichael
-- Your City: London
-- Your Slack Name: Rahwa Ghebremichael
+- Your Name:
+- Your City:
+- Your Slack Name:
 
 # Homework Details
 
-- Module: Git
-- London 8 Week 1
+- Module:
+- Week:
