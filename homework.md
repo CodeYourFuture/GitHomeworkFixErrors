@@ -35,7 +35,7 @@ Making a website presentable and stylish using colours, fonts and layouts.
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-.h1 {
+h1 {
 }
 ```
 
