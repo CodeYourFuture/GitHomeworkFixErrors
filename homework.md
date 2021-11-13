@@ -92,7 +92,7 @@ GitHub is a website which will store a copy of your Git repository, and allow us
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+When we "commit"  we are saving our changes to the local repository.
 
 ## Question 16
 
@@ -110,4 +110,4 @@ When we make commits in Git, we try to give clear, helpful messages, describing 
 
 Where can I look to find help with Git?
 
-The Git Cheatsheet
+The Git Cheatsheet!
