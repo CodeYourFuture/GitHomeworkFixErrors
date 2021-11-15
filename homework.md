@@ -34,7 +34,9 @@ CSS is used to style websites.
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
-n#id h1
+h1 {
+
+}
 
 ## Question 7
 
@@ -51,7 +53,7 @@ When people want to colllaborate on a project at the same time they can put it o
 ## Question 9
 
 What happens when you `fork` a repository?
-A copy of the repository
+A copy is of a repository is created on www.github.com profile 
 
 ## Question 10 
 
@@ -104,3 +106,5 @@ To record the changes made to the code and to let others know what was changed a
 Where can I look to find help with Git?
 
 The Git Cheatsheet!
+Documentation https://docs.github.com/en
+Google
