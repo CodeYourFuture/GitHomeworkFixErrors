@@ -101,7 +101,7 @@ It means to maintain or keep alive changes.
 
 What program do we use to write code at CodeYourFuture?
 
-We either use CYF blocks, Code pen or VScode.
+We either use CYF Blocks, Code pen or VScode.
 
 ## Question 17
 
