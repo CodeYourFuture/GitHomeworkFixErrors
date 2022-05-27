@@ -16,7 +16,7 @@ White
 
 What is the product of 2 * 3 * 6 * 1 * 10 * 34?
 
-12960
+12240
 
 ## Question 4 
 
