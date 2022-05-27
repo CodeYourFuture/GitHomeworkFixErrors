@@ -93,7 +93,7 @@ A place for us to store and share our code.
 
 What does it mean to "Commit your changes"?
 
-Write a message explaining what changes you made
+Write a message explaining what changes you made and push it to the repo
 
 ## Question 16
 
