@@ -50,31 +50,31 @@ A programming language used for the internet
 
 What three problem does Git & Github solve?
 
-When people want to show off code to each other they can put it on Github
+Collaboration of project work between number of number uses, Version control and a cloud spce to edit and save work. 
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You delete it
+You have created a your own version of the repository, which you have access to edit without affecting the original version.
 
 ## Question 10 
 
 What happens when you clone a repostory?
 
-It send it to a friend
+You have created a your own version of the repository that you can save on your profile work 
 
 ## Question 11
 
 What is a Pull Request?
 
-When you send a file over the internet
+It is a official request to allow a repository to be updated, which you have edited after you have forked repository. The request is sent to the owner/author of the original repository for approval.
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+It lets you see all past changes made in the file, or repository.
 
 ## Question 13
 
@@ -92,19 +92,19 @@ A place for us to store and share our code.
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+Save your changes
 
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+CYF Blocks
 
 ## Question 17
 
 What do you use "Commit Messages" for?
 
-To record what changes you made to the code
+To record what changes in the messages you made to the code
 
 ## Question 18
 
