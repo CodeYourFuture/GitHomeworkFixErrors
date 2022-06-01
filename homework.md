@@ -4,38 +4,38 @@
 
 What is 2 + 2?
 
-5
+4
 
 ## Question 2
 
 What is the opposite of Black?
 
-Purple
+White
 
 ## Question 3
 
 What is the  2 * 3 * 6 * 1 * 10 * 34?
 
-1322
+12240
 
 ## Question 4 
 
 What does HTML stand for?
 
-Hyper Tall Massive Language
+Hypertext markup Language
 
 ## Question 5
 
 What is CSS useful for?
 
-Making a website go faster
+Describing the presentatio of Web pages, including colors, layout, and fonts.
 
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-#h1 {
+h1 {
 
 }
 ```
@@ -44,43 +44,44 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 What is JavaScript?
 
-A programming language used on the internet
+JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive.
 
 ## Question 8
 
 What three problem does Git & Github solve?
 
-When people want to show off code to each other they can put it on Github
+
+Simply put, Git is a version control system that lets you manage and keep track of your source code history. GitHub is a cloud-based hosting service that lets you manage Git repositories.
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You delete it
+Forking a repository copies the main data, such as files and code. Issues, branches, and allows you to freely experiment with changes without affecting the original project.
 
 ## Question 10 
 
 What happens when you clone a repostory?
 
-It send it to a friend
+When you clone a repository, you are copying it from GitHub.com to your local machine. Cloning a repository downloads a complete copy of all the repository data that GitHub.com has at the time, including all versions of every file and folder in the project.
 
 ## Question 11
 
 What is a Pull Request?
 
-When you send a file over the internet
+Pull requests are a way for a developer to notify team members that a feature has been completed. When their feature branch is complete, the developer submits a pull request to Bitbucket.
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+Git logs provide a history of everything that happens to a repository that you can review and read. The history is created with git-log, a simple tool that provides a plethora of options for displaying commit history.
 
 ## Question 13
 
 What does it meant to "push" changes to Github?
 
-You send the changes of your local repository to Github
+Pushing is the process of transferring commits from your local repository to a remote repository.
 
 ## Question 14
 
@@ -98,7 +99,7 @@ Send you code to Github
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+VS code
 
 ## Question 17
 
