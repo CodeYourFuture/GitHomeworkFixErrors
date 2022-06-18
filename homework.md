@@ -16,7 +16,7 @@ white
 
 What is the 2 _ 3 _ 6 _ 1 _ 10 \* 34?
 
-360
+12440
 
 ## Question 4
 
