@@ -12,11 +12,11 @@ London Class 7 - Chris Owen - HTMl/CSS - Week 1
 
 # Your Details
 
-- Your Name:
-- Your City:
-- Your Slack Name:
+- Your Name: Nishka Kisten
+- Your City: Cape Town
+- Your Slack Name: Nishka-Kisten
 
 # Homework Details
 
-- Module:
-- Week:
+- Module: Git and Github
+- Week: 1
