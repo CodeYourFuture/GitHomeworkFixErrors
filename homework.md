@@ -93,7 +93,7 @@ A place for us to store and share our code.
 
 What does it mean to "Commit your changes"?
 
-When you push changes, you send the committed changes in your local repository to the remote repository on GitHub.
+You save your changes to the local repository.
 
 ## Question 16
 
@@ -105,11 +105,10 @@ Visual Studio Code
 
 What do you use "Commit Messages" for?
 
-It helps you to save time and maintain good communication with other collaborators.
-
+To record what changes you made to the code.
 ## Question 18
 
 `Where can I look to find help with Git?`
 
-The Git Cheatsheet!
+The Git Cheat sheet!
 And Git Help can be accessed from your Git Bash just by typing the command 'git help'.
