@@ -2,7 +2,7 @@
 
 ## Question 1
 
-What is 2 + 2?
+What is 2 + 2
 
 4
 
