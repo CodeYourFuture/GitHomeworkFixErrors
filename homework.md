@@ -32,7 +32,7 @@ it’s used to add style to a web page by dictating how a site is displayed on a
 
 ## Question 6
 
-Using CSS, how would I select every `<h1>` tag on the page?
+Using CSS, how would I select every `<h1>` tag on the page ?
 
 ```css
 h1 {
