@@ -62,7 +62,7 @@ you make it your own version by nesting it within your profile
 
 ## Question 10 
 
-What happens when you clone a repostory?
+What happens when you clone a repository?
 
 you upload it on to your local machine
 
@@ -112,4 +112,4 @@ To send messages so software developers can improve on their work
 
 Where can I look to find help with Git?
 
-The Git Cheatsheet and git documentation and youtube tutorials
+The Git cheat sheet and git documentation and youtube tutorials

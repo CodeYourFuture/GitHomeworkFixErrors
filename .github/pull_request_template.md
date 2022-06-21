@@ -11,12 +11,11 @@ London Class 7 - Chris Owen - HTMl/CSS - Week 1
 -->
 
 # Your Details
-
-- Your Name:
-- Your City:
-- Your Slack Name:
+- Your Name: Abdirahim Sharif Hussein  
+- Your City: Birmingham 
+- Your Slack Name: Abdirahim Sharif Hussein
 
 # Homework Details
 
-- Module:
-- Week:
+- Module: Help with my kids homework
+- Week: 1
