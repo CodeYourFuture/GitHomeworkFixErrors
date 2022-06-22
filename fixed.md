@@ -4,39 +4,38 @@
 
 What is 2 + 2?
 
-5
+4
 
 ## Question 2
 
 What is the opposite of Black?
 
-Purple
+White
 
 ## Question 3
 
-What is the  2 * 3 * 6 * 1 * 10 * 34?
+What is the 2 \* 3 \* 6 \* 1 \* 10 \* 34?
 
-1322
+12240
 
-## Question 4 
+## Question 4
 
 What does HTML stand for?
 
-Hyper Tall Massive Language
+Hyper Text Markup Language
 
 ## Question 5
 
 What is CSS useful for?
 
-Making a website go faster
+Adding styling to a webpage
 
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-#h1 {
-
+h1 {
 }
 ```
 
@@ -44,37 +43,37 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 What is JavaScript?
 
-A programming language used on the internet
+A programming language used as one of the core technologies on the web. It is what makes a webpage more interactive and dynamic.
 
 ## Question 8
 
 What three problem does Git & Github solve?
 
-When people want to show off code to each other they can put it on Github
+It allows us to communicate with our computer, to load/store work on the web, and to collaborate with others.
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You delete it
+You make a copy of someone else's repository into a new repository of your own.
 
-## Question 10 
+## Question 10
 
 What happens when you clone a repostory?
 
-It send it to a friend
+When you clone a repository you are making a copy of that repository on your computer.
 
 ## Question 11
 
 What is a Pull Request?
 
-When you send a file over the internet
+When you make a pull request, you are asking for those works to be combined and your work to be graded.
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+Git history shows you a list of commits made within that repository.
 
 ## Question 13
 
@@ -92,13 +91,13 @@ A place for us to store and share our code.
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+When you commit changes to GitHub you are saying that you are about to push the code to your repository.
 
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+VS Code
 
 ## Question 17
 

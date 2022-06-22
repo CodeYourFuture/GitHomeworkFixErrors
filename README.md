@@ -8,4 +8,3 @@ Can you help him to fix or improve the answers to his homework?
 2. Clone the repository to your computer
 3. Fix the errors in Linus's homework in `homework.md`
 4. Create a Pull Request back to this repository with the correct answers
-
