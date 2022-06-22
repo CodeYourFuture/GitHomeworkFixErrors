@@ -28,7 +28,7 @@ Hyper Text Markup Language
 
 What is CSS useful for?
 
-describing the presentation of Web pages
+Decribing the presentation of Web pages
 
 ## Question 6
 
@@ -56,7 +56,7 @@ When people want to show off code to each other they can put it on Github. Git t
 
 What happens when you `fork` a repository?
 
-You copy it
+You will get the copy of the repository into your github account.
 
 ## Question 10 
 
