@@ -35,7 +35,7 @@ to create a better website with more styles that's why its called cascading styl
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-#h1 {
+h1 {
 
 }
 ```
@@ -50,7 +50,9 @@ A programming language used on the internet
 
 What three problem does Git & Github solve?
 
-When people want to show off code to each other they can put it on Github
+1. Git is used for managing and tracking file revisions.
+2. Git makes collabration easier.
+3. Git allows changes by multiple people to all be merged into one source. 
 
 ## Question 9
 
