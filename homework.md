@@ -45,7 +45,7 @@ h1{
 
 What is JavaScript?
 
-A programming language used on the internet
+A programming language used on the interne
 
 ## Question 8
 
@@ -57,7 +57,7 @@ When people want to show off code to each other they can put it on Github
 
 What happens when you `fork` a repository?
 
-You delete it
+Just copying from one place to your github account
 
 ## Question 10 
 
