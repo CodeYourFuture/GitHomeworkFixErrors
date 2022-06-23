@@ -14,7 +14,7 @@ White
 
 ## Question 3
 
-What is the 2 X 3 X 6 X 1 X 10 X 34?
+What is the 2 * 3 * 6 * 1 * 10 * 34?
 
 12,240
 
