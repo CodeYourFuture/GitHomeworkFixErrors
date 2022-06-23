@@ -14,7 +14,7 @@ White
 
 ## Question 3
 
-What is the 2 _ 3 _ 6 _ 1 _ 10 \* 34?
+What is the 2 X 3 X 6 X 1 X 10 X 34?
 
 12,240
 
@@ -65,21 +65,21 @@ It creates a copy of the repository in GitHub under the user's name.
 
 ## Question 10
 
-What happens when you clone a repostory?
+What happens when you clone a repository?
 
-It creates a "copy" of the repostory on your local machine.
+It creates a "copy" of the repository on your local machine.
 
 ## Question 11
 
 What is a Pull Request?
 
-A puill request allows you to tell others about changes you have pushed to a branch in a repository.
+A pull request allows you to tell others about changes you have pushed to a branch in a repository.
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+The git history log displays all of the commits in a repository's history.
 
 ## Question 13
 
