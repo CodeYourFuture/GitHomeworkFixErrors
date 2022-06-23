@@ -12,11 +12,11 @@ London Class 7 - Chris Owen - HTMl/CSS - Week 1
 
 # Your Details
 
-- Your Name:
-- Your City:
-- Your Slack Name:
+- Your Name:Kavita Patil
+- Your City: Birmingham
+- Your Slack Name: Kavita Patil
 
 # Homework Details
 
-- Module:
-- Week:
+- Module: Homework fix errors
+- Week: 1
