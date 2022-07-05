@@ -12,11 +12,11 @@ London Class 7 - Chris Owen - HTMl/CSS - Week 1
 
 # Your Details
 
-- Your Name:
-- Your City:
-- Your Slack Name:
+- Your Name: Christian Kambulu Mfuke
+- Your City: Cape Town Class 2
+- Your Slack Name: Christian Mfuke
 
 # Homework Details
 
-- Module:
-- Week:
+- Module:HTML/ CSS
+- Week: 1
