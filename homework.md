@@ -22,7 +22,7 @@ What is the  2 * 3 * 6 * 1 * 10 * 34?
 
 What does HTML stand for?
 
-HyperTEXT MARKUP Language
+-HyperTEXT MARKUP Language
 
 ## Question 5
 
@@ -44,7 +44,7 @@ h1 {
 
 What is JavaScript?
 
-JavaScript is a light-weight object-oriented programming language that is used by several websites for scripting the webpages
+-JavaScript is a light-weight object-oriented programming language that is used by several websites for scripting the webpages
 
 ## Question 8
 
