@@ -10,7 +10,7 @@ What is 2 + 2?
 
 What is the opposite of Black?
 
-White
+white
 
 ## Question 3
 
