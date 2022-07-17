@@ -64,7 +64,7 @@ You can freely experiment with changes without affecting the original project.
 
 What happens when you clone a repository?
 
-
+Clone is used to copy an existing Github repository into a new local directory..
 
 ## Question 11
 
