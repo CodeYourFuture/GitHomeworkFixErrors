@@ -82,7 +82,7 @@ The git log command displays all of the commits in a repository's history.
 
 What does it meant to "push" changes to Github?
 
-You send the changes of your local repository to Github
+Push - pushing sends the recent commit history from your local repository up to GitHub. 
 
 ## Question 14
 
