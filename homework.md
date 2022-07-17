@@ -3,39 +3,38 @@
 ## Question 1
 
 What is 2 + 2?
-
-5
+Answer:2 + 2 = 4 
 
 ## Question 2
 
 What is the opposite of Black?
+Answer: White
 
-Purple
 
 ## Question 3
 
 What is the  2 * 3 * 6 * 1 * 10 * 34?
+Answer: 12240
 
-1322
 
 ## Question 4 
 
 What does HTML stand for?
+Answer: Hyper Text Markup Language
 
-Hyper Tall Massive Language
 
 ## Question 5
 
 What is CSS useful for?
+Answer: To style the a web page
 
-Making a website go faster
 
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-#h1 {
+Answer: h1 {
 
 }
 ```
@@ -44,49 +43,55 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 What is JavaScript?
 
-A programming language used on the internet
+Answer: A programming language used for website and programs
 
 ## Question 8
 
 What three problem does Git & Github solve?
+Answer: 1 Collaboration become easier.
+        2 Not losing work 
+        3 Can contribute multiple project as the same time.
 
-When people want to show off code to each other they can put it on Github
 
 ## Question 9
 
 What happens when you `fork` a repository?
+Answer: You "copy" exact file that someone else has in his/her server (otherperson.GitHub.com), to your server (yourname.GitHub.com)
 
-You delete it
 
 ## Question 10 
 
-What happens when you clone a repostory?
+What happens when you clone a repository?
+Answer: You "copy" exact file that you have in your service (GitHub.com) to your GitHub Desktop.
 
-It send it to a friend
 
 ## Question 11
 
 What is a Pull Request?
+Answer: Pull request is to show changes or work you have done to others:-
+   1 to comments and made suggestions.
+   2 take your changes to and add to their code
+   3 and many more reasons.
 
-When you send a file over the internet
 
 ## Question 12
 
 What is the Git History log?
+Answer: It provide information about the commit history in that particular file.
 
-It lets you see into the future
 
 ## Question 13
 
 What does it meant to "push" changes to Github?
+Answer: push command will update your cloud file from the changes you made to your local computer. Other words 
+        it is taking changes you made to your code to the GitHub file.
 
-You send the changes of your local repository to Github
 
 ## Question 14
 
 What is Github?
+Answer: GitHub is a cloud service where you can store your projects and file, and collaborate with others.
 
-A place for us to store and share our code.
 
 ## Question 15
 
@@ -97,8 +102,8 @@ Send you code to Github
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
+Answer: VS Code
 
-Microsoft Word
 
 ## Question 17
 
@@ -110,4 +115,4 @@ To record what changes you made to the code
 
 Where can I look to find help with Git?
 
-The Git Cheatsheet!
+The Git Cheat sheet!
