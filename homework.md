@@ -34,11 +34,10 @@ It’s used to add style to a web page by dictating how a site is displayed on a
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
-```css
-#h1 {
+h1 {
 
 }
-```
+
 
 ## Question 7
 
