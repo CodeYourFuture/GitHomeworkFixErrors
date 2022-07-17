@@ -70,7 +70,7 @@ Clone is used to copy an existing Github repository into a new local directory..
 
 What is a Pull Request?
 
-When you send a file over the internet
+Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub.
 
 ## Question 12
 
