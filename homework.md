@@ -48,7 +48,11 @@ JavaScript is the Programming Language for the Web.
 
 What three problem does Git & Github solve?
 
-When people want to show off code to each other they can put it on Github
+When people want to share code to each other they can put it on Github
+
+Each person can handle different parts of the project.
+
+Developers can work together from anywhere in the world.
 
 ## Question 9
 
