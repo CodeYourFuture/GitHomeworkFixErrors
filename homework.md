@@ -88,7 +88,7 @@ Push - pushing sends the recent commit history from your local repository up to 
 
 What is Github?
 
-A place for us to store and share our code.
+GitHub is a code hosting platform for collaboration and version control.
 
 ## Question 15
 
