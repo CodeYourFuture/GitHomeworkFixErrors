@@ -38,12 +38,11 @@ h1 {
 
 }
 
-
 ## Question 7
 
 What is JavaScript?
 
-A programming language used on the internet
+JavaScript is the Programming Language for the Web.
 
 ## Question 8
 
