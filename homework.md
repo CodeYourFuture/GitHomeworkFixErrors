@@ -58,13 +58,13 @@ Developers can work together from anywhere in the world.
 
 What happens when you `fork` a repository?
 
-You delete it
+You can freely experiment with changes without affecting the original project.
 
 ## Question 10 
 
-What happens when you clone a repostory?
+What happens when you clone a repository?
 
-It send it to a friend
+
 
 ## Question 11
 
