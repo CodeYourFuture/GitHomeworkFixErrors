@@ -50,6 +50,8 @@ Javascript (JS) is a scripting languages, primarily used on the Web.
 
 What three problem does Git & Github solve?
 
+Git is a version control system that lets you manage and keep track of your source code history. 
+GitHub is a cloud-based hosting service that lets you manage Git repositories.
 When people want to show off code to each other they can put it on Github
 
 ## Question 9
