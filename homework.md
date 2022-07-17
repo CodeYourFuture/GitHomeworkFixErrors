@@ -62,13 +62,13 @@ Makes collaboration easier allowing multiple people to work together on the same
 
 What happens when you `fork` a repository?
 
-you make a completely independent copy allowing you to make changes without affecting the original copy. A connection still exists between the forked copy and the original so you can contribute back to the original project with pull requests. Repository remains on github account
+you make a completely independent copy of another person/companies file(s), allowing you to make changes without affecting the original copy. A connection still exists between the forked copy and the original so you can contribute back to the original project with pull requests. Repository remains on github account
 
 ## Question 10 
 
 What happens when you clone a repostory?
 
-You create a linked copy that is copied on your local machine. You receive all code files to your local machine. You must have write access/collab access to push changes to  the original repository.
+You copy a file that is in your github to your local machine. You receive all code files to your local machine. You must have write access/collab access to push changes to  the original repository.
 
 ## Question 11
 
