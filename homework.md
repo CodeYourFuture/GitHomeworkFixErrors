@@ -76,7 +76,7 @@ Pull requests let you tell others about changes you've pushed to a branch in a r
 
 What is the Git History log?
 
-It lets you see into the future
+The git log command displays all of the commits in a repository's history.
 
 ## Question 13
 
