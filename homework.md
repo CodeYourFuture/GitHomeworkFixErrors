@@ -28,7 +28,7 @@ Hyper Tall Massive Language
 
 What is CSS useful for?
 
-Making a website go faster
+the use CSS to style a website like Color or bakgreound ..etc
 
 ## Question 6
 
