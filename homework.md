@@ -112,4 +112,4 @@ To explains what change you made to your project.
 
 Where can I look to find help with Git?
 
-The Git Cheatsheet!
+You can write 'git help --all' on your terminal or Git Bash.
