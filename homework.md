@@ -94,7 +94,7 @@ GitHub is a code hosting platform for collaboration and version control.
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+To save your changes to the local repository.
 
 ## Question 16
 
