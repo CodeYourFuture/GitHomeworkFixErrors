@@ -73,7 +73,7 @@ Pull request is basically making changes to a repository. Requires permission fr
 
 What is the Git History log?
 
-It lets you see into the future
+It lets you see changes made in the past
 
 ## Question 13
 
