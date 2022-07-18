@@ -106,7 +106,7 @@ CodePen and Visual Studio Code
 
 What do you use "Commit Messages" for?
 
-To record what changes you made to the code
+To explains what change you made to your project.
 
 ## Question 18
 
