@@ -16,19 +16,19 @@ white
 
 What is the  2 * 3 * 6 * 1 * 10 * 34?
 
-1322
+12240
 
 ## Question 4 
 
 What does HTML stand for?
 
-Hyper Tall Massive Language
+Hypertext markup language
 
 ## Question 5
 
 What is CSS useful for?
 
-Making a website go faster
+Making a website look impressive
 
 ## Question 6
 
