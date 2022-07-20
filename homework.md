@@ -105,10 +105,9 @@ Visual Studio
 
 What do you use "Commit Messages" for?
 
-To record what changes you made to the code
+A commit message explains what change you made to your project.
 
 ## Question 18
 
 Where can I look to find help with Git?
-
-The Git Cheatsheet!
+Git Help can be accessed from your Git Bash just by typing the command git help .
