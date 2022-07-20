@@ -28,7 +28,7 @@ Hyper Text Markup Language
 
 What is CSS useful for?
 
-Making a website more presentable including colors, layout, and fonts
+Making a website presentable including colors, layout, and fonts
 
 ## Question 6
 
@@ -50,66 +50,67 @@ Javascript (JS) is a scripting languages, primarily used on the Web.
 
 What three problem does Git & Github solve?
 
-Git is a version control system that lets you manage and keep track of your source code history. 
-GitHub is a cloud-based hosting service that lets you manage Git repositories.
-When people want to show off code to each other they can put it on Github
+1. Git is a version control system that lets you manage and keep track of your source code history. 
+2. GitHub is a cloud-based hosting service that lets you manage Git repositories.
+3. When people want to show off code to each other they can put it on Github which lets you and others work together on projects from anywhere.
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You copy it.
+You copy the other people work or original repo under your profile in your Github account.
 
 ## Question 10 
 
 What happens when you clone a repostory?
 
-It send it to a friend
+You copy repo from your Github account to your local repo.
 
 ## Question 11
 
 What is a Pull Request?
 
-When you send a file over the internet
+Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. 
 
 ## Question 12
 
 What is the Git History log?
 
-It displays all of the commits in a repository's history
+It displays all of the commits in a repository's history.
 
 ## Question 13
 
 What does it meant to "push" changes to Github?
 
-You send the changes of your local repository to Github
+You send the changes of your local repository to Github.
 
 ## Question 14
 
 What is Github?
 
-A place for us to store and share our code.
+A place for us to store and share our code
 
 ## Question 15
 
 What does it mean to "Commit your changes"?
 
-Save your code to Github
+Save your changes to your repo
 
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
 
-Visual Studio Code
+VS Code
 
 ## Question 17
 
 What do you use "Commit Messages" for?
 
-To record what changes you made to the code
+To record what changes you made to your project
+
 
 ## Question 18
 
 Where can I look to find help with Git?
 
-The Git Cheatsheet!
+The Git Cheatsheet! Google
