@@ -12,11 +12,11 @@ London Class 7 - Chris Owen - HTMl/CSS - Week 1
 
 # Your Details
 
-- Your Name:
-- Your City:
-- Your Slack Name:
+- Name: REFIK GULAK
+- City: MANCHESTER
+- Slack Name: NW5-MANCHESTER
 
 # Homework Details
 
-- Module:
-- Week:
+- Module:GIT & GITHUB
+- Week:1
