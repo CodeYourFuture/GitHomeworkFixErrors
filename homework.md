@@ -4,7 +4,6 @@
 
 What is 2 + 2?
 
-
 4
 
 ## Question 2
@@ -15,11 +14,11 @@ white
 
 ## Question 3
 
-What is the  2 * 3 * 6 * 1 * 10 * 34?
+What is the 2 _ 3 _ 6 _ 1 _ 10 \* 34?
 
 2,040
 
-## Question 4 
+## Question 4
 
 What does HTML stand for?
 
@@ -37,7 +36,6 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
 h1 {
-
 }
 ```
 
@@ -51,7 +49,7 @@ A programming language that allows you to implement complex features on the web 
 
 What three problem does Git & Github solve?
 Edit and Commit message
-Avoid  repeated merge conflicts
+Avoid repeated merge conflicts
 Easy collaboration with team members
 
 When people want to show off code to each other they can put it on Github
@@ -61,8 +59,7 @@ When people want to show off code to each other they can put it on Github
 What happens when you `fork` a repository?
 It makes a copy of a repository and allows you to freely experiment with the changes without affecting the original project
 
-
-## Question 10 
+## Question 10
 
 What happens when you clone a repository?
 It copy the repository from github.com to a my local machine
@@ -71,7 +68,6 @@ It copy the repository from github.com to a my local machine
 
 What is a Pull Request?
 Is a merge is request and is the target repository grabbing changes to be present
-
 
 ## Question 12
 
@@ -87,7 +83,7 @@ You send the changes of your local repository to Github
 
 ## Question 14
 
-What is Github?
+What is Github?GIY
 
 A place for us to store and share our code.
 
@@ -107,7 +103,7 @@ Visual studio code
 
 What do you use "Commit Messages" for?
 
-To record  and saves what changes you made to the code
+To record and saves what changes you made to the code
 
 ## Question 18
 
