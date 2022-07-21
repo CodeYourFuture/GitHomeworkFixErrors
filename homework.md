@@ -35,7 +35,7 @@ can format the document content: layout, coulors, fonts etc...
 Using CSS, how would I select every `<h1>` tag on the page?
 
 
-.h1{
+h1{
 
 }
 
