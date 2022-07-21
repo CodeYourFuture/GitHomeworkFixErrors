@@ -33,11 +33,11 @@ What is CSS useful for?
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
-```css
+
 h1 {
 
 }
-```
+
 
 ## Question 7
 
@@ -112,5 +112,6 @@ a commit message is the short text you left when you saved your work on Git.
 ## Question 18
 
 Where can I look to find help with Git?
+
 git command -help -  See all the available options for the specific command
 git help --all -  See all possible commands
