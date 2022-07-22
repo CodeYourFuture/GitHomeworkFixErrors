@@ -50,7 +50,7 @@ A programming language used on the internet
 
 What three problem does Git & Github solve?
 
-When people want to share code  and real time edit they can put it on Github
+Developers can share code to make accessible to others; Other developers can make changes to the code; or they can simply use for learning purposes.
 
 ## Question 9
 
