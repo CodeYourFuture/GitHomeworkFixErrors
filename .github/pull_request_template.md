@@ -14,7 +14,7 @@ London Class 7 - Chris Owen - HTMl/CSS - Week 1
 
 - Your Name: Emily Barton
 - Your City: Manchester
-- Your Slack Name: Emily Barton
+- Your Slack Name: EABarton123
 
 # Homework Details
 
