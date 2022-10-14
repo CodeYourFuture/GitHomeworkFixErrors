@@ -4,21 +4,21 @@
 
 What is 2 + 2?
 
-5
+4
 
 ## Question 2
 
 What is the opposite of Black?
 
-Purple
+White
 
 ## Question 3
 
-What is the  2 * 3 * 6 * 1 * 10 * 34?
+What is the 2 _ 3 _ 6 _ 1 _ 10 \* 34?
 
 1322
 
-## Question 4 
+## Question 4
 
 What does HTML stand for?
 
@@ -36,7 +36,6 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
 #h1 {
-
 }
 ```
 
@@ -58,7 +57,7 @@ What happens when you `fork` a repository?
 
 You delete it
 
-## Question 10 
+## Question 10
 
 What happens when you clone a repostory?
 
