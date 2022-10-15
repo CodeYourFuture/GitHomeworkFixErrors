@@ -16,13 +16,13 @@ White
 
 What is the 2 _ 3 _ 6 _ 1 _ 10 \* 34?
 
-1322
+36595
 
 ## Question 4
 
 What does HTML stand for?
 
-Hyper Tall Massive Language
+Hyper Text language
 
 ## Question 5
 
