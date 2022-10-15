@@ -28,7 +28,7 @@ Hyper Text language
 
 What is CSS useful for?
 
-Making a website go faster
+play
 
 ## Question 6
 
