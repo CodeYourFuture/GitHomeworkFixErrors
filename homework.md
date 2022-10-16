@@ -4,38 +4,38 @@
 
 What is 2 + 2?
 
-5
+4
 
 ## Question 2
 
 What is the opposite of Black?
 
-Purple
+White
 
 ## Question 3
 
 What is the  2 * 3 * 6 * 1 * 10 * 34?
 
-1322
+12240
 
 ## Question 4 
 
 What does HTML stand for?
 
-Hyper Tall Massive Language
+HyperText Markup Language
 
 ## Question 5
 
 What is CSS useful for?
 
-Making a website go faster
+CSS gives a website its look and layout.
 
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-#h1 {
+h1 {
 
 }
 ```
@@ -44,37 +44,39 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 What is JavaScript?
 
-A programming language used on the internet
+A scripting or programming language that allows you to implement complex features on website.
 
 ## Question 8
 
 What three problem does Git & Github solve?
 
-When people want to show off code to each other they can put it on Github
+Git helps you to save your work easily and go back to it when you need it.
+Github helps you to save your repo there and check the history of your Git.
+also Github help you to work on your code with your friends or colleagues easily.  
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You delete it
+make copy a repository for yourself
 
 ## Question 10 
 
-What happens when you clone a repostory?
+What happens when you clone a repository?
 
-It send it to a friend
+you make a copy of that to your local pc.
 
 ## Question 11
 
 What is a Pull Request?
 
-When you send a file over the internet
+When you send a file to the owner of repository in Github.
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+It lets you see into the checkpoints you saved in past.
 
 ## Question 13
 
@@ -92,13 +94,13 @@ A place for us to store and share our code.
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+save your Git changes. (checkpoints)
 
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+VS code
 
 ## Question 17
 
@@ -111,3 +113,4 @@ To record what changes you made to the code
 Where can I look to find help with Git?
 
 The Git Cheatsheet!
+you can ask in slack :D
