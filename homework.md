@@ -44,7 +44,7 @@ h1 {
 
 What is JavaScript?
 
-A programming language used on the internet
+JavaScript is a scripting or programming language that allows you to implement complex features on web pages
 
 ## Question 8
 
