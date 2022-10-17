@@ -53,7 +53,7 @@ Better collaboration between the team, there is no duplicates, highlight the cha
 
 What happens when you `fork` a repository?
 
-You create the branch to the main repository
+It allows you to make changes without affecting the original project.
 
 ## Question 10
 
