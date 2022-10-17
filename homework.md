@@ -58,7 +58,7 @@ What three problem does Git & Github solve?
 
 What happens when you `fork` a repository?
 
-You delete it
+A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.
 
 ## Question 10 
 
