@@ -16,7 +16,7 @@ white
 
 What is the  2 * 3 * 6 * 1 * 10 * 34?
 
-1224
+12240
 
 ## Question 4 
 
@@ -35,16 +35,16 @@ for presenting of web pages,including colors,layout and fonts.
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
++h1 {
 }
 
-}
 ```
 
 ## Question 7
 
 What is JavaScript?
 
-A programming language for the web
+A programming language that used by programmers across the world to create dynamic and interactie web content like applications and browsers.
 
 ## Question 8
 
@@ -95,7 +95,7 @@ save change in local repository
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+VS code
 
 ## Question 17
 
