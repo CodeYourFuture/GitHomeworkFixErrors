@@ -16,7 +16,7 @@ White
 
 What is the sum of:  2 * 3 * 6 * 1 * 10 * 34 = ?
 
-1322
+12240
 
 ## Question 4 
 
@@ -28,7 +28,7 @@ Hyper Text Markup Language
 
 What is CSS useful for?
 
-Making a website pretty and interesting 
+CSS is used to define styles for your web pages, including the design, layout and variations in display for different devices and screen sizes. It is independent of HTML.
 
 ## Question 6
 
