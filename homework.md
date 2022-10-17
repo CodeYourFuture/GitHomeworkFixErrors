@@ -94,7 +94,7 @@ GitHub is a for-profit company that offers a cloud-based Git repository hosting 
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+Sending the changes you made to your working copy is known as committing the changes.
 
 ## Question 16
 
