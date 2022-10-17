@@ -58,7 +58,7 @@ When people want to show off code to each other they can put it on Github,people
 
 What happens when you `fork` a repository?
 
-That repository copied to your github.
+That repository copied to your github profile.
 
 ## Question 10 
 
