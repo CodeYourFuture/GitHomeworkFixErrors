@@ -101,7 +101,7 @@ This is an individual change to a file or repository. Every time you create a co
 
 What program do we use to write code at CodeYourFuture?
 
-JavaScript
+VSCode
 
 ## Question 17
 
