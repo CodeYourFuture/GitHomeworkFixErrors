@@ -88,7 +88,7 @@ When you push changes, you send the committed changes in your local repository t
 
 What is Github?
 
-A place for us to store and share our code.
+GitHub is a for-profit company that offers a cloud-based Git repository hosting service.
 
 ## Question 15
 
