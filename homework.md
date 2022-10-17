@@ -59,13 +59,13 @@ being host of your own copy of the repository on Github where you allowed to cha
 ## Question 10
 
 What happens when you clone a repository?
-get a copy of code from repo((github)to local computer
+get a copy of code from repo(github)to local computer
 
 ## Question 11
 
 What is a Pull Request?
 
-when you send your change to main repository which other can see that
+when you send your changes to main repository which other can see that
 
 ## Question 12
 
@@ -75,7 +75,7 @@ The git log command shows a list of all the commits made to a repository.
 
 ## Question 13
 
-What does it meant to "push" changes to Github?
+What does it mean to "push" changes to Github?
 
 You send the changes of your local repository to Github.
 
@@ -89,7 +89,7 @@ Github is a repository hosting service for Git that also has a web-based graphic
 
 What does it mean to "Commit your changes"?
 
-for saving changes in the local repository.
+For saving changes in the local repository.
 
 ## Question 16
 
@@ -100,10 +100,10 @@ VS code
 ## Question 17
 
 What do you use "Commit Messages" for?
-a commit message what changes you made to your project.
+It is a way of communication between team members which show what changes you made to your project.
 
 ## Question 18
 
 Where can I look to find help with Git?
 
-there is an handy reference at Git Cheatsheet (https://syllabus.codeyourfuture.io/git/desktop/cheatsheet) and github channels(https://www.youtube.com/githubguides).
+There is an handy reference at Git Cheatsheet (https://syllabus.codeyourfuture.io/git/desktop/cheatsheet) and github channels(https://www.youtube.com/githubguides).
