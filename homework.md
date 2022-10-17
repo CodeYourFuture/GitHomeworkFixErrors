@@ -106,7 +106,7 @@ Microsoft Visual Code
 
 What do you use "Commit Messages" for?
 
-Terminal
+To leave a descrptive and helpfull message for others about what change has been made.
 
 ## Question 18
 
