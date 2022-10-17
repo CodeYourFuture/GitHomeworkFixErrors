@@ -63,7 +63,7 @@ You create a copy of it on your Github Profile
 
 What happens when you clone a repostory?
 
-You create a copy of it on your Github Profile
+When you clone a repository, you copy the repository from GitHub.com to your local machine. 
 
 ## Question 11
 
