@@ -98,6 +98,11 @@ What does it mean to "Commit your changes"?
 
 Sending the changes you made to your working copy is known as committing the changes.
 
+A staging step in git allows you to continue making changes to the working directory, and when you decide you wanna interact with version control, it allows you to record changes in small commits.
+
+
+A commit is a snapshot in time. Each commit contains a pointer to its root tree, representing the state of the working directory at that time. 
+
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
