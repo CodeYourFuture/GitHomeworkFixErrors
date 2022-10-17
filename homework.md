@@ -47,20 +47,18 @@ JavaScript is a programming language known as JS which came along with HTML and 
 ## Question 8
 
 What three problems does Git & Github solve?
-
-When people want to show off code to each other they can put it on Github
+1.helps people to share information
+2.When multiple people collaborate on a project , its hard to keep track revision .github takes care of this problem by keeping track of all changes.
+3.Allows users to make checkpoints so that they can save their work as they go along.
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You delete it
-
 ## Question 10
 
-What happens when you clone a repostory?
-
-It send it to a friend
+What happens when you clone a repository?
+get a copy of code from repo((github)to local computer
 
 ## Question 11
 
