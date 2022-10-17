@@ -4,51 +4,49 @@
 
 What is 2 + 2?
 
-5
+4
 
 ## Question 2
 
 What is the opposite of Black?
 
-Purple
+white
 
 ## Question 3
 
-What is the  2 * 3 * 6 * 1 * 10 * 34?
+What is the 2 _ 3 _ 6 _ 1 _ 10 \* 34?
 
-1322
+12240
 
-## Question 4 
+## Question 4
 
 What does HTML stand for?
 
-Hyper Tall Massive Language
+HTML is the computer language that structures all the webpages and gives meaning to them on the internet.
 
 ## Question 5
 
 What is CSS useful for?
 
-Making a website go faster
+CSS is a the computer language to style an HTML to make a webpage looks great
 
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-#h1 {
-
+h1 {
 }
 ```
 
 ## Question 7
 
 What is JavaScript?
-
-A programming language used on the internet
+JavaScript is a programming language known as JS which came along with HTML and CSS for webpages behavior. using it to build complex interactive website.used as a most client-side programing language.
 
 ## Question 8
 
-What three problem does Git & Github solve?
+What three problems does Git & Github solve?
 
 When people want to show off code to each other they can put it on Github
 
@@ -58,7 +56,7 @@ What happens when you `fork` a repository?
 
 You delete it
 
-## Question 10 
+## Question 10
 
 What happens when you clone a repostory?
 
@@ -86,7 +84,7 @@ You send the changes of your local repository to Github
 
 What is Github?
 
-A place for us to store and share our code.
+Github is a repository hosting service for Git that also has a web-based graphical interface.
 
 ## Question 15
 
