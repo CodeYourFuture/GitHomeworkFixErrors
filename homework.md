@@ -70,7 +70,7 @@ When you clone a repository, you copy the repository from GitHub.com to your loc
 
 What is a Pull Request?
 
-When you send a file over the internet
+Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub.
 
 ## Question 12
 
