@@ -56,7 +56,8 @@ When people want to show off code to each other they can put it on Github
 
 What happens when you `fork` a repository?
 
-You copy it
+You copy it 
+Allows you to freely experiment with changes without affecting the original project.
 
 ## Question 10 
 
@@ -98,13 +99,13 @@ To save the changes to the local repository
 
 What program do we use to write code at CodeYourFuture?
 
-Linux
+VS code
 
 ## Question 17
 
 What do you use "Commit Messages" for?
 
-To record what changes you made to the code and to give clear, helpful messages, describing what changed, and why.
+To give clear, helpful messages, describing what changed, and why.
 
 ## Question 18
 
