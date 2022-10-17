@@ -50,7 +50,9 @@ JavaScript is a scripting or programming language that allows you to implement c
 
 What three problem does Git & Github solve?
 
-When people want to show off code to each other they can put it on Github
+1. Undo local commits
+2. Remove a file from git without removing it from your file system
+3. Discard local file modifications
 
 ## Question 9
 
