@@ -34,12 +34,10 @@ To style and layout web pages
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
-````css
-<h1>
+```css
+h1 {
 
-
-```/<h1>
-
+}
 ## Question 7
 
 What is JavaScript?
@@ -110,4 +108,4 @@ We save the changes and text a short description about any change
 Where can I look to find help with Git?
 
 The Git Bash!
-````
+```
