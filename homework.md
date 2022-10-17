@@ -54,6 +54,7 @@ What three problems does Git & Github solve?
 ## Question 9
 
 What happens when you `fork` a repository?
+being host of your own copy of the repository on Github where you allowed to change without changing on the original project
 
 ## Question 10
 
@@ -64,19 +65,19 @@ get a copy of code from repo((github)to local computer
 
 What is a Pull Request?
 
-When you send a file over the internet
+when you send your change to main repository which other can see that
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+The git log command shows a list of all the commits made to a repository.
 
 ## Question 13
 
 What does it meant to "push" changes to Github?
 
-You send the changes of your local repository to Github
+You send the changes of your local repository to Github.
 
 ## Question 14
 
@@ -88,22 +89,21 @@ Github is a repository hosting service for Git that also has a web-based graphic
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+for saving changes in the local repository.
 
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+VS code
 
 ## Question 17
 
 What do you use "Commit Messages" for?
-
-To record what changes you made to the code
+a commit message what changes you made to your project.
 
 ## Question 18
 
 Where can I look to find help with Git?
 
-The Git Cheatsheet!
+there is an handy reference at Git Cheatsheet (https://syllabus.codeyourfuture.io/git/desktop/cheatsheet) and github channels(https://www.youtube.com/githubguides).
