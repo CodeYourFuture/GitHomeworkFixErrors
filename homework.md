@@ -32,12 +32,11 @@ To style and layout web pages
 
 ## Question 6
 
-Using CSS, how would I select every `<h1>` tag on the page?
+Using CSS, how would I select every `'<h1>' tag on the page?
 
-```css
 h1 {
-
 }
+
 ## Question 7
 
 What is JavaScript?
@@ -48,7 +47,7 @@ A programming language that allows to implement complex features on web pages
 
 What three problem does Git & Github solve?
 
-Clone, Commit, Push the repositories
+They enable developers to upload their own code files, to collaborate with other developers and serve for development of software and control it.
 
 ## Question 9
 
@@ -107,5 +106,10 @@ We save the changes and text a short description about any change
 
 Where can I look to find help with Git?
 
-The Git Bash!
-```
+https://www.w3schools.com/git
+
+https://www.tutorialspoint.com/git
+
+https://www.frecodecamp.org
+
+https:/
