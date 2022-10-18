@@ -35,9 +35,10 @@ To style and layout web pages.
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-h1 * {
+h1 {
+
 }
-```
+
 
 ## Question 7
 
@@ -110,3 +111,4 @@ T o record what changes you made to the code.
 Where can I look to find help with Git?
 
 The Git help command.
+```
