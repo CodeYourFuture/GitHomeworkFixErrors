@@ -32,9 +32,10 @@ To style and layout web pages
 
 ## Question 6
 
-Using CSS, how would I select every `'<h1>' tag on the page?
+Using CSS, how would I select every `<h1> tag on the page?
 
 h1 {
+
 }
 
 ## Question 7
