@@ -147,14 +147,14 @@ https://git-scm.com/book/en/v2
 ## GitHub CLI Commands & Git Commands used for this Pull Request
 
 1. gh repo fork https://github.com/CodeYourFuture/GitHomeworkFixErrors --fork-name "git-fix-errors" --clone
-2. git status
-3. git add .
-4. git commit -m "completed homework"
-5. git push
-6. gh pr create
-7. base repository: CodeYourFuture/GitHomeworkFixErrors
-8. specify Title: London 9 - Baz Murphy - Git&GitHub - Week 1
-9. Choose a template: pull_request_template.md
-10. specify Body: e to open Notepad
-11. Write body. Save. Close Notepad.
-12. Submit
+2. cd git-fix-errors
+3. git status
+4. git add .
+5. git commit -m "completed homework"
+6. git push
+7. gh pr create
+8. base repository: CodeYourFuture/GitHomeworkFixErrors
+9. title: London 9 - Baz Murphy - Git&GitHub - Week 1
+10. template: pull_request_template.md
+11. body: e to open notepad, write body. save. close notepad.
+12. submit
