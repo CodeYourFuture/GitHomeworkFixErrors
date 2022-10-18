@@ -56,7 +56,7 @@ git is tool that's used to manage the multiple versions of source code edits tha
 
 What happens when you `fork` a repository?
 
-You copy it.
+we create a completely independent copy of a Git repository .
 
 ## Question 10 
 
@@ -67,11 +67,11 @@ you copy a repository from from gitub.com to your local machine.
 ## Question 11
 
 What is a Pull Request?
-merging new code change with the main project repository
+"Pull Request" is an event that takes place in software development when a developer is ready to begin the process of merging new code changes with the main project repository.
 
 ## Question 12
 
-What is the Git History 
+ What is the Git History?
 it shows a list of all the commits made to a repository.
 
 ## Question 13
