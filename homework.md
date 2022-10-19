@@ -38,12 +38,8 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 h1 is one of selectors headings, when we declare the tag .h1 automatically we selected and aply the style we want. 
 
-h1 tags are the main header in a web article. there should only be one h1 per page. eg.
-```css
-.h1 {
+h1 tags are the main header in a web article. there should only be one h1 per page.
 
-}
-```
 
 ## Question 7
 
