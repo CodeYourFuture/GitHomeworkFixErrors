@@ -106,7 +106,7 @@ will save all staged chages of the project
 
 What program do we use to write code at CodeYourFuture?
 
-javascript
+Visual Studio Code
 
 ## Question 17
 
