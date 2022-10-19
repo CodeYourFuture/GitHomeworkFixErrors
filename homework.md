@@ -51,7 +51,7 @@ What three problem does Git & Github solve?
 
 1. Prevent to make many copies of a file as different backups.
 2. Easy way to collaborate and teamwork with everybody anywhere.
-3. Quickly track all of our changes, including what we have deleted, added and so in each commit.
+3. Quickly track all of our changes, including what we have deleted, added, etc in each commit.
 
 ## Question 9
 
