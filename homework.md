@@ -16,7 +16,7 @@ White
 
 What is the  2 * 3 * 6 * 1 * 10 * 34?
 
-10240
+12240
 
 ## Question 4 
 
@@ -103,4 +103,4 @@ Commit messages are a way of communication between team members. Let's say there
 Where can I look to find help with Git?
 
 Git Help can be accessed from your Git Bash just by typing the command git help .
-Slack )
+Slack 
