@@ -14,7 +14,7 @@ White
 
 ## Question 3
 
-What is the 2 *3 *6 *1 *10 * 34?
+What is the 2 *3 *6 *1 *10 \* 34?
 
 12,240
 
@@ -57,13 +57,13 @@ What three problem does Git & Github solve?
 
 What happens when you `fork` a repository?
 
-Forking creates an independent copy of a repository on the local machines which allows adding changes to the file without affecting the initial document.
+Forking creates an independent copy of a repository on the remote location which allows adding changes to the file without affecting the initial document.
 
 ## Question 10
 
 What happens when you clone a repository?
 
-Cloning a repository it creates a linked copy of the files on the local computer that will keep synchronizing with the initial repository.
+Cloning a repository it creates a linked copy of the files on the local machine.
 
 ## Question 11
 
