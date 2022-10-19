@@ -4,77 +4,87 @@
 
 What is 2 + 2?
 
-5
+4
 
 ## Question 2
 
 What is the opposite of Black?
 
-Purple
+white
 
 ## Question 3
 
-What is the  2 * 3 * 6 * 1 * 10 * 34?
+What is the 2 _ 3 _ 6 _ 1 _ 10 \* 34?
 
-1322
+12240
 
-## Question 4 
+## Question 4
 
 What does HTML stand for?
 
-Hyper Tall Massive Language
+HTML (HyperText Markup Language) is the code that is used to structure a web page and its content.
 
 ## Question 5
 
 What is CSS useful for?
 
-Making a website go faster
+Cascading Style Sheets or CSS is the language we use to style an HTML document.
 
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
-```css
-#h1 {
+<style>
+h1 {
 
 }
-```
+</style>
 
 ## Question 7
 
 What is JavaScript?
 
-A programming language used on the internet
+JavaScript is a scripting language that enables you to create dynamically updating content, control multimedia, animate images etc
 
 ## Question 8
 
 What three problem does Git & Github solve?
+1. share information
+2. we can make our own changes and share it 
+3.Allows us to make checkpoints and tracking
 
-When people want to show off code to each other they can put it on Github
+
+Git is a system for storing changes to files in commits, and sharing them between different computers. 
+
+GitHub is a website which will store a copy of your Git repository, and allow you to clone it, and push changes to it. 
+
+
+
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You delete it
+Copy of repository-we can do changes without affecting the whole project
+This is called a fork.
 
-## Question 10 
+## Question 10
 
 What happens when you clone a repostory?
 
-It send it to a friend
+Clone means to do local copy -download on my computer
 
 ## Question 11
 
 What is a Pull Request?
 
-When you send a file over the internet
+Pull Request - I want the person who owns the repository to look at the changes, and pull the changes into his repository
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+In GitHub Desktop, when you open the History tab, you can see a list of each commit that's been made in the repository, with the oldest at the bottom and the newest at the top.
 
 ## Question 13
 
@@ -87,18 +97,21 @@ You send the changes of your local repository to Github
 What is Github?
 
 A place for us to store and share our code.
+* Git is not the same as GitHub.
+* GitHub makes tools that use Git.
+* GitHub is the largest host of source code in the world
 
 ## Question 15
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+Sending the changes you made to your working copy
 
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+VS Code
 
 ## Question 17
 
