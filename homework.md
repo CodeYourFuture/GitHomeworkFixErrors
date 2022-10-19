@@ -14,9 +14,9 @@ White
 
 ## Question 3
 
-What is the 2*3*6*1*10\34?
+What is the 2x3x6x1x10x34?
 
-10.588
+12240
 
 ## Question 4
 
