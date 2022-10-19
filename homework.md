@@ -59,7 +59,7 @@ Git is a version control tool, used to keep the history of changes, and make col
 
 What happens when you `fork` a repository?
 
-This is called a fork. It's a copy of the repository, where you're allowed to make changes.
+This is called a fork. It's a remote copy of the repository on your localhost, where you're allowed to make changes.
 
 ## Question 10 
 
