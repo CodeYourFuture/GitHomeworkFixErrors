@@ -97,7 +97,7 @@ It records changes in your branch.
 
 What program do we use to write code at CodeYourFuture?
 
-Visual Studio Code (VSCode)
+Visual Studio Code (VSCode).
 
 ## Question 17
 
