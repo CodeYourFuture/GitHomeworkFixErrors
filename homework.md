@@ -65,7 +65,7 @@ When a repository is forked it means that an independent copy of the file/s were
 
 What happens when you clone a repostory?
 
-It send it to a local computer
+When a repository is cloned a copy of the targeted repository is then stored in a developer's GitHub. It does a bit more than storing it since the originator of the targeted repo would be aware of the clone. To have the changes reviewed the revised file can then be sent using a pull request so that it can be examined and shared amongst other contributors of that targeted repo. 
 
 ## Question 11
 
@@ -77,7 +77,7 @@ After a remote repository is cloned/forked and changes have been made to it loca
 
 What is the Git History log?
 
-It lets you see into the future
+Git History can be accessed by running the git log command in the Terminal. It displays a list of each commit—the ref ID, the author, the date, the commit message, and if it’s the HEAD of any branches. It is useful for tracking git commits.
 
 ## Question 13
 
