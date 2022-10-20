@@ -50,7 +50,10 @@ A programming language used on the internet
 
 What three problem does Git & Github solve?
 
-When people want to show off code to each other they can put it on Github
+
+1. Once our files are tracked by Git and pushed to Github the platform stores a copy of those files hence solving the problem of deleting a file in error on your local computer.
+2. Because Git and GitHub serves as a version control it keeps a very detailed record or log of files which then allows us to track changes such as dates and times they were made etc. Since it has such precise capabilities it solves the problem of having to spend time searching for errors in our code if there is a bug as GitHub clearly pinpoints this information for us.
+3. Last but not least, another feature of GitHub is control, though public, only the creator of a  main branch of a repository has authority to change or update the main branch of a repo, this feature solves the issue of unauthorized persons changing code or different aspects of your files for instance. Yes changes can be made by contributors but they would not be authorized to push those changes to the main branch without authority.
 
 ## Question 9
 
