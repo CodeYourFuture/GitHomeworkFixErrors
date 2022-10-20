@@ -98,7 +98,7 @@ saving the changes
 
 What program do we use to write code at CodeYourFuture?
 
-JavaScript
+Visual Studio Code
 
 ## Question 17
 
