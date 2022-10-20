@@ -68,7 +68,7 @@ It send it to a local computer
 
 What is a Pull Request?
 
-When you send a file over the internet to the main acess
+After a remote repository is cloned/forked and changes have been made to it locally, a pull request can be made in order for the changes to be viewed/reviewed on Github by the developer who established the main branch and by other developers. Pull requests are useful because a number of persons can make an input to code and these changes can be reviewed before a decision is made on whether to push the changes or not.
 
 ## Question 12
 
