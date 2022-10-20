@@ -101,7 +101,7 @@ Send you code to Github
 
 What program do we use to write code at CodeYourFuture?
 
-linux
+visual studio
 
 ## Question 17
 
@@ -113,4 +113,5 @@ To record what changes you made to the code
 
 Where can I look to find help with Git?
 
-The Git Cheatsheet!
+
+The git help
