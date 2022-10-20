@@ -44,7 +44,7 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 What is JavaScript?
 
-A programming language used on the internet
+My understanding of JavaScript is that it is a very useful programming language which is used to create interactive effects on a webpage. For example, JavaScript can enable a webpage to simply collect data inputted to a particular field but one can also tell the computer using the javascript language what it should do with the collected data. For instance, maybe we want to store the collected data in a particular order/format. We can then use JavaScript to achieve this goal.
 
 ## Question 8
 
