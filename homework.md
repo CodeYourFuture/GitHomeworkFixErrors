@@ -60,17 +60,17 @@ What three problems does Git & Github solve?
 
 What happens when you `fork` a repository?
 
-When a repository is forked it means that an independent copy of the file was made. Forking a file means that there would be no connection between the forked repo and the remote repository it was forked from. Therefore the action itself would not be noticed or in other words the originator of the forked repo would have no knowledge of the fork.  Also, since it is not synchronized, previous contributors would have no access to any changes/updates made as the forked repo would bare no relationship to the repository it was forked from.
+When a repository is forked it means that an independent copy of the file was made. Forking a file means that there would be no connection between the forked repo and the remote repository it was forked from. Therefore the action itself would not be noticed or in other words the originator of the forked repo would have no knowledge of the fork.  Also, since it is not synchronized, previous contributors would have no access to any changes/updates made as the forked repo would bare no relationship to the repository it was forked from. However, a pull request can be done to merge a forked repo with the original one. Only then changes can be reviewed by others. we must also remember that no commands are used to do a 'fork' as this is considered a concept.
 
 What happens when you clone a repository?
 
-When a repository is cloned a copy of the targeted repository is then stored in a developer's GitHub. It does a bit more than storing it since the originator of the targeted repo would be aware of the clone. To have the changes reviewed the revised file can then be sent using a pull request so that it can be examined and shared amongst other contributors of that targeted repo. 
+When a repository is cloned a copy of the targeted repo is then stored on your local computer. It does a bit more than storing it since the originator of the targeted repo would be aware of the clone. If the developer cloning does not have the right access they would not be able to push changes to the remote repo but instead would have to fork the cloned repo and then do a pull request so that others can see the changes made. Cloning is a process and uses the command git clone.
 
 ## Question 11
 
 What is a Pull Request?
 
-After a remote repository is cloned and changes have been made to it locally, a pull request can be made in order for the changes to be viewed/reviewed on Github by the developer who established the main branch and by other developers. Pull requests are useful because a number of persons can make an input to code and these changes can be reviewed before a decision is made on whether to push the changes or not.
+After a remote repository is cloned/forked and changes have been made to it locally, a pull request can be made in order for the changes to be viewed/reviewed on Github by the developer who established the main branch and by other developers. Pull requests are useful because a number of persons can make an input to code and these changes can be reviewed before a decision is made on whether to push the changes or not.
 
 ## Question 12
 
