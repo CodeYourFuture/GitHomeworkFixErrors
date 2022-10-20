@@ -35,7 +35,7 @@ Making a website stylish
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-#h1 {
+h1 {
 
 }
 ```
@@ -106,12 +106,11 @@ visual studio
 ## Question 17
 
 What do you use "Commit Messages" for?
-
-To record what changes you made to the code
+Commit messages are used to store a message that identifies or explains an update.
 
 ## Question 18
 
 Where can I look to find help with Git?
 
 
-The git help
+The git help, Youtube
