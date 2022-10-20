@@ -60,7 +60,7 @@ What three problems does Git & Github solve?
 
 What happens when you `fork` a repository?
 
-When a repository is forked it means that an independent copy of the file was made. Forking a file means that there would be no connection between the forked repo and the remote repository it was forked from. Therefore the action itself would not be noticed or in other words the originator of the forked repo would have no knowledge of the fork.  Also, since it is not synchronized, previous contributors would have no access to any changes/updates made as the forked repo would bare no relationship to the repository it was forked from. However, a pull request can be done to merge a forked repo with the original one. Only then changes can be reviewed by others. we must also remember that no commands are used to do a 'fork' as this is considered a concept.
+When a repository is forked it means that an independent copy of the file/s were made. Forking a file means that there would be no connection between the forked repo and the remote repository it was forked from. Therefore the action itself would not be noticed or in other words the originator of the forked repo would have no knowledge of the fork.  Also, since it is not synchronized, previous contributors would have no access to any changes/updates made as the forked repo would bare no relationship to the repository it was forked from. However, a pull request can be done to merge a forked repo with the original one. Only then changes can be reviewed by others. we must also remember that no commands are used to do a 'fork' as this is considered a concept.
 
 What happens when you clone a repository?
 
