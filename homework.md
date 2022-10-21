@@ -75,7 +75,8 @@ For merge my changes into other people's repository
 
 What is the Git History log?
 
-It lets you see into the history
+~~It lets you see into the history~~
+Git log is a utility tool to review and read a history of everything that happens to a repository
 
 ## Question 13
 
@@ -105,10 +106,10 @@ VS Code
 
 What do you use "Commit Messages" for?
 
-To record what changes you made to the code
+To record what+why changes you made to the code
 
 ## Question 18
 
 Where can I look to find help with Git?
 
-The Git Cheatsheet!
+The Git Cheatsheet and git help(git's cli)
