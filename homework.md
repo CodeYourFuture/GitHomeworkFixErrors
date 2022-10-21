@@ -24,14 +24,14 @@ What does HTML stand for?
 
 HyperText Markup Language
 
-HTML (HyperText Markup Language) is a descriptive language that specifies webpage structure.
+"HTML (HyperText Markup Language) is a descriptive language that specifies webpage structure."
 https://developer.mozilla.org/en-US/docs/Glossary/HTML
 
 ## Question 5
 
 What is CSS useful for?
 
-CSS (Cascading Style Sheets) is a declarative language that controls how webpages look in the browser.
+"CSS (Cascading Style Sheets) is a declarative language that controls how webpages look in the browser."
 https://developer.mozilla.org/en-US/docs/Glossary/CSS
 
 ## Question 6
@@ -47,28 +47,31 @@ h1 {
 
 What is JavaScript?
 
-JavaScript is a scripting or programming language that allows you to implement complex features on web pages.
+"JavaScript is a scripting or programming language that allows you to implement complex features on web pages."
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript#a_high-level_definition
 
 ## Question 8
 
 What three problem does Git & Github solve?
 
-Version Control, Collaboration, Archiving(Backups) and/or Restoring, (and Performance)
+Version Control, Collaboration, Archiving(Backups) and/or Restoring, (and Performance ie. the speed at which it can generally peform these tasks)
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You create your own copy of that specific remote repository in your own GitHub account.
+You create your own remote copy (in your GitHub account) of someone else's remote repository.
 
-A fork is a copy of a repository.
-Forking a repository allows you to freely experiment with changes without affecting the original project.
+"A fork is a copy of a repository.
+Forking a repository allows you to freely experiment with changes without affecting the original project."
 https://docs.github.com/en/get-started/quickstart/fork-a-repo
 
 ## Question 10
 
 What happens when you clone a repostory?
+
+cloning a repository is to download a local copy of a remote repository.
+(eg. from someones github account(it could also be your own) to your laptop)
 
 When you create a repository on GitHub.com, it exists as a remote repository.
 You can clone your repository to create a local copy on your computer and sync between the two locations.
@@ -78,24 +81,28 @@ https://docs.github.com/en/repositories/creating-and-managing-repositories/cloni
 
 What is a Pull Request?
 
-Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch.
+A Pull Request is in essence the attempt to merge your own forked branch (be that local OR remote) with the remote repository that the fork was forked from.
+
+"Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub.
+Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch."
 https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
 
 ## Question 12
 
 What is the Git History log?
 
-It shows you a history of the commits to the repository.
+It shows you a history of the commits made to that repository.
 
-After you have created several commits, or if you have cloned a repository with an existing commit history, you’ll probably want to look back to see what has happened. The most basic and powerful tool to do this is the git log command.
-By default, with no arguments, git log lists the commits made in that repository in reverse chronological order; that is, the most recent commits show up first. As you can see, this command lists each commit with its SHA-1 checksum, the author’s name and email, the date written, and the commit message.
+"After you have created several commits, or if you have cloned a repository with an existing commit history, you’ll probably want to look back to see what has happened. The most basic and powerful tool to do this is the git log command.
+By default, with no arguments, git log lists the commits made in that repository in reverse chronological order; that is, the most recent commits show up first. As you can see, this command lists each commit with its SHA-1 checksum, the author’s name and email, the date written, and the commit message."
 https://www.git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History
 
 ## Question 13
 
 What does it meant to "push" changes to Github?
 
-You send(upload) the changes of your local repository to the remote repository stored on Github.
+You send/upload/"push" the changes of your local repository to the remote repository (in our case stored on Github).
+
 "Use git push to push commits made on your local branch to a remote repository."
 https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository
 
@@ -103,12 +110,17 @@ https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-rep
 
 What is Github?
 
-GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+GitHub is essentially a cloud-based code hosting service that understand and uses .git and all that that entails.
+
+"GitHub is a code hosting platform for version control and collaboration.
+It lets you and others work together on projects from anywhere."
 https://docs.github.com/en/get-started/quickstart/hello-world
 
 ## Question 15
 
 What does it mean to "Commit your changes"?
+
+Commit is the process of taking the files which are in your staging area (which have been put there using the git add command) and saving what is currently in your staging area as a "snapshot"("commit"), it attaches to this the user/email/datetime and other details. We can then push that commit, if we are happy with its contents.
 
 Similar to saving a file that's been edited, a commit records changes to one or more files in your branch.
 Git assigns each commit a unique ID, called a SHA or hash, that identifies:
@@ -131,15 +143,20 @@ https://code.visualstudio.com/
 
 What do you use "Commit Messages" for?
 
-When you make a commit, you must include a commit message that briefly describes the changes.
-(This is to help others understand what changes have been made.)
+To describe both what you have changed and why you have changed it. (Generally to inform others and for a detailing for history/documentation sake)
+
+"When you make a commit, you must include a commit message that briefly describes the changes.
+(This is to help others understand what changes have been made.)"
 https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits
 
 ## Question 18
 
 Where can I look to find help with Git?
 
+git help (the command)
+
 The Git Cheatsheet!
+https://education.github.com/git-cheat-sheet-education.pdf
 
 The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress
 https://git-scm.com/book/en/v2
