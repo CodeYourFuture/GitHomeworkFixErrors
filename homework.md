@@ -111,4 +111,4 @@ To record what changes you made to the code. Also it is a way to communicate bet
 
 Where can I look to find help with Git?
 
-Type "git help" on Git Bash
+The Git CheatSheet! Also type "git help" on Git Bash.
