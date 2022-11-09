@@ -14,9 +14,9 @@ white
 
 ## Question 3
 
-What is the 2 _ 3 _ 6 _ 1 _ 10 \* 34?
+What is the 2 * 3 * 6 * 1 * 10 * 34?
 
-12240
+12,240
 
 ## Question 4
 
@@ -34,8 +34,9 @@ CSS is used for styling your web page including color, layout and font
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
+by using the \* selector will select all h1 in the html
 ```css
-h1 * {
+* h1 {
 }
 ```
 
@@ -50,46 +51,49 @@ dynamically updating content, control multimedia, animate image
 
 What three problem does Git & Github solve?
 
-Easy accessibility despite where ever you are located
+Git & github help to track changes on your source code.
 
-Cloud storage
-No accidentally Deleting of file on your system
+help multiple developer to work on a project from different location.
+
+Also help to store your project in a safe place.
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-It copy a repository
+forking a repository help you to make a copy of that repo without affecting the original copy.
 
 ## Question 10
 
 What happens when you clone a repostory?
 
-When you clone a repository, you copy the repository from GitHub.com to your local machine
+cloning a repository will make copy of the repo from github, all file and folders
+to your local machine.
 
 ## Question 11
 
 What is a Pull Request?
 
-in simple explanation a developer to notify team members or a tutor that they have completed a feature.
+A pull request help to let others know the changes you have push to a branch on github
 
 ## Question 12
 
 What is the Git History log?
 
-displays all of the commits in a repository's history.
+git history log is used to view the committed changes within the repository
 
 ## Question 13
 
 What does it meant to "push" changes to Github?
 
-you send the committed changes in your local repository to the remote repository on GitHub
+push change on github help to committed changes in your local repository to the
+remote repo on github
 
 ## Question 14
 
 What is Github?
 
-GitHub is a Git repository hosting service, but it adds many of its own features. While Git is a command line tool, GitHub provides a Web-based
+GitHub is a code hosting platform for version control. helps developers store and manage their code, as well as track and control changes to their code
 
 ## Question 15
 
@@ -107,11 +111,10 @@ Visual studio
 
 What do you use "Commit Messages" for?
 
-Commit messages help you to remember the changes you made to a code.
-also ways of communication between team members
+Commit messages help other developer to know why your source code has change and why.
 
 ## Question 18
 
 Where can I look to find help with Git?
 
-from your Git Bash just by typing the command git help.
+you can visit git website, or on the terminal git help or git command help.
