@@ -63,7 +63,7 @@ What three problem does Git & Github solve?
 
 What happens when you `fork` a repository?
 
- When I fork a repository,I will create a copy of the original repository.This copy is stored in my own Github account,and i can make changes to it witout affecting the original repository.
+ When I fork a repository,I will create a copy of the original repository.This copy is stored in my own Github account,and i can make changes to it without affecting the original repository.
  I can also submit pull requests to the  original repository,allowing the maintainers to review and merge my changes.
 
 
@@ -102,7 +102,7 @@ And it allows other users to view ,comment and use the change.
 What is Github?
 
 Github is a web-based hosting service for version control using Git and it is mostly used for computer code.
-It provides access control and several collaboration features such as bug tracking,fr=eature requests,task management and wikis for every project.
+It provides access control and several collaboration features such as bug tracking,feature requests,task management and wikis for every project.
 
 ## Question 15
 
