@@ -101,7 +101,7 @@ Sending the changes you made to your working copy is known as committing the cha
 
 What program do we use to write code at CodeYourFuture?
 
-Studio Visual Code (CS Code)
+Studio Visual Code (VS Code)
 
 ## Question 17
 
