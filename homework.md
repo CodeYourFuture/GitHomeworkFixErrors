@@ -50,7 +50,9 @@ A programming language that is one of the core technologies of the World Wide We
 
 What three problem does Git & Github solve?
 
-When people want to show off code to each other they can put it on Github
+1) Git & Github allow tracking and managing changes to software code
+2) To create branches - to make changes in code without 'breaking' it
+3) Allow to collaborate with other developers 
 
 ## Question 9
 
@@ -68,7 +70,7 @@ You copy the repository from GitHub.com to your local machine
 
 What is a Pull Request?
 
-When you request the Original repository to grab your changes
+Pull requests is a mechanism for developers to tell others about changes they pushed to a branch in a repository 
 
 ## Question 12
 
@@ -110,4 +112,4 @@ To name and explain what changes you made to the code
 
 Where can I look to find help with Git?
 
-The Git Cheatsheet!
+The Git Cheatsheet
