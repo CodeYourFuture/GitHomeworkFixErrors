@@ -62,7 +62,7 @@ It creates a separate copy of the original repo
 
 What happens when you clone a repostory?
 
-It creates a linked copy of the original repo
+It creates a linked copy of the original repo on my local machine
 
 ## Question 11
 
