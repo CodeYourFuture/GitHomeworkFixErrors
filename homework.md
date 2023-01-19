@@ -77,13 +77,13 @@ The owner of the repo can decide to merge or close the request.
 
 What is the Git History log?
 
-It lets you see into the future
+It lets you see the history of changes made to the repo.
 
 ## Question 13
 
 What does it meant to "push" changes to Github?
 
-You send the changes of your local repository to Github
+You send the changes of your local repository to the remote repo on Github
 
 ## Question 14
 
@@ -95,13 +95,13 @@ A place for us to store and share our code.
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+Save your changes to your local repository.
 
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+Visual Studio Code
 
 ## Question 17
 
@@ -113,4 +113,4 @@ To record what changes you made to the code
 
 Where can I look to find help with Git?
 
-The Git Cheatsheet!
+The Git Cheatsheet! Google too!
