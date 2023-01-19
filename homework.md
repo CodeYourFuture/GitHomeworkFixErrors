@@ -4,38 +4,38 @@
 
 What is 2 + 2?
 
-5
+4
 
 ## Question 2
 
 What is the opposite of Black?
 
-Purple
+White
 
 ## Question 3
 
-What is the  2 * 3 * 6 * 1 * 10 * 34?
+What is 2 * 3 * 6 * 1 * 10 * 34?
 
-1322
+12240
 
 ## Question 4 
 
 What does HTML stand for?
 
-Hyper Tall Massive Language
+Hypertext Markup Language
 
 ## Question 5
 
 What is CSS useful for?
 
-Making a website go faster
+Styling a website's deisgn and layouts, and adding variation for different screen sizes.
 
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-#h1 {
+h1 {
 
 }
 ```
@@ -44,31 +44,34 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 What is JavaScript?
 
-A programming language used on the internet
+JavaScript is a scripting language for creating dynamic web page content.
 
 ## Question 8
 
-What three problem does Git & Github solve?
+What three problems does Git & Github solve?
 
-When people want to show off code to each other they can put it on Github
+1. Saving a timeline of changes to your computer
+2. Sharing files with other developers
+3. Working on shared files collaboratively via forking, cloning, pull requests, branching and merging
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You delete it
+You make a copy of someone else's repo and are able to host it on your own GitHub profile.
 
 ## Question 10 
 
 What happens when you clone a repostory?
 
-It send it to a friend
+You make a copy of a repository and are able to download it to your local machine.
 
 ## Question 11
 
 What is a Pull Request?
 
-When you send a file over the internet
+When you've made changes to a forked repo and ask to make some changes to the main repo. 
+The owner of the repo can decide to merge or close the request.
 
 ## Question 12
 
