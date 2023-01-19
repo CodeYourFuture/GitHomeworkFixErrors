@@ -35,7 +35,7 @@ Styling the code written in HTML
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-*h1 {
+h1 {
 }
 ```
 
@@ -101,7 +101,7 @@ Sending the changes you made to your working copy is known as committing the cha
 
 What program do we use to write code at CodeYourFuture?
 
-MERN
+Studio Visual Code (CS Code)
 
 ## Question 17
 
@@ -116,6 +116,8 @@ Where can I look to find help with Git?
 If you are having trouble remembering commands or options for commands, you can use Git help . There are a couple of different ways you can use the help command in command line: git command -help - See all the available options for the specific command
 https://git-scm.com/docs/git-help
 
-Stack Overflow
-Slack
-Google
+Other options to solve this problem are:
+
+*Stack Overflow
+*Slack
+\*Google
