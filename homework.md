@@ -112,4 +112,12 @@ A commit message explains what change we made to our project. The Git commit mes
 
 Where can I look to find help with Git?
 
-on slack
+I can ask trainees at CYF, on slack and Stack Overflow.
+
+if I have trouble remembering commands or options for commands, I can use Git help.
+There are a couple of different ways I can use the help command in command line:
+
+    git  help          // Display help information about Git
+    git help --all     //all available commands are printed on the standard output.
+    and ...
+
