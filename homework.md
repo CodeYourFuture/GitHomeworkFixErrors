@@ -4,38 +4,39 @@
 
 What is 2 + 2?
 
-5
+4
 
 ## Question 2
 
 What is the opposite of Black?
 
-Purple
+white
 
 ## Question 3
 
 What is the  2 * 3 * 6 * 1 * 10 * 34?
 
-1322
+12240
 
 ## Question 4 
 
 What does HTML stand for?
 
-Hyper Tall Massive Language
+Hyper text  markup Language
 
 ## Question 5
 
 What is CSS useful for?
 
-Making a website go faster
+to style and layout web pages
 
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-#h1 {
+
+h1 {
 
 }
 ```
@@ -44,7 +45,7 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 What is JavaScript?
 
-A programming language used on the internet
+an object-oriented computer programming language commonly used to create interactive effects within web browsers.
 
 ## Question 8
 
