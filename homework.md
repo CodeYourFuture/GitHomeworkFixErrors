@@ -52,7 +52,7 @@ What three problem does Git & Github solve?
 
 1. it makes team working and collaboration easier
 2. it can be used to manage and track code
-3.
+3. it can be used to backup code
 
 
 ## Question 9
