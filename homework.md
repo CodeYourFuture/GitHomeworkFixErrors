@@ -4,38 +4,38 @@
 
 What is 2 + 2?
 
-5
+4
 
 ## Question 2
 
 What is the opposite of Black?
 
-Purple
+White
 
 ## Question 3
 
 What is the  2 * 3 * 6 * 1 * 10 * 34?
 
-1322
+12240
 
 ## Question 4 
 
 What does HTML stand for?
 
-Hyper Tall Massive Language
+Hyper Text Markup Language
 
 ## Question 5
 
 What is CSS useful for?
 
-Making a website go faster
+Describing the presentation of Web pages, including colors, layout and font.
 
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-#h1 {
+.h1 {
 
 }
 ```
@@ -44,7 +44,7 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 What is JavaScript?
 
-A programming language used on the internet
+A programming language for the Web.
 
 ## Question 8
 
@@ -56,25 +56,25 @@ When people want to show off code to each other they can put it on Github
 
 What happens when you `fork` a repository?
 
-You delete it
+Forks let you make changes to a project without affecting the original repository.
 
 ## Question 10 
 
 What happens when you clone a repostory?
 
-It send it to a friend
+You copy it from Github to your computer.
 
 ## Question 11
 
 What is a Pull Request?
 
-When you send a file over the internet
+When you send a changes from fork to add to original repository.
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+It lists the commits made in repository in reverse chronological order.
 
 ## Question 13
 
@@ -86,25 +86,25 @@ You send the changes of your local repository to Github
 
 What is Github?
 
-A place for us to store and share our code.
+A place for us to store and share our code online.
 
 ## Question 15
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+Send the latest changes of the code to the repository.
 
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+VSCode 
 
 ## Question 17
 
 What do you use "Commit Messages" for?
 
-To record what changes you made to the code
+To explain what changes you made to the code
 
 ## Question 18
 
