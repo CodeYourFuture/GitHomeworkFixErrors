@@ -12,11 +12,11 @@ London Class 7 - Chris Owen - HTMl/CSS - Week 1
 
 # Your Details
 
-- Your Name:
-- Your City:
-- Your Slack Name:
+- Your Name: Saim Korkmaz  
+- Your City: London
+- Your Slack Name: @Saim Korkmaz
 
 # Homework Details
 
-- Module:
-- Week:
+- Module: HTML/CSS
+- Week: 2
