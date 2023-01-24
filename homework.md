@@ -111,4 +111,4 @@ To record what changes you made to the project.
 
 Where can I look to find help with Git?
 
-Slack channel or as ask in person and ask friend.
+Slack channel or as ask in person. 
