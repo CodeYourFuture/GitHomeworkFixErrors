@@ -58,56 +58,52 @@ What three problem does Git & Github solve?
 ## Question 9
 
 What happens when you `fork` a repository?
-when you fork a repository you are requesting a copy of a remote repository to create a local repo on your computer, when you make changes on your computer, 
+when you fork a repository you are requesting a copy of a remote repository to create a local repo on your computer, when you make changes on your computer, you can make a pull request to merger with the main repo.
 
 
 ## Question 10 
 
 What happens when you clone a repostory?
 
-It send it to a friend
+when you clone a repo any changes made will affect the original repo.
+
 
 ## Question 11
 
 What is a Pull Request?
+A pull request is you requesting from the owner of the repo permission the merge your forked repo with the original.
 
-When you send a file over the internet
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
-
+it lets you see all the changes you've made and committed.
 ## Question 13
 
 What does it meant to "push" changes to Github?
 
-You send the changes of your local repository to Github
-
+this is when you share your commits that were made on your computer to your remote repo.
 ## Question 14
 
 What is Github?
 
-A place for us to store and share our code.
-
+github is a website used to share and manage your code, with github, team members can work together on a project.
 ## Question 15
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
-
+it saves a change you've made on your local computer 
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
-
+vscode
 ## Question 17
 
 What do you use "Commit Messages" for?
 
-To record what changes you made to the code
+we use it to communicate our changes 
 
 ## Question 18
 
