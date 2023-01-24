@@ -58,6 +58,7 @@ What three problem does Git & Github solve?
 ## Question 9
 
 What happens when you `fork` a repository?
+when you fork a repository you are requesting a copy of a remote repository to create a local repo on your computer, when you make changes on your computer, 
 
 
 ## Question 10 
