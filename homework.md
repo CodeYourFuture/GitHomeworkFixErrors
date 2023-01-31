@@ -35,7 +35,7 @@ Making a website go faster
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-#h1 {
+h1 {
 
 }
 ```
@@ -50,31 +50,29 @@ A programming language used on the internet
 
 What three problem does Git & Github solve?
 
-When people want to show off code to each other they can put it on Github
+
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You delete it
+A fork is a new repository that shares code and visibility settings with the original “upstream” repository.
 
 ## Question 10 
 
 What happens when you clone a repostory?
 
-It send it to a friend
-
+When you clone a repository, you copy the repository from GitHub.com to your local machine. Cloning a repository pulls down a full copy of all the repository data that GitHub.com has at that point in time, including all versions of every file and folder for the project.
 ## Question 11
 
 What is a Pull Request?
-
-When you send a file over the internet
+Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch.
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+for seeing changes
 
 ## Question 13
 
@@ -92,13 +90,13 @@ A place for us to store and share our code.
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+save you code 
 
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+Java script
 
 ## Question 17
 
