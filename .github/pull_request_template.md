@@ -12,11 +12,11 @@ London Class 7 - Chris Owen - HTMl/CSS - Week 1
 
 # Your Details
 
-- Your Name:
-- Your City:
-- Your Slack Name:
+- Your Name:Tosin Odunuga
+- Your City:Glasgow Class 6
+- Your Slack Name:Tosin
 
 # Homework Details
 
-- Module:
-- Week:
+- Module:Git
+- Week:1
