@@ -111,5 +111,4 @@ Are used to describe the changes made in a commit, providing a brief and informa
 ## Question 18
 
 Where can I look to find help with Git?
-
-The Git Cheatsheet!
+Git Cheatsheet
