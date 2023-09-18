@@ -4,39 +4,38 @@
 
 What is 2 + 2?
 
-5
+4
 
 ## Question 2
 
 What is the opposite of Black?
 
-Purple
+White
 
 ## Question 3
 
-What is the  2 * 3 * 6 * 1 * 10 * 34?
+What is the 2 _ 3 _ 6 _ 1 _ 10 \* 34?
 
-1322
+12240
 
-## Question 4 
+## Question 4
 
 What does HTML stand for?
 
-Hyper Tall Massive Language
+Hyper Text Markup Language
 
 ## Question 5
 
 What is CSS useful for?
 
-Making a website go faster
+Making a website look better
 
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-#h1 {
-
+h1 {
 }
 ```
 
@@ -44,61 +43,61 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 What is JavaScript?
 
-A programming language used on the internet
+A programming language of the web
 
 ## Question 8
 
 What three problem does Git & Github solve?
 
-When people want to show off code to each other they can put it on Github
+Git lets developers see the entire timeline of their changes, decisions, and progression of any project in one place
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You delete it
+You make a copy of original to work on it yourself
 
-## Question 10 
+## Question 10
 
 What happens when you clone a repostory?
 
-It send it to a friend
+Make a copy from remote to local
 
 ## Question 11
 
 What is a Pull Request?
 
-When you send a file over the internet
+A process where a developer is ready to merge their code with main branch
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+git log command displays all of the commits in a repository's history
 
 ## Question 13
 
 What does it meant to "push" changes to Github?
 
-You send the changes of your local repository to Github
+It means that we have updated the changes we have made locally to the remote
 
 ## Question 14
 
 What is Github?
 
-A place for us to store and share our code.
+GitHub is a platform and cloud-based service for software development and version control using Git
 
 ## Question 15
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+It means that we are ready to update our code with the changes we have made
 
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+VSCode
 
 ## Question 17
 
