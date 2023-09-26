@@ -4,38 +4,38 @@
 
 What is 2 + 2?
 
-5
+4
 
 ## Question 2
 
 What is the opposite of Black?
 
-Purple
+white
 
 ## Question 3
 
 What is the  2 * 3 * 6 * 1 * 10 * 34?
 
-1322
+1224
 
 ## Question 4 
 
 What does HTML stand for?
 
-Hyper Tall Massive Language
+Hyper Text Markup Language
 
 ## Question 5
 
 What is CSS useful for?
 
-Making a website go faster
+CSS (Cascading Style Sheets) is useful for styling and formatting web content
 
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-#h1 {
+h1 {
 
 }
 ```
@@ -44,41 +44,39 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 What is JavaScript?
 
-A programming language used on the internet
+JavaScript is a programming language used to add interactivity and dynamic functionality to websites and web applications.
 
 ## Question 8
 
 What three problem does Git & Github solve?
 
-When people want to show off code to each other they can put it on Github
-
+Version Control, Collaboration, Backup and Redundancy:
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You delete it
+, you create a personal copy of the original repository under your GitHub account
 
 ## Question 10 
 
 What happens when you clone a repostory?
 
-It send it to a friend
+It send it to your local computer
 
 ## Question 11
 
 What is a Pull Request?
-
-When you send a file over the internet
+A Pull Request (PR) is a formal proposal, commonly used in collaborative software development, where a developer suggests changes they've made to a project's codebase for review and potential merging into the main branch.
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+The Git history log, also known as the "commit history," is like a timeline that keeps track of all the changes made to a Git project, telling you who did it, when, and what they changed.
 
 ## Question 13
 
-What does it meant to "push" changes to Github?
+The Git history log, also known as the "commit history," is like a timeline that keeps track of all the changes made to a Git project, telling you who did it, when, and what they changed.
 
 You send the changes of your local repository to Github
 
@@ -86,28 +84,28 @@ You send the changes of your local repository to Github
 
 What is Github?
 
-A place for us to store and share our code.
+GitHub is a web-based platform that allows developers to collaborate on and manage Git repositories.
 
 ## Question 15
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+"Commit your changes" means to save your recent code modifications to the version control system, like Git, so that you can track and manage those changes.
 
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+At CodeYourFuture, we use programs like Visual Studio Code and online code editors, javascript, react for writing codes
 
 ## Question 17
 
 What do you use "Commit Messages" for?
 
-To record what changes you made to the code
+Commit Messages" are used to describe the purpose and details of code changes made in a commit, making it easier for collaborators to understand the changes.
 
 ## Question 18
 
 Where can I look to find help with Git?
 
-The Git Cheatsheet!
+You can find help with Git by referring to online resources like Git documentation, forums like Stack Overflow, or by seeking assistance from experienced developers and colleagues.
