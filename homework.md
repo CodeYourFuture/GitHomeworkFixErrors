@@ -39,7 +39,7 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 }
 ```
-
+,,,
 ## Question 7
 
 What is JavaScript?
