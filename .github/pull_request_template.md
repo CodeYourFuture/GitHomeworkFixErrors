@@ -7,16 +7,17 @@ CITY CLASS_NO - FIRST_NAME LAST_NAME - MODULE - WEEK_NO
 For example,
 
 London Class 7 - Chris Owen - HTMl/CSS - Week 1
+Manchester Class 5 - Emma Maddocks - GIT and Github - WEEK 1
 
 -->
 
 # Your Details
 
-- Your Name:
-- Your City:
-- Your Slack Name:
+- Your Name: Emma Maddocks
+- Your City: Manchester
+- Your Slack Name: Emma
 
 # Homework Details
 
-- Module:
-- Week:
+- Module: 1
+- Week: 1
