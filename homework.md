@@ -4,38 +4,38 @@
 
 What is 2 + 2?
 
-5
+4
 
 ## Question 2
 
 What is the opposite of Black?
 
-Purple
+White
 
 ## Question 3
 
 What is the  2 * 3 * 6 * 1 * 10 * 34?
 
-1322
+12 240
 
 ## Question 4 
 
 What does HTML stand for?
 
-Hyper Tall Massive Language
+HyperText Markup Language
 
 ## Question 5
 
 What is CSS useful for?
 
-Making a website go faster
+CSS is useful for styling and layout web pages
 
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-#h1 {
+h1 {
 
 }
 ```
@@ -44,37 +44,39 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 What is JavaScript?
 
-A programming language used on the internet
+A programming language for the web.
 
 ## Question 8
 
 What three problem does Git & Github solve?
 
-When people want to show off code to each other they can put it on Github
+Find a commit that broke something after a merge.
+Avoid repeated merge conflicts.
+Remove a file from GIT without removing from the file system.
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You delete it
+You make a copy of the repository.
 
 ## Question 10 
 
 What happens when you clone a repostory?
 
-It send it to a friend
+You copy the repository from GitHub.com to your local machine.
 
 ## Question 11
 
 What is a Pull Request?
 
-When you send a file over the internet
+It is a feature that makes it easier for developers to collaborate using GitHub.
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+It is the commit history and displays the necessary information of the git repository.
 
 ## Question 13
 
@@ -92,19 +94,19 @@ A place for us to store and share our code.
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+It means that you keep record of what changes were made when and by who.
 
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+VS Code
 
 ## Question 17
 
 What do you use "Commit Messages" for?
 
-To record what changes you made to the code
+To give meaningful and helpful descriptions for commits created.
 
 ## Question 18
 
