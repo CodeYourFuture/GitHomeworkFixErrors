@@ -4,38 +4,38 @@
 
 What is 2 + 2?
 
-5
+4
 
 ## Question 2
 
 What is the opposite of Black?
 
-Purple
+white
 
 ## Question 3
 
 What is the  2 * 3 * 6 * 1 * 10 * 34?
 
-1322
+12240
 
 ## Question 4 
 
 What does HTML stand for?
 
-Hyper Tall Massive Language
+Hypertext Markup Language
 
 ## Question 5
 
 What is CSS useful for?
 
-Making a website go faster
+Designing a website
 
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-#h1 {
+.h1 {
 
 }
 ```
@@ -44,37 +44,36 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 What is JavaScript?
 
-A programming language used on the internet
+A programming language used to make a page interactive and functional
 
 ## Question 8
 
 What three problem does Git & Github solve?
 
-When people want to show off code to each other they can put it on Github
+version Control, Code REview and Code REview
 
 ## Question 9
 
 What happens when you `fork` a repository?
-
-You delete it
+You make a copy of a repo from another account into your GitHub
 
 ## Question 10 
 
 What happens when you clone a repostory?
 
-It send it to a friend
+You make a local copy of a repo from GitHub on your machine
 
 ## Question 11
 
 What is a Pull Request?
 
-When you send a file over the internet
+It is used for revision of code before merging to a main branch 
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+It tells us about how commits were made,who made it and when it was made
 
 ## Question 13
 
@@ -86,28 +85,28 @@ You send the changes of your local repository to Github
 
 What is Github?
 
-A place for us to store and share our code.
+It is used for storing and sharing code
 
 ## Question 15
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+It is the state of saving changes to a file of a local repository
 
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+VsCode
 
 ## Question 17
 
 What do you use "Commit Messages" for?
 
-To record what changes you made to the code
+To explain the changes made on a file in a repository
 
 ## Question 18
 
 Where can I look to find help with Git?
 
-The Git Cheatsheet!
+Git Help
