@@ -12,11 +12,11 @@ London Class 7 - Chris Owen - HTMl/CSS - Week 1
 
 # Your Details
 
-- Your Name:
-- Your City:
-- Your Slack Name:
+- Your Name: Emily Barton
+- Your City: Manchester
+- Your Slack Name: EABarton123
 
 # Homework Details
 
-- Module:
-- Week:
+- Module: Git and Github
+- Week: lesson 1
