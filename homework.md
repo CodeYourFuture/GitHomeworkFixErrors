@@ -4,38 +4,38 @@
 
 What is 2 + 2?
 
-5
+4
 
 ## Question 2
 
 What is the opposite of Black?
 
-Purple
+white
 
 ## Question 3
 
 What is the  2 * 3 * 6 * 1 * 10 * 34?
 
-1322
+12240
 
 ## Question 4 
 
 What does HTML stand for?
 
-Hyper Tall Massive Language
+Hyper Text markup Language
 
 ## Question 5
 
 What is CSS useful for?
 
-Making a website go faster
+styling the html
 
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-#h1 {
+.h1 {
 
 }
 ```
@@ -43,20 +43,23 @@ Using CSS, how would I select every `<h1>` tag on the page?
 ## Question 7
 
 What is JavaScript?
-
-A programming language used on the internet
+it is a scripting or porograming language that allows us to emplement complex features on web pages.
 
 ## Question 8
 
 What three problem does Git & Github solve?
 
-When people want to show off code to each other they can put it on Github
+Helps us to share information.
+Enables people to make their own changes to that information, and share it back.
+Allows us to make checkpoints so that we can save our work as we go along.
+Allows us to track how information has changed between each checkpoint, and go back to older versions of our work if we want to see what we tried before, or to undo changes.
+Enables us to try more things, because if they didn't work out, we can always go back to what we had working before, by going back to a checkpoint.
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You delete it
+It's a copy of the repository, where you're allowed to make changes.
 
 ## Question 10 
 
@@ -68,13 +71,13 @@ It send it to a friend
 
 What is a Pull Request?
 
-When you send a file over the internet
+When you whant to ask change your branch and send to github
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+It lets you see all of your changes
 
 ## Question 13
 
@@ -98,7 +101,7 @@ Send you code to Github
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+VSC
 
 ## Question 17
 
