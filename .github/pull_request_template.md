@@ -9,14 +9,14 @@ For example,
 London Class 7 - Chris Owen - HTMl/CSS - Week 1
 
 -->
-
+Birmingham class 1- Azin Yadegari - Git - Week 1
 # Your Details
 
-- Your Name:
-- Your City:
-- Your Slack Name:
+- Your Name: Azin Yadegari
+- Your City: Birmingham
+- Your Slack Name: AzinYad
 
 # Homework Details
 
-- Module:
-- Week:
+- Module: Git 
+- Week: 1
