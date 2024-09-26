@@ -12,11 +12,11 @@ London Class 7 - Chris Owen - HTMl/CSS - Week 1
 
 # Your Details
 
-- Your Name:
-- Your City:
-- Your Slack Name:
+- Your Name: Leila 
+- Your City: London
+- Your Slack Name: Leila Farsani
 
 # Homework Details
 
-- Module:
-- Week:
+- Module: Help me with my kid's homework!
+- Week: 1
