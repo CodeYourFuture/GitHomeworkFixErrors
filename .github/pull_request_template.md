@@ -12,11 +12,11 @@ London Class 7 - Chris Owen - HTMl/CSS - Week 1
 
 # Your Details
 
-- Your Name:
-- Your City:
-- Your Slack Name:
+- Your Name:Farnoosh Moayeri
+- Your City:London
+- Your Slack Name: Franoosh
 
 # Homework Details
 
-- Module:
-- Week:
+- Module:HTML/CSS
+- Week:1
