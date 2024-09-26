@@ -4,31 +4,31 @@
 
 What is 2 + 2?
 
-5
+4
 
 ## Question 2
 
 What is the opposite of Black?
 
-Purple
+white
 
 ## Question 3
 
-What is the  2 * 3 * 6 * 1 * 10 * 34?
+What is the 2 * 3 * 6 * 1 *10 * 34?
 
-1322
+12240
 
-## Question 4 
+## Question 4
 
 What does HTML stand for?
 
-Hyper Tall Massive Language
+HyperText Markup Language
 
 ## Question 5
 
 What is CSS useful for?
 
-Making a website go faster
+CSS is used for styling.
 
 ## Question 6
 
@@ -36,7 +36,6 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
 #h1 {
-
 }
 ```
 
@@ -44,37 +43,38 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 What is JavaScript?
 
-A programming language used on the internet
+A programming language used to make websites interactive.
 
 ## Question 8
 
 What three problem does Git & Github solve?
 
 When people want to show off code to each other they can put it on Github
+collaboration and keep track of the history of your project as you go along.
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You delete it
+To have a copy of someone's code on your own github.
 
-## Question 10 
+## Question 10
 
 What happens when you clone a repostory?
 
-It send it to a friend
+you have a copy of somebody's code in your local PC.
 
 ## Question 11
 
 What is a Pull Request?
 
-When you send a file over the internet
+It is asking the repo owner to accept your contribution to the project.
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+It lets you see into the commits you have made so far and all the history of your repo.
 
 ## Question 13
 
@@ -86,19 +86,19 @@ You send the changes of your local repository to Github
 
 What is Github?
 
-A place for us to store and share our code.
+A web interface for git to store and share our code.
 
 ## Question 15
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+To save your changes.
 
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+VS Code
 
 ## Question 17
 
