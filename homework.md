@@ -4,13 +4,13 @@
 
 What is 2 + 2?
 
-5
+4
 
 ## Question 2
 
 What is the opposite of Black?
 
-Purple
+white
 
 ## Question 3
 
@@ -28,7 +28,7 @@ Hyper Tall Massive Language
 
 What is CSS useful for?
 
-Making a website go faster
+Making a website looks better
 
 ## Question 6
 
