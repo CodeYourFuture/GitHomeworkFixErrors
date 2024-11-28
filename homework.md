@@ -4,38 +4,38 @@
 
 What is 2 + 2?
 
-5
+4
 
 ## Question 2
 
 What is the opposite of Black?
 
-Purple
+White
 
 ## Question 3
 
 What is the  2 * 3 * 6 * 1 * 10 * 34?
 
-1322
+12,240
 
 ## Question 4 
 
 What does HTML stand for?
 
-Hyper Tall Massive Language
+Hypertext Markup Language
 
 ## Question 5
 
 What is CSS useful for?
 
-Making a website go faster
+Making a website styling
 
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-#h1 {
+h1{
 
 }
 ```
@@ -44,37 +44,38 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 What is JavaScript?
 
-A programming language used on the internet
+JavaScript is a text-based programming language used both on the client-side and server-side that allows to make web pages interactive
 
 ## Question 8
 
 What three problem does Git & Github solve?
 
 When people want to show off code to each other they can put it on Github
+Review each other's project, and manage software code in real time
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You delete it
+Forking allows  to freely experiment with changes without affecting the original project.
 
 ## Question 10 
 
 What happens when you clone a repostory?
 
-It send it to a friend
+Cloning a repository pulls down a full copy of all the repository data that GitHub.com has at that point in time, including all versions of every file and folder for the project.
 
 ## Question 11
 
 What is a Pull Request?
 
-When you send a file over the internet
+Pull request is an event that takes place when a contributor/developer is ready to begin the process of merging new code changes with the main project repository.
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+The git log command displays a record of the commits in a Git repository.
 
 ## Question 13
 
@@ -98,16 +99,15 @@ Send you code to Github
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+Visual Studio
 
 ## Question 17
 
 What do you use "Commit Messages" for?
 
-To record what changes you made to the code
+A commit message explains what change you made to your project.
 
 ## Question 18
 
 Where can I look to find help with Git?
-
-The Git Cheatsheet!
+Git Help can be accessed from your Git Bash just by typing the command git help .
