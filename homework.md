@@ -8,9 +8,9 @@
 
 An exciting new play about coffee.
 
-## 3. What three problems does Git & Github solve?
+## 3. What three problems does Git & GitHub solve?
 
-When people want to show off code to each other they can put it on Github
+When people want to show off code to each other they can put it on GitHub
 
 ## 4. What happens when you `fork` a repository?
 
