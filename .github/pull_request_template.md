@@ -12,11 +12,11 @@ London Class 7 - Chris Owen - HTMl/CSS - Week 1
 
 # Your Details
 
-- Your Name:
-- Your City:
-- Your Slack Name:
+- Your Name: Evelyn Nomsa Mwanunura
+- Your City: Cape Town
+- Your Slack Name: Evelyn Mwanunura
 
 # Homework Details
 
-- Module:
-- Week:
+- Module: Onboarding
+- Week: 1
