@@ -15,11 +15,11 @@ If your PR is rejected, check the task list.
 
 # Your Details
 
-- Your Name:
-- Your City:
-- Your Slack Name:
+- Your Name: Evelyn Nomsa Mwanunura
+- Your City: Cape Town
+- Your Slack Name: Evelyn Mwanunura
 
 # Homework Details
 
-- Module:
-- Week:
+- Module: Onboarding
+- Week: 1
