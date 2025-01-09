@@ -14,6 +14,7 @@ JavaScript is a programming language used for web development to create interact
 2- It saves changes made to a project locally with commits that document what has been changed.
 3- It allows a team to collaporate and review changes before integrating them into the main project, ensuring only approved changes are added.
 
+
 ## 4. What happens when you `fork` a repository?
 
 You create a personal copy of the repository, so you can make changes to the forked repository without affecting the main repository. 
