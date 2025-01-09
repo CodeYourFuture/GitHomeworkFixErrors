@@ -6,11 +6,11 @@
 
 ## 2. What is JavaScript?
 
-A programming language
+It is a programming language
 
 ## 3. What three problems does Git & GitHub solve?
 
-collaboration
+Collaboration
 Inefficient management of code
 They help in version control
 
