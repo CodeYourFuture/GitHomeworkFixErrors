@@ -1,9 +1,5 @@
 ITP-JAN-2025 | ERIC_AOWUSU | GITHOMEWORKFIXERROR | WEEK1
 
-For example,
-
-ITP-OCT-24 | Carol Owen | GitHomeworkFixErrors | Week1
-
 Complete the task list below this message.
 If your PR is rejected, check the task list.
 

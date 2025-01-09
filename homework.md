@@ -21,7 +21,7 @@ you are able to take it onto your personal computer or space and you can work on
 
 ## 5. What happens when you clone a repository?
 
-you can create a branch. but most imoportantly you can work on it on your own. 
+you can create a branch. But most importantly you can work on it on your own. 
 
 ## 6. What is a Pull Request?
 
