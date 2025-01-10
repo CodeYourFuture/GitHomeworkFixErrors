@@ -18,7 +18,7 @@ You create a copy of the original repository, called the "upstream" repository, 
 
 ## 5. What happens when you clone a repository?
 
-Cloning a repository creates a local copy of a remote repository, including all of its files and versions
+Cloning a repository creates a local copy of a remote repository, including all of its files and versions.
 
 ## 6. What is a Pull Request?
 
