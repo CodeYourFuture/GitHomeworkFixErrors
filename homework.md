@@ -17,7 +17,7 @@ JavaScript is a programming language used for web development to create interact
 
 ## 4. What happens when you `fork` a repository?
 
-You create a personal copy of the repository, so you can make changes to the forked repository without affecting the main repository. 
+You create a personal copy of the repository, so you can make changes to the forked repository without affecting the main repository.
 
 ## 5. What happens when you clone a repository?
 
