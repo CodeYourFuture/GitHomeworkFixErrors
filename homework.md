@@ -14,7 +14,7 @@ Git and GitHub address common challenges in software development, particularly i
 
 ## 4. What happens when you `fork` a repository?
 
-GitHub creates a new repository in your account that is an exact copy of the original repository. This includes all files, branches, commit history, and tags.
+GitHub creates a new repository in your account that is an exact copy of the original repository. This includes all files, branches, commit history, and tags..
 
 ## 5. What happens when you clone a repository?
 
