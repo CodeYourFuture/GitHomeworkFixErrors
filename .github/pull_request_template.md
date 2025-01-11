@@ -15,11 +15,11 @@ If your PR is rejected, check the task list.
 
 # Your Details
 
-- Your Name:
-- Your City:
-- Your Slack Name:
+- Your Name:Samunta Sunuwar
+- Your City:London/Luton
+- Your Slack Name:Samunta SUnuwar. Display Name - Sam
 
 # Homework Details
 
-- Module:
-- Week:
+- Module:Onboarding
+- Week:1
