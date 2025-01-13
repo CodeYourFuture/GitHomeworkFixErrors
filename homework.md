@@ -11,15 +11,17 @@ JavaScript is a programming language used to create dynamic and interactive cont
 ## 3. What three problems does Git & GitHub solve?
 
 1. access to remote and centralised code storage
-2.Collaboration on projects.
-3.Tracking made changes over time
+   2.Collaboration on projects.
+   3.Tracking made changes over time
 
 ## 4. What happens when you `fork` a repository?
+
 You create a copy of someones repository on your github account.
+
 ## 5. What happens when you clone a repository?
 
-It send it to a friend
+You create a local copy of the forked repository on your computer and work on it offline.
 
 ## 6. What is a Pull Request?
 
-When you send a file over the internet
+Pull request is a feature in github that allows developers to propose changes.
