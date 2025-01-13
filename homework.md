@@ -15,9 +15,7 @@ JavaScript is a programming language used to create dynamic and interactive cont
 3.Tracking made changes over time
 
 ## 4. What happens when you `fork` a repository?
-
-You delete it
-
+You create a copy of someones repository on your github account.
 ## 5. What happens when you clone a repository?
 
 It send it to a friend
