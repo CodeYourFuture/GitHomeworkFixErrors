@@ -6,7 +6,7 @@
 
 ## 2. What is JavaScript?
 
-A Programming language
+A Programming language that brings interactivity to a webpage
 
 ## 3. What three problems does Git & GitHub solve?
 
@@ -24,4 +24,4 @@ You copy it to your local machine
 
 ## 6. What is a Pull Request?
 
-Allows developers to make changes to code then merge them into another branch
+It's a way for developers to submit their work for review and discussion before it's integrated into the main codebase.
