@@ -6,7 +6,7 @@
 
 ## 2. What is JavaScript?
 
-JavaScript is a programming language that adds dynamic functionality and complex features like interactivity and animation to web pages.
+JavaScript is a programming language that adds dynamic functionality and complex features like interactivity and animation to web pages .
 
 ## 3. What three problems does Git & GitHub solve?
 
