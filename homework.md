@@ -24,4 +24,4 @@ When you clone a repository, you are adding it to the filesystem on your local m
 
 ## 6. What is a Pull Request?
 
-When you send a file over the internet
+A pull request is submitting what you believe to be finished work, to be reviewed and merged into production.
