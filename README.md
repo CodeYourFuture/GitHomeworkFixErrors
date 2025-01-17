@@ -4,6 +4,11 @@ My child - Linus - came home today from school with his homework but he got SOME
 
 Can you help him to fix or improve the answers to his homework?
 
+
+
+
+
+
 1. You should `fork` this repository
 2. Clone the repository to your computer
 3. Create a branch with an appropriate name for the task you're on
