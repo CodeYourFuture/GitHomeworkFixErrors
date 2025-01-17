@@ -20,7 +20,7 @@ Forking a repository means you are making a copy of a repository. Anything you d
 
 ## 5. What happens when you clone a repository?
 
-It send it to a friend
+When you clone a repository, you are adding it to the filesystem on your local machine.
 
 ## 6. What is a Pull Request?
 
