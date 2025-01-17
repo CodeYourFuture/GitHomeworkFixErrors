@@ -16,7 +16,7 @@ JavaScript is the programming language that almost all applications that run on 
 
 ## 4. What happens when you `fork` a repository?
 
-You delete it
+Forking a repository means you are making a copy of a repository. Anything you do to a forked repository, doesn't effect the original repository, unless you merge your changes into it.
 
 ## 5. What happens when you clone a repository?
 
