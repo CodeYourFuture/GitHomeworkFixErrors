@@ -6,7 +6,7 @@
 
 ## 2. What is JavaScript?
 
-An exciting new play about coffee.
+JavaScript is the programming language that almost all applications that run on the web, use for their frontend.
 
 ## 3. What three problems does Git & GitHub solve?
 
