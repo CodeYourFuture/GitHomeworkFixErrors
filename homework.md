@@ -24,3 +24,5 @@ https://docs.github.com/en/repositories/creating-and-managing-repositories/cloni
 ## 6. What is a Pull Request?
 
 Pull requests (PRs) are a fundamental part of collaborative development in Git and are widely used across platforms like GitHub, GitLab, and Bitbucket. A pull request is a mechanism that allows developers to notify others about changes they’ve made to a branch in a Git repository.
+ 
+ the 
