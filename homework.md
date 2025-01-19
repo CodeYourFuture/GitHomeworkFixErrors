@@ -8,7 +8,6 @@
 
   JavaScript is a scripting or programming language that enables you to create dynamically updating content, control multimedia, animate images, and much more on web pages
 
-
 ## 3. What three problems does Git & GitHub solve?
 
    1,Version Control
