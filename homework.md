@@ -6,7 +6,7 @@
 
 ## 2. What is JavaScript?
 
-An exciting new play about coffee.
+Java script is a powerful and flexible programming language for the web that is widely used to make websites interactive and dynamic.
 
 ## 3. What three problems does Git & GitHub solve?
 
