@@ -4,7 +4,7 @@ ITP_JAN_25 / YORSALEM MESMER / GitHomeworkFixErrors / Week 1
 
 - Your Name: YORSALEM MESMER
 - Your City: LONDON
-- Your Slack Name: yorsalem
+- Your Slack Name: yorsalem 
 
 # Homework Details
 
