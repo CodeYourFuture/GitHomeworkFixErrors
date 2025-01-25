@@ -4,6 +4,7 @@
 
 4
 
+
 ## 2. What is JavaScript?
 
 JavaScript is a programming language that adds interactivity to web pages
