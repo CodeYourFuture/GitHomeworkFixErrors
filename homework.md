@@ -10,7 +10,12 @@ Java script is a powerful and flexible programming language for the web that is 
 
 ## 3. What three problems does Git & GitHub solve?
 
-When people want to show off code to each other they can put it on GitHub
+Git and GitHub address several challenges in software development and version control.
+Here are three key problems they solve:
+
+1. Version control
+2. Collaboration 
+3. Backup and Remote Access 
 
 ## 4. What happens when you `fork` a repository?
 
