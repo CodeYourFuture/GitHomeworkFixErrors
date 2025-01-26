@@ -31,4 +31,5 @@ When you clone a repository, you can create a complete local copy of the reposit
 
 ## 6. What is a Pull Request?
 
-When you send a file over the internet
+A pull request is a request to merge changes from one branch (often from a forked repository) into another branch of a repository, allowing for code review and discussion before the changes are integrated. 
+
