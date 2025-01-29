@@ -21,7 +21,7 @@ When you fork a repository, you create a personal copy of someone else's project
 
 ## 5. What happens when you clone a repository?
 
-It send it to a friend
+When you clone a repository, you make a copy of the entire project (including all files and history) from GitHub to your local machine. This allows you to work on the project offline and make changes, which can later be pushed back to the remote repository if needed.
 
 ## 6. What is a Pull Request?
 
