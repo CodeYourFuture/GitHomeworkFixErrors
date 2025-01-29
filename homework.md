@@ -10,7 +10,10 @@ JavaScript is a programming language used to make websites interactive. It allow
 
 ## 3. What three problems does Git & GitHub solve?
 
-When people want to show off code to each other they can put it on GitHub
+Git and GitHub solve several key problems in software development, but three main ones are:
+1, Version Control
+2, collaboration
+3, Backup and Remote hosting
 
 ## 4. What happens when you `fork` a repository?
 
