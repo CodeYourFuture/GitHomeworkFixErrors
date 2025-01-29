@@ -25,4 +25,4 @@ When you clone a repository, you make a copy of the entire project (including al
 
 ## 6. What is a Pull Request?
 
-When you send a file over the internet
+A Pull Request (PR) is a request to merge your changes into another repository. It allows others to review, discuss, and approve your changes before they're added to the main project.
