@@ -17,7 +17,7 @@ Git and GitHub solve several key problems in software development, but three mai
 
 ## 4. What happens when you `fork` a repository?
 
-You delete it
+When you fork a repository, you create a personal copy of someone else's project on GitHub. This lets you make changes independently without affecting the original project. You can later propose your changes back to the original repository via a pull request.
 
 ## 5. What happens when you clone a repository?
 
