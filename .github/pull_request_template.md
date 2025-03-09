@@ -15,11 +15,11 @@ If your PR is rejected, check the task list.
 
 # Your Details
 
-- Your Name:
-- Your City:
-- Your Slack Name:
+- Your Name: Davood Khoshnood 
+- Your City: London
+- Your Slack Name: Davood
 
 # Homework Details
 
-- Module:
-- Week:
+- Module: Git & GitHub 
+- Week: 1
