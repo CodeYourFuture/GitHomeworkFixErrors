@@ -1,4 +1,7 @@
-# Git Homework - Fix Errors
+# Amy-Rose's forked repo
+
+## Original instructions:
+**Git Homework - Fix Errors**
 
 My child - Linus - came home today from school with his homework but he got SOME of the questions wrong!
 
