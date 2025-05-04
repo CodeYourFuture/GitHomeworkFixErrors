@@ -2,24 +2,25 @@
 
 ## 1. What is 2 + 2?
 
-5
+4
 
 ## 2. What is JavaScript?
 
-An exciting new play about coffee.
-
+A versatile scripting languague primarily used to add interactive and dynamic elements to web pages and it also can be used in server-side development and various other applications.
 ## 3. What three problems does Git & GitHub solve?
 
-When people want to show off code to each other they can put it on GitHub
+a. Merge conflicts
+b. Storing code projects
+c. Tracking and collaborating on code projects
 
 ## 4. What happens when you `fork` a repository?
 
-You delete it
+A copy of that repository gets saved on my own github account
 
 ## 5. What happens when you clone a repository?
 
-It send it to a friend
+A copy of that repository gets saved on my own local computer
 
 ## 6. What is a Pull Request?
 
-When you send a file over the internet
+It is a request to merge code from one branch into another
