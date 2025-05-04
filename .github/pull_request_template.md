@@ -21,5 +21,5 @@ If your PR is rejected, check the task list.
 
 # Homework Details
 
-- Module:Sprit 1
+- Module:ITP onboarding
 - Week:1
