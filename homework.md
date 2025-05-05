@@ -10,8 +10,8 @@ Java script is a programming language that developers use to make webpages inter
 
 ## 3. What three problems does Git & GitHub solve?
 
-1.Version control and History tracking
-2.Collaboration and Code integration
+1.Version control and History tracking<br>
+2.Collaboration and Code integration<br>
 3.Remote storage and Project managment
 
 ## 4. What happens when you `fork` a repository?

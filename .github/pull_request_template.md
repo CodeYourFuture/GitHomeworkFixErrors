@@ -15,11 +15,11 @@ If your PR is rejected, check the task list.
 
 # Your Details
 
-- Your Name:
-- Your City:
-- Your Slack Name:
+- Your Name: Declan Williams
+- Your City: Sheffield
+- Your Slack Name: Declan
 
 # Homework Details
 
-- Module:
-- Week:
+- Module: ITP Onboarding
+- Week: 1
