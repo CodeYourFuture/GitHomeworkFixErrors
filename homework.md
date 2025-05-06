@@ -10,15 +10,15 @@ JavaScript is a versatile scripting language primarily used to add interactive a
 
 ## 3. What three problems does Git & GitHub solve?
 
-Merge conflicts, protected branches, and branching strategy
+Merge conflicts, protected branches, and branching strategy.
 
 ## 4. What happens when you `fork` a repository?
 
-You make a copy of the project for yourself,which Forks let you make changes to a project without affecting the original repository
+You make a copy of the project for yourself,which Forks let you make changes to a project without affecting the original repository.
 
 ## 5. What happens when you clone a repository?
 
-we will make a copy of them forked repository on our local system
+we will make a copy of them forked repository on our local system.
 
 ## 6. What is a Pull Request?
 
