@@ -6,7 +6,7 @@
 
 ## 2. What is JavaScript?
 
-An exciting new play about coffee.
+Javascript is programming language for the web.
 
 ## 3. What three problems does Git & GitHub solve?
 
