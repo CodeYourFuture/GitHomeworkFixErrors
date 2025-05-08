@@ -24,4 +24,4 @@ You download the repository to your local computer so you can work on it.
 
 ## 6. What is a Pull Request?
 
-When you send a file over the internet
+A request to merge your code changes from your forked branch into the original repository.
