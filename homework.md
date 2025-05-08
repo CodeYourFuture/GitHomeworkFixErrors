@@ -16,7 +16,7 @@ GitHub and Git allows us to solve Duplication or Redundancy work, they allow col
 
 ## 4. What happens when you `fork` a repository?
 
-we replicate/copy the exact version of one repo to our repo.
+we replicate/copy the exact version of one Repo to our repo.
 
 ## 5. What happens when you clone a repository?
 
