@@ -16,7 +16,7 @@ A programming language mainly used for creating interactive effects within web b
 
 ## 4. What happens when you `fork` a repository?
 
-You delete it
+You create a copy of someone else's repository under your GitHub account.
 
 ## 5. What happens when you clone a repository?
 
