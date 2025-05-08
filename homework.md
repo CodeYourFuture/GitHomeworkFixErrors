@@ -10,7 +10,9 @@ A programming language mainly used for creating interactive effects within web b
 
 ## 3. What three problems does Git & GitHub solve?
 
-When people want to show off code to each other they can put it on GitHub
+1. Version control – keeping track of code changes over time.
+2. Collaboration – allowing multiple developers to work on the same project.
+3. Backup and sharing – storing code online and sharing it easily.
 
 ## 4. What happens when you `fork` a repository?
 
