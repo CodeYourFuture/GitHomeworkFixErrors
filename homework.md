@@ -14,7 +14,7 @@ Git and GitHub solve problems related to version control, collaboration, and pro
 
 ## 4. What happens when you `fork` a repository?
 
-You can make any changes you want to the code without affecting the original repository.
+When you for a repository, you can make any changes you want to the code without affecting the original repository.
 
 ## 5. What happens when you clone a repository?
 
