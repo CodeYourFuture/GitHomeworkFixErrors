@@ -6,7 +6,7 @@
 
 ## 2. What is JavaScript?
 
-An exciting new play about programing.
+An exciting new play about programming language.
 
 ## 3. What three problems does Git & GitHub solve?
 
