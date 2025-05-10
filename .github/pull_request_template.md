@@ -15,7 +15,7 @@ If your PR is rejected, check the task list.
 
 # Your Detail
 
-- Your Name:
+- Your Name: Giovanna
 - Your City:
 - Your Slack Name:
 
