@@ -6,7 +6,7 @@
 
 ## 2. What is JavaScript?
 
-A programming language
+It's a scripting language primarily used to add interactive elements and dynamic behaviour to web pages.
 
 ## 3.  What three problems does Git & GitHub solve?
 
