@@ -6,7 +6,7 @@ What is 2 + 2?
 
 4
 
-## Question2
+## Question 2
 
 What is the opposite of Black?
 
