@@ -13,7 +13,7 @@ If your PR is rejected, check the task list.
 
 -->
 
-# Your Details
+# Your Detail
 
 - Your Name:
 - Your City:
