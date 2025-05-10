@@ -10,32 +10,31 @@ What is 2 + 2?
 
 What is the opposite of Black?
 
-Purple
+white
 
 ## Question 3
 
 What is the  2 * 3 * 6 * 1 * 10 * 34?
 
-1322
+12240
 
 ## Question 4 
 
 What does HTML stand for?
 
-Hyper Tall Massive Language
+Hyper Text markap language
 
 ## Question 5
 
 What is CSS useful for?
-
-Making a website go faster
+stayling the website
 
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-#h1 {
+h1 {
 
 }
 ```
@@ -50,61 +49,59 @@ A programming language used on the internet
 
 What three problem does Git & Github solve?
 
-When people want to show off code to each other they can put it on Github
+we can change code.see your previous code ,chegech somone's code 
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You delete it
+creat a copy of that repository unter your git hub account.
 
 ## Question 10 
 
 What happens when you clone a repostory?
 
-It send it to a friend
+copy a repository from git hub to your local machine
 
 ## Question 11
 
 What is a Pull Request?
 
-When you send a file over the internet
+a proposal to merge a set of changes from one branch into another.
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+list the commits made in that repository in revers chronological order
 
 ## Question 13
 
 What does it meant to "push" changes to Github?
 
-You send the changes of your local repository to Github
+how to transfer commits from your local repository to a remote repo.
 
 ## Question 14
 
 What is Github?
 
-A place for us to store and share our code.
+it is a proprietary developer platform to creat ,stor,manage and share their code.
 
 ## Question 15
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
-
+saving a snapshot of the current state of your progect's files to the repository history
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
-
-Microsoft Word
+visual stadio code.
 
 ## Question 17
 
 What do you use "Commit Messages" for?
 
-To record what changes you made to the code
+to  document changes made to a codebase within a git repository,providing context for why and how changes were implemented.
 
 ## Question 18
 
