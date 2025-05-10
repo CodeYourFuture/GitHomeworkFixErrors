@@ -24,4 +24,4 @@ Local copy of repo to work on it.
 
 ## 6. What is a Pull Request?
 
-A pull request(PR) is a proposal to merge a set of changes from one branch into another
+A pull request(PR) is a proposal to merge a set of changes from one branch into another.
