@@ -16,8 +16,9 @@ If your PR is rejected, check the task list.
 # Your Detail
 
 - Your Name: Giovanna
-- Your City:
-- Your Slack Name:
+- Your City: London
+- Your Slack Name: gisbcode
+
 
 # Homework Details
 
