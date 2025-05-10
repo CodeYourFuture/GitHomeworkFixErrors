@@ -6,7 +6,7 @@
 
 ## 2. What is JavaScript?
 
-JavaScript is a versatile scripting or programming language primarily used to add interactivity and dynamic content to websites.
+JavaScript is a versatile scripting or programming language primarily used to add interactivity and dynamic content to websites
 
 ## 3. What three problems does Git & GitHub solve?
 
