@@ -6,7 +6,7 @@
 
 ## 2. What is JavaScript?
 
-An exciting new play about coffee.
+A programming language used to create interactive pages
 
 ## 3. What three problems does Git & GitHub solve?
 
