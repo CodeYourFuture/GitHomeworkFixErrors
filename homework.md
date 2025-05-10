@@ -2,24 +2,25 @@
 
 ## 1. What is 2 + 2?
 
-5
+4
 
 ## 2. What is JavaScript?
 
-An exciting new play about coffee.
+JavaScript is a versatile scripting language primarily used to add interactive elements and dynamic behavior to web pages. It's also used for server-side development and in other applications like game development. In essence, JavaScript enables websites to go beyond static displays, allowing for animations, user interaction, and dynamic content updates. 
 
 ## 3. What three problems does Git & GitHub solve?
 
-When people want to show off code to each other they can put it on GitHub
+Introduction: Git and GitHub have become indispensable tools for software development, enabling collaboration, version control, and streamlined workflows.
 
 ## 4. What happens when you `fork` a repository?
 
-You delete it
+i make a copy in my github account
 
 ## 5. What happens when you clone a repository?
 
-It send it to a friend
+i make a copy in my computer
 
 ## 6. What is a Pull Request?
 
-When you send a file over the internet
+A pull request (PR), also known as a merge request, is a formal request in software development to merge changes from one branch (often a feature branch) into another, typically the main branch. It allows for code review and discussion before the changes are integrated into the main codebase. 
+
