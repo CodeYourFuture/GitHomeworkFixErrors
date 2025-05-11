@@ -1,8 +1,6 @@
 # Linus's Homework
 
-## Question 1
-
-What is 2 + 2?
+## 1. What is 2 + 2?
 
 4
 
@@ -32,7 +30,9 @@ It is used to describe the presentation of the document in HTML and it is useful
 
 ## Question 6
 
-Using CSS, how would I select every `<h1>` tag on the page?
+## 2. What is JavaScript?
+
+An exciting new play about coffee.
 
 h1 {
 
@@ -54,17 +54,19 @@ It allows users to work together on a project. It also allows users to create, c
 
 What happens when you `fork` a repository?
 
+## 3. What three problems does Git & GitHub solve?
+
+When people want to show off code to each other they can put it on GitHub
+
+## 4. What happens when you `fork` a repository?
+
 You copy it without changing the original repository. 
 
-## Question 10 
-
-What happens when you clone a repostory?
+## 5. What happens when you clone a repository?
 
 It copies all data which github has about a repository at that time including all files and versions.
 
-## Question 11
-
-What is a Pull Request?
+## 6. What is a Pull Request?
 
 a proposal to merge changes from one branch of a repository into another, typically from a feature branch into the main branch. It facilitates code reviews, encourages collaboration, and allows developers to integrate new features or bug fixes without immediately affecting the main codebase. 
 
@@ -72,4 +74,4 @@ a proposal to merge changes from one branch of a repository into another, typica
 
 What is the Git History log?
 
-Git log lists the commits made in that repository in reverse chronological order.
+When you send a file over the internet
