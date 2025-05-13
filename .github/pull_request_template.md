@@ -1,12 +1,15 @@
 <!--
 
-The title for your pull request should be made in this format
+You must title your PR like this:
 
-CITY CLASS_NO - FIRST_NAME LAST_NAME - MODULE - WEEK_NO
+COHORT_NAME | FIRST_NAME LAST_NAME | REPO_NAME | WEEK
 
 For example,
 
-London Class 7 - Chris Owen - HTMl/CSS - Week 1
+ITP-OCT-24 | Carol Owen | GitHomeworkFixErrors | Week1
+
+Complete the task list below this message.
+If your PR is rejected, check the task list.
 
 -->
 
