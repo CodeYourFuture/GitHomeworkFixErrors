@@ -6,7 +6,7 @@
 
 ## 2. What is JavaScript?
 
-A programming language.
+An object-oriented computer programming language commonly used to create interactive effects within web browsers.
 
 ## 3. What three problems does Git & GitHub solve?
 
