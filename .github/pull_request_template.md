@@ -1,3 +1,4 @@
+
 <!--
 
 You must title your PR like this:
@@ -15,11 +16,11 @@ If your PR is rejected, check the task list.
 
 # Your Details
 
-- Your Name:
-- Your City:
-- Your Slack Name:
+- Your Name: Roja Alagurajan
+- Your City: Birmingham
+- Your Slack Name: Roja Alagurajan
 
 # Homework Details
 
-- Module:
-- Week:
+- Module:Git & GitHub
+- Week: Week 1
