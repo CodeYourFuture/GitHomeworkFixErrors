@@ -14,4 +14,4 @@ Can you help him to fix or improve the answers to his homework?
 ## How to check your work?
 If you have correctly submitted your PR, you can find it in https://github.com/CodeYourFuture/GitHomeworkFixErrors/pulls.
 
-Please note that your PR will not undergo an official review, as none is required.
+Please note that your PR will not undergo an official review, as none is required. Most PRs at CodeYourFuture get reviewed, but this one is just for you to practice creating them.
