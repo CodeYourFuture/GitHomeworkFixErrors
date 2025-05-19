@@ -6,16 +6,16 @@
 
 ## 2. What is JavaScript?
 
-   an object-oriented computer programming language commonly used to creat interactive effects within web browsers.
+   An object-oriented computer programming language commonly used to creat interactive effects within web browsers.
 
 ## 3. What three problems does Git & GitHub solve?
 
-   Enabling collaboration,Versioncotrol, and streamlined workflows.
+   Enabling collaboration, Version control, and streamlined workflows.
 
 ## 4. What happens when you `fork` a repository?
    forking a repository means you can make any changes you want to the code without affecting the original project.
 ## 5. What happens when you clone a repository?
-   Cloning a repository pulls down a full copy of all the repository that GitHub.com has at that piont in time,including all versions of every file
+   Cloning a repository pulls down a full copy of all the repository that GitHub.com has at that point in time,including all versions of every file
    and folder for the project.
 
 ## 6. What is a Pull Request?
