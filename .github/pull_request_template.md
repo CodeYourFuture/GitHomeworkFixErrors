@@ -11,13 +11,12 @@ For example,
 -->
 
 ## Learners, PR Template
-
 <!--
   The purpose of the self-checklist is to help ensure the quality and completeness of a PR submission.
 
-  You must complete all the tasks in the self-checklist and tick the boxes for the ones you've finished.
+  You must complete all the tasks in the self-checklist and tick the boxes for those you have finished.
 
-  You can tick a box by changing [ ] to [x] (without any space in the box).
+  You can tick a box by changing [ ] to [x] (with no spaces inside the brackets).
 -->
 
 Self checklist
@@ -31,6 +30,6 @@ Self checklist
   When you submit a PR, you're submitting changes you made to your own copy (fork) of the repository and requesting a review of those changes.
   It is best practice to leave a brief description of the changes you have made.
 
-  You must replace "Brief explain your PR." with a brief description of the changes you have made.
+  You must replace "Briefly explain your PR." with a brief description of the changes you have made.
 -->
 Briefly explain your PR.
