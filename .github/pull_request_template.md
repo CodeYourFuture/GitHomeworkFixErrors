@@ -2,24 +2,34 @@
 
 You must title your PR like this:
 
-COHORT_NAME | FIRST_NAME LAST_NAME | REPO_NAME | WEEK
+REGION | COHORT_NAME | FIRST_NAME LAST_NAME | PROJ_NAME
 
 For example,
 
-ITP-OCT-24 | Carol Owen | GitHomeworkFixErrors | Week1
-
-Complete the task list below this message.
-If your PR is rejected, check the task list.
+  London | May-2025 | Carol Owen | Sprint-1
 
 -->
 
-# Your Details
+## Learners, PR Template
+<!--
+  The purpose of the self-checklist is to help ensure the quality and completeness of a PR submission.
 
-- Your Name:
-- Your City:
-- Your Slack Name:
+  You must complete all the tasks in the self-checklist and tick the boxes for those you have finished.
 
-# Homework Details
+  You can tick a box by changing [ ] to [x] (with no spaces inside the brackets).
+-->
 
-- Module:
-- Week:
+Self checklist
+
+- [ ] I have titled my PR with REGION | COHORT_NAME | FIRST_NAME LAST_NAME | PROJ_NAME
+- [ ] My changes meet the requirements outlined in the `README.md` of this task
+
+## Changelist
+
+<!--
+  When you submit a PR, you're submitting changes you made to your own copy (fork) of the repository and requesting a review of those changes.
+  It is best practice to leave a brief description of the changes you have made.
+
+  You must replace "Briefly explain your PR." with a brief description of the changes you have made.
+-->
+Briefly explain your PR.
