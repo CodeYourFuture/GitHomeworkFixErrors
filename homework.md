@@ -14,11 +14,11 @@ When people want to show off code to each other they can put it on GitHub
 
 ## 4. What happens when you `fork` a repository?
 
-You delete it
+You copy it
 
 ## 5. What happens when you clone a repository?
 
-It send it to a friend
+duplicate it
 
 ## 6. What is a Pull Request?
 
