@@ -2,7 +2,7 @@
 
 ## 1. What is 2 + 2?
 
-5
+5. Fix answers in homework
 
 ## 2. What is JavaScript?
 
