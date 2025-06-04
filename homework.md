@@ -16,7 +16,7 @@ JavaScript is a programming language used to make websites interactive.
 
 ## 4. What happens when you `fork` a repository?
 
-You delete it
+You make a copy of the repository on your GitHub account so you can edit it without affecting the original.
 
 ## 5. What happens when you clone a repository?
 
