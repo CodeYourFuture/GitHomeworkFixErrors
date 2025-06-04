@@ -20,7 +20,7 @@ You make a copy of the repository on your GitHub account so you can edit it with
 
 ## 5. What happens when you clone a repository?
 
-It send it to a friend
+You download a copy of the GitHub repository to your own computer.
 
 ## 6. What is a Pull Request?
 
