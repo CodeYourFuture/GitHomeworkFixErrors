@@ -24,4 +24,4 @@ You download a copy of the GitHub repository to your own computer.
 
 ## 6. What is a Pull Request?
 
-When you send a file over the internet
+A Pull Request is a way to suggest changes to a repository for review and merging.
