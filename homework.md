@@ -10,7 +10,7 @@ It is a programming language.
 
 ## 3. What three problems does Git & GitHub solve?
 
-Git and GitHub allow developers to share their project on a centralised platform, to track changes to code over time, and to revert to previous versions if something goes wrong.
+Git and GitHub allow developers to share their projects on a centralised platform, to track changes to codes over time, and to revert to previous versions if something goes wrong.
 
 ## 4. What happens when you `fork` a repository?
 
