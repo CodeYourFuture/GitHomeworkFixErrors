@@ -1,12 +1,11 @@
 # Linus's Homework
 
 ## 1. What is 2 + 2?
-
-5
+4
 
 ## 2. What is JavaScript?
 
-An exciting new play about coffee.
+An Scripting language 
 
 ## 3. What three problems does Git & GitHub solve?
 
@@ -18,7 +17,7 @@ You delete it
 
 ## 5. What happens when you clone a repository?
 
-It send it to a friend
+make a local copy to your machine
 
 ## 6. What is a Pull Request?
 
