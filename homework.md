@@ -21,4 +21,4 @@ make a local copy to your machine
 
 ## 6. What is a Pull Request?
 
-When you send a file over the internet
+When you want submit the changes to the repository
