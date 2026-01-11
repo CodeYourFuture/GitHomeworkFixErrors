@@ -26,4 +26,4 @@ You download a copy of the repository from GitHub onto your computer.
 
 ## 6. What is a Pull Request?
 
-When you send a file over the internet
+A Pull Request is a request to add your changes into another repository (
