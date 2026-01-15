@@ -2,19 +2,22 @@
 
 ## 1. What is 2 + 2?
 
-5
+4
 
 ## 2. What is JavaScript?
 
-An exciting new play about coffee.
+JavaScript is a high-level, dynamic programming language primarily used to make websites interactive and dynamic.
 
 ## 3. Name three problems Git & GitHub solve?
 
-When people want to show off code to each other they can put it on GitHub
+1. Version control and history tracking
+2. Colaboration and Conflict Management.
+3. Hosting, Management and backup of files.
 
+ 
 ## 4. What happens when you `fork` a repository?
 
-You delete it
+Create a new unique copy that can be used to work on. 
 
 ## 5. What happens when you clone a repository?
 
