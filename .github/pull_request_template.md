@@ -1,8 +1,7 @@
 <!--
-
 You must title your PR like this:
 
-REGION | COHORT_NAME | FIRST_NAME LAST_NAME | PROJ_NAME
+LONDON | January - 2026 | Khaliun Baatarkhuu | Sprint-1
 
 For example,
 
@@ -32,4 +31,4 @@ Self checklist
 
   You must replace "Briefly explain your PR." with a brief description of the changes you have made.
 -->
-Briefly explain your PR.
+Given some indepth answers and deleted the wrong ones.
