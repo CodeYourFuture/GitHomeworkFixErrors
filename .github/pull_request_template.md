@@ -1,7 +1,6 @@
 <!--
 
-You must title your PR like this:
-
+You must title yo
 REGION | COHORT_NAME | FIRST_NAME LAST_NAME | PROJ_NAME
 
 For example,

@@ -22,4 +22,4 @@ it creates an exact copy of your repostiory an keeps the repository cpnnected to
 
 ## 6. What is a Pull Request?
 
-A pull request is the latest changes to your code waiting for approval .
+A pull request is the latest changes to your code waiting for approval . 
