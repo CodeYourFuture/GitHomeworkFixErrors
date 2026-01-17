@@ -8,10 +8,7 @@ Can you help him to fix or improve the answers to his homework?
 2. Clone the repository to your computer
 3. Create a branch with an appropriate name for the task you're on
 3. Fix the errors in Linus's homework in `homework.md`
-4. Create a Pull Request back to this repository with the correct answers. Make sure your Pull Request is created in CodeYourFuture's fork, not your personal fork.
+4. Create a Pull Request from your branch back to your Main (NOT MIGRACODE repo) with the correct answers.
+5. Share the link to your Pull Request with your class to be reviewed and give feedback to others.
 
-
-## How to check your work?
-If you have correctly submitted your PR, you can find it in https://github.com/CodeYourFuture/GitHomeworkFixErrors/pulls.
-
-Please note that your PR will not undergo an official review, as none is required. Most PRs at CodeYourFuture get reviewed, but this one is just for you to practice creating them.
+Do not submit the PR to be Reviewed in the Google Form for Volunteers.
