@@ -21,8 +21,8 @@ For example,
 
 Self checklist
 
-- [ ] I have titled my PR with REGION | COHORT_NAME | FIRST_NAME LAST_NAME | PROJ_NAME
-- [ ] My changes meet the requirements outlined in the `README.md` of this task
+- [x] I have titled my PR with REGION | COHORT_NAME | FIRST_NAME LAST_NAME | PROJ_NAME
+- [x] My changes meet the requirements outlined in the `README.md` of this task
 
 ## Changelist
 
@@ -33,3 +33,4 @@ Self checklist
   You must replace "Briefly explain your PR." with a brief description of the changes you have made.
 -->
 Briefly explain your PR.
+Homework corrected as per the assignment
