@@ -1,12 +1,6 @@
 <!--
 
-You must title your PR like this:
-
-REGION | COHORT_NAME | FIRST_NAME LAST_NAME | PROJ_NAME
-
-For example,
-
-  London | May-2025 | Carol Owen | Sprint-1
+  London | Sept-2025 | Adam Gorbe | Sprint-1: Homework
 
 -->
 
@@ -21,8 +15,8 @@ For example,
 
 Self checklist
 
-- [ ] I have titled my PR with REGION | COHORT_NAME | FIRST_NAME LAST_NAME | PROJ_NAME
-- [ ] My changes meet the requirements outlined in the `README.md` of this task
+- [X] I have titled my PR with REGION | COHORT_NAME | FIRST_NAME LAST_NAME | PROJ_NAME
+- [X] My changes meet the requirements outlined in the `README.md` of this task
 
 ## Changelist
 
@@ -32,4 +26,4 @@ Self checklist
 
   You must replace "Briefly explain your PR." with a brief description of the changes you have made.
 -->
-Briefly explain your PR.
+I replaced the wrong answers to the correct ones for all 6 questions.
