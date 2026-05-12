@@ -21,8 +21,8 @@ Forking a repository means to create a personal copy of someone else's project o
 
 ## 5. What happens when you clone a repository?
 
-It send it to a friend
+This is when you make a copy of an existing online project to keep on personal computer
 
 ## 6. What is a Pull Request?
 
-When you send a file over the internet
+PR is a way of notifying team members that you have finished working on the code and want to marge it with the main body of work.
