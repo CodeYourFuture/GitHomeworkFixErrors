@@ -6,7 +6,7 @@
 
 ## 2. What is JavaScript?
 
-An exciting new play about coffee.
+is a programming language that initially served as one of the core technologies of www (world wide web) but has now evolved into one of the major programming language used to build mobile app, desktop softwares and more.
 
 ## 3. Name three problems Git & GitHub solve?
 
