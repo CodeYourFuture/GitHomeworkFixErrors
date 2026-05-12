@@ -10,7 +10,10 @@ is a programming language that initially served as one of the core technologies 
 
 ## 3. Name three problems Git & GitHub solve?
 
-When people want to show off code to each other they can put it on GitHub
+This two work together to streamline how people write, manage and share codes, the following are 3 problems this solves
+1. it serves as a centralized back up for code/work
+2. it helps to ease the troubles of accidental overwriting when collaborating with other coders
+3.  
 
 ## 4. What happens when you `fork` a repository?
 
