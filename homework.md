@@ -2,24 +2,26 @@
 
 ## 1. What is 2 + 2?
 
-5
+4
 
 ## 2. What is JavaScript?
 
-An exciting new play about coffee.
+JavaScript is a programming language that makes web pages interactive.
 
 ## 3. Name three problems Git & GitHub solve?
 
-When people want to show off code to each other they can put it on GitHub
+1. Version control — keeps track of every change you make.
+2. Collaboration — lets multiple people work on the same project safely.
+3. Backup & recovery — stores your code online so nothing gets lost.
 
 ## 4. What happens when you `fork` a repository?
 
-You delete it
+You can copy that repo
 
 ## 5. What happens when you clone a repository?
 
-It send it to a friend
+Cloning creates a full local copy of the entire repository on your computer.
 
 ## 6. What is a Pull Request?
 
-When you send a file over the internet
+A pull request is when you ask someone to check your changes before adding them to the main project.
