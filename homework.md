@@ -6,7 +6,7 @@
 
 ## 2. What is JavaScript?
 
-An exciting new play about coffee.
+JavaScript is a programming language used to make websites interactive and dynamic. It can change content on a page, respond to clicks, create animations, and power web apps.
 
 ## 3. Name three problems Git & GitHub solve?
 
