@@ -22,4 +22,4 @@ A copy of the repository is downloaded on a computer
 
 ## 6. What is a Pull Request?
 
-When you send a file over the internet
+A pull request is a feauture that let code get reviewed by others. 
