@@ -18,7 +18,7 @@ Another copy of the repository is created
 
 ## 5. What happens when you clone a repository?
 
-It send it to a friend
+A copy of the repository is downloaded on a computer
 
 ## 6. What is a Pull Request?
 
