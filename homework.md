@@ -14,7 +14,7 @@ To go back and correct errors, To work in teams and to avoid losing works
 
 ## 4. What happens when you `fork` a repository?
 
-You delete it
+Another copy of the repository is created 
 
 ## 5. What happens when you clone a repository?
 
