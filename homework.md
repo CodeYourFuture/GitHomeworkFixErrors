@@ -10,7 +10,7 @@ JavaScript is a programing language.
 
 ## 3. Name three problems Git & GitHub solve?
 
-When people want to show off code to each other they can put it on GitHub
+To go back and correct errors, To work in teams and to avoid losing works
 
 ## 4. What happens when you `fork` a repository?
 
