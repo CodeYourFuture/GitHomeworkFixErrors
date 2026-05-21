@@ -26,4 +26,4 @@ When you clone the repository - you dowload the files the completed history to y
 
 ## 6. What is a Pull Request?
 
-When you send a file over the internet
+A pull request is a safety check of the code to ensure there is no bugs that will merge into the main project - this way you can leave comment to each other and make the necessary changes if needed.
