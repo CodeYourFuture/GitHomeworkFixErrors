@@ -22,7 +22,7 @@ With a fork you creat a copy of the repository but under your name - whit the fo
 
 ## 5. What happens when you clone a repository?
 
-It send it to a friend
+When you clone the repository - you dowload the files the completed history to your own computer.
 
 ## 6. What is a Pull Request?
 
