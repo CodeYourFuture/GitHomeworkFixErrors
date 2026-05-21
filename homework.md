@@ -18,7 +18,7 @@ You can access the repository from anywhere as it’s cloud based.
 
 ## 4. What happens when you `fork` a repository?
 
-You delete it
+With a fork you creat a copy of the repository but under your name - whit the forked repot you can start working on your own ideas and you can share this later once it’s completed.
 
 ## 5. What happens when you clone a repository?
 
