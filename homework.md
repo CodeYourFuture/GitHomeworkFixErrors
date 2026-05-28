@@ -6,9 +6,9 @@
 
 ## 2. What is JavaScript?
 
-A programming language that interacts with HTML (structure and content) and CSS (style) to add interactivity and create a dynamic experience for users. 
+A programming language that makes websites etc. more dynamic: for example, enabling user interaction &/or animating objects. It works in conjunction with HTML (structure and content) and CSS (style).
 
-It is an interpreted language, so it is executed in a user's browser rather than being processed by the server first.
+JavaScript is an interpreted language, so it is executed in a user's browser rather than being processed by the server first.
 
 ## 3. Name three problems Git & GitHub solve?
 
