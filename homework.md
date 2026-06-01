@@ -22,7 +22,7 @@ When you fork a repository you are making your own copy of someone else's projec
 
 ## 5. What happens when you clone a repository?
 
-It send it to a friend
+When you clone a repository it means you are downloading the project onto your computer so you can work on it
 
 ## 6. What is a Pull Request?
 
