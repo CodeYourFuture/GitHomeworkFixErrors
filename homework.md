@@ -26,5 +26,5 @@ When you clone a repository it means you are downloading the project onto your c
 
 ## 6. What is a Pull Request?
 
-A pull request is when you ask the project owner to review your changes made to the project and if they like the changes to add it to the main project
+A Pull Request is a request for someone to check your work and approve it before it becomes part of the main project.
 
