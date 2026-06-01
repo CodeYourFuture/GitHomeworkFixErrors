@@ -1,8 +1,9 @@
+
 # Linus's Homework
 
 ## 1. What is 2 + 2?
 
-5
+4
 
 ## 2. What is JavaScript?
 
