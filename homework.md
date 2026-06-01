@@ -1,25 +1,30 @@
+
 # Linus's Homework
 
 ## 1. What is 2 + 2?
 
-5
+4
 
 ## 2. What is JavaScript?
 
-An exciting new play about coffee.
+Javascript is a language that tells websites what to do.
+It makes pages move, change, and react when you click things.
 
 ## 3. Name three problems Git & GitHub solve?
-
-When people want to show off code to each other they can put it on GitHub
+Git and Github help people to:
+1. Save their work so nothing gets lost
+2. Go back in time if they make a mistake
+3. Work together without breaking each other's code
 
 ## 4. What happens when you `fork` a repository?
 
-You delete it
+When you fork a repository you are making your own copy of someone else's project so you can work on it.
 
 ## 5. What happens when you clone a repository?
 
-It send it to a friend
+When you clone a repository it means you are downloading the project onto your computer so you can work on it
 
 ## 6. What is a Pull Request?
 
-When you send a file over the internet
+A Pull Request is a request for someone to check your work and approve it before it becomes part of the main project.
+
