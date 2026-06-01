@@ -18,7 +18,7 @@ Git and Github help people to:
 
 ## 4. What happens when you `fork` a repository?
 
-You delete it
+When you fork a repository you are making your own copy of someone else's project so you can work on it.
 
 ## 5. What happens when you clone a repository?
 
