@@ -11,8 +11,10 @@ Javascript is a language that tells websites what to do.
 It makes pages move, change, and react when you click things.
 
 ## 3. Name three problems Git & GitHub solve?
-
-When people want to show off code to each other they can put it on GitHub
+Git and Github help people to:
+1. Save their work so nothing gets lost
+2. Go back in time if they make a mistake
+3. Work together without breaking each other's code
 
 ## 4. What happens when you `fork` a repository?
 
