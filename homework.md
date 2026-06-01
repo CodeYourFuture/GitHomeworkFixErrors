@@ -7,7 +7,8 @@
 
 ## 2. What is JavaScript?
 
-An exciting new play about coffee.
+Javascript is a language that tells websites what to do.
+It makes pages move, change, and react when you click things.
 
 ## 3. Name three problems Git & GitHub solve?
 
