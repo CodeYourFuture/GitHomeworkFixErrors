@@ -25,3 +25,4 @@ Cloning a repository copies the project from GitHub to your computer.
 ## 6. What is a Pull Request?
 
 A Pull Request is a request to merge your changes into another repository or branch.
+
