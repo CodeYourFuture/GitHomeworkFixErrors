@@ -1,0 +1,22 @@
+# Linus's Homework
+## 1. What is 2 + 2?
+5
+
+## 2. What is JavaScript?
+A scripting language that enables you to create dynamically updating content, control multimedia, animate images etc.
+An exciting new play about coffee.
+
+## 3. Name three problems Git & GitHub solve?
+Showcase your work, Let other review yur code, and make suggestions to improve it.
+Track and mange changes to your code over time
+managing versions of source code or data.
+When people want to show off code to each other they can put it on GitHub
+
+## 4. What happens when you `fork` a repository?
+Forking a repo means you can make any changes you want to the code without affecting the original project. you can choose to sharethose changes with the original repo through the pull request process.
+
+## 5. What happens when you clone a repository?
+Cloning a Git repo ceates a complete, local copy of a remote project on your machine.It download all the projects files, every versin in the project history, and full version-control metadata, This allows you  to work offline and tranck changes locally.
+
+## 6. What is a Pull Request?
+Pull requests are proposal tomerge code changes into a project. it serves as a dedicated space for team members to discuss, review, and refine changes before they become paret of the main project.
