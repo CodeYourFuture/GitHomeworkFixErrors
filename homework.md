@@ -2,15 +2,16 @@
 
 ## 1. What is 2 + 2?
 
-29
+4
 
 ## 2. What is JavaScript?
 
-A programming language
+JavaScript is a programming language primarily used to make websites interactive and dynamic. It runs in web browsers and can also be used for backend development using environments such as Node.js.
 
 ## 3. Name three problems Git & GitHub solve?
 
 Git and Github:
+
 1. Make it easy for multiple people to collaborate
 2. Both have good version control, so it is easy to know which is the latest version
 3. Each iteration of changes is saved so that it is easy to go back to a previous working version in case of file corruption
