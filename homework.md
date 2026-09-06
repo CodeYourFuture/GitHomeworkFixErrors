@@ -1,5 +1,8 @@
 # Linus's Homework
 ## Tips
+1. Break the problem into tiny steps
+2. Google the exact error or question
+3. Take a short break
 
 
 
