@@ -1,4 +1,7 @@
 # Linus's Homework
+## Tips
+
+
 
 ## 1. What is 2 + 2?
 
